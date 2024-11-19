@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"DC_Ops_Other_Lkup",
+	"Hierarchies@Code.links":
+	[
+		"DC_Ops_Other_Lkup.hierarchies/DC_Ops_Other_Lkup.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('DC_Ops_Other_Lkup')/Hierarchies('DC_Ops_Other_Lkup')"
+	}
+}

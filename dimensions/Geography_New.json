@@ -1,0 +1,15 @@
+{
+	"@type":"Dimension",
+	"Name":"Geography_New",
+	"AllLeavesHierarchyName":"Leaves",
+	"Hierarchies@Code.links":
+	[
+		"Geography_New.hierarchies/Geography_New.json",
+		"Geography_New.hierarchies/Map Region.json",
+		"Geography_New.hierarchies/Metro Market Category.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Geography_New')/Hierarchies('Geography_New')"
+	}
+}

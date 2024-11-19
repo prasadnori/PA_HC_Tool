@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"Target_}Process - Cube Head Count Plan New Load - 85656",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Version')/Hierarchies('Version')/Elements('FORECAST_24SEP')"
+		}
+	]
+}

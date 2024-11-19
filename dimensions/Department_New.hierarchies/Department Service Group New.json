@@ -1,0 +1,6270 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Department Service Group New",
+	"Elements":
+	[
+		{
+			"Name":"Total Service Group",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Unknown",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"7E6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01C13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A1L",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A6W",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2VN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FDZ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JAN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B1J",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"005506",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BSO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CWZ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ZWN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U11",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5M7502",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5M7505",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"973099",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"558830",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"541203",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"542501",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IGS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GDD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BMI",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A1D",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"16G",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"J2Q",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IZK",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AZ33A0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"6UA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Network",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"UCH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SB7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"KG0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ADA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5M1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A3O",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AFE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A6X",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"158",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DC Ops",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"NI3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U3F",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B5N",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"P7W",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"6PE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"901582",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WG5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"J1P",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0438EC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043IU1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"410530",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"542602",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"02ACS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"XNN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"426703",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"807U6B",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"3JS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"37H",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CMY",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A2Q",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"552601",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A7B",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A1H",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SFL001",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SFL002",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JKT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043IU5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"XV8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"H5R",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BXD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BXC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ZZY",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SF0020",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SL5M14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5MLON2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A6V",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IRT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5MSOFT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U6X",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SLO020",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"015500",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A1F",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"9KA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B1N",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D7B",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0438EB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"QC8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SXB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"32Q",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TLM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5M7501",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IOU",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Y6J",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B1I",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SLN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5MLON1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5HH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A6Z",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SLO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B90",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SL4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VRQ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"OUF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"QZA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"KR3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VQF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"P1T",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WU0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"830349",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"542607",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"UA4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"UJD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HS7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BL7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"H3I",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VMWare",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"0AJ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"540606",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"550608",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A6Y",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"825540",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00H011",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7CO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7L2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7MU",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"542605",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K9P",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MZA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"KEN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MPH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01C18",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"73S",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00J",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MDT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IQS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MAA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GGS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"8E7502",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"551203",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MIN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00D341",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"551209",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7IS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AFH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ZJ5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"8BW",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MV2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"461012",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4HV",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4HW",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"9HY",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AZ33B0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CPM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U6A2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01C14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SQM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BXE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"36L",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WN8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JVR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01C16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"8300U3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WVW",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AZ3220",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"542601",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043BMM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"H1K",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00D484",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BLE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"X2W",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"005503",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"J6P",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A1G",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SF0018",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00K",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7EF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01CLF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"UR4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"H9F",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"H5X",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"410528",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0BE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DMS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"551205",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SRD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5MLON6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5MLON4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5MLON5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043BMN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043BMF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"XBS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7FB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LMP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7FJ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00D260",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SGG",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4HK",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EPC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B59",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LGB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IaaS PMO",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"L5S",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"O55",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GMD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"COE8EL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"005504",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0T0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GTE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"541204",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B98",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B8Q",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U67501",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5J8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"KV2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VU2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"8E7507",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"J73",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"005508",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"542606",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VXD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4MQ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LJK",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GQY",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"005402",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043CNO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7IR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"887312",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"I6U",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RY7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"XSSO8E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BXF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"879900",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"N8E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"N8R",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"N97",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"N84",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GSP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"8E7501",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00D293",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"413002",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7FE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0003BJ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00WA01",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"003367",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"540607",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A9U",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"08E816",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"410509",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"410506",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D2P",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"G1Q",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01C23",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B2N",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043C68",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043PAG",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GQF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GRQ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"8EX",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"8EN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BXW",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BSJ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"73T",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Storage",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"A7A",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"H2O",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4HE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SF0017",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SFL003",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"L6O",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JI0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NUA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VWI",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SFH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MP0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LKQ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7EP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"541205",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"551202",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A1J",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NA9",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"37X",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"605600",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K9O",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"1DJ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"1DK",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HLO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"UB0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"F5M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"QWP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D1H",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"1BI",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JEJ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043BND",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043CNB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"W7J",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"005507",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"551204",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"540602",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ZICAU6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0DG",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SLO040",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SLO050",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"QNQ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"XBD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"W3O",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AEL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CB1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SRH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B8M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B8N",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VIA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B7M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B7L",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"H0I",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2DY",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"L3V",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043CMU",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"8EH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A1K",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LIF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U7A",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4FU",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"8AQ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B43",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D5L",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7FF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"3N42A0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"870198",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CLD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"413003",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SAC590",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"3N40A0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"3N42C0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VB3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U3A",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VBJ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0003BK",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D6J",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D4E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7YL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LB7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"1AO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"OL9",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"UTJ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"32K",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"QFI",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"N00",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LGP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Workload Eng Svc",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"0DF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D4O",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BJ0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5M7507",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IRZ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A4J",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"UIU",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"E7G",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"401207",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U37501",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VJB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A3L",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"461004",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"9SP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IQL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"X8E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SG8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01CLK",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01C01",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SF0014",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Z02981",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"86B",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"1KZ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AE7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7AP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"145800",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"M6O",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FYA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HGN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"8168EG",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043CND",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"542604",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"9EC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00D273",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SX0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SL5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"T6I",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0003BH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"461009",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FRP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"8L1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NFL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"551210",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0DC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ZLS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ILX",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SF0022",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U3E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"461010",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"542603",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0WS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7I5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"005M01",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SLOJP0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NWP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"O9J",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"8U7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4IE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00E428",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5VD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"9SM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LRH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AGS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"540610",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"550605",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"540609",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00D342",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"8078E1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4V3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"W4D",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AE8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CIH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VLT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D5O",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"19C",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WV5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"YT0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"S7Z",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"540612",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SZE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AZ3240",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D7U",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"461061",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SM6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7U7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CNU",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0438EM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043BMP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BLC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CFN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"10X",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"450230",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BRO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"1DM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"C3BTO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0W4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"F1O",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ZMSOFT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00G",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JAA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043BNB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"QCC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01CLP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01C15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2B5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A2L",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D5G",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RRN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TGL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BGS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5M7D24",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SF0021",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A7D",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A4K",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VMO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0003BL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A3A",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"1DL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VOP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SX7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00D363",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4HP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EWM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"04305M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"XH2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0GX",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"3DR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0DE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BDL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"540603",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"540604",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4HQ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"9FK",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HMA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IH2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"34R",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LBY",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VC1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043CMM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01ACS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"V32",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0GS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D5M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"18Z",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"540601",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A2T",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D6N",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4U1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4XV",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D5I",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"973390",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A4Q",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WH4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WGO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BJ1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B5MNET",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"C5M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"C85",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D8H",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B5X",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IUA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RWR761",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"461003",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"6Q3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00H010",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U3C",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"O3R",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01C24",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0003BI",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"003352",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"605700",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"605300",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"H1O",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A7I",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Z2I",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B3F",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2DE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"16L",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01CLD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"670800",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U67502",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01C21",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01C22",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"US04FU",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SL0050",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VJI",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2HM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LQX",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NSA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"H10",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"1BJ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"005403",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D3I",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"540611",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"432000",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01C17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D260",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"6LN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DK7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01C03",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"034R",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CWO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CW1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A2D",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"461006",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B9L",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q39",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043BMI",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A9V",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A7M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"541201",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043BMH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"551206",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ZMS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CA8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Network SDN / Overlay",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Network Services",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Network Underlay",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Operations & Compliance",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Cloud India Lab",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Operations and Observability",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Security and Compliance",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"PMO, BizOps & Analytics",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Acadia/Ceph",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Cloud Object Storage (COS)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"File / Block Storage",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Compute & Workloads",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Capacity and Fleet Management",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Compute (VPC/Classic) & AI",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Platform",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Hardware Design and Engineering",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"HW Design and Engineering",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Platform Classic (IMS)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"VPC Platform / NGDC",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Service Mgmt Infrastructure",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"SLT",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Infrastructure as a Service",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Cloud Product & Industry Platforms",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Security, Risk, and Cloud Economics",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Client Service Delivery",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"CTO/Common Services",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Onboarding & Client Assurance",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Strategic Delivery Management",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Expert Labs & Solution Engr",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Platform Core",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Observability",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cloud Security Services",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cloud Containers",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Platform Automation",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Code Engine",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"IKS/ROKS",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"C8F",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Not Part of IBM Cloud",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"B5F",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B9J",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5402",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5403",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0001JD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0001N1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000002",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000003",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"329",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"369",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"471",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"049600",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"095100",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"410503",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"410508",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"461007",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"540605",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"540608",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"541202",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"552602",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"552603",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"553601",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"6E5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"652000",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"801500",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0002YL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000WCP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"002U10",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00C3BS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00C3T",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"016U1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01CLC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043BMU",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0CL004",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0CRCL3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0D5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0GT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0PF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0SW174",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"18J",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"1K0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"1KA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"32C",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"32X",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4W0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5M0005",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5MSY01",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5MSY04",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5MVP1V",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"8EVP5V",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A2C",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A2U",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A3B",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A4R",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AAA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AZ3230",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B3E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B4O",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BKI",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CU7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D7S",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D8K",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D8X",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D9E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D9F",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D9G",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D9H",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D9I",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D9J",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"E7Q",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EVJ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GMF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"H66",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HKO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K58",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"KU1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LRG",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"N8O",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NI4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"OUI",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"QXR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U65",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U6VP17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U6VP1V",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"UFZ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"W",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WGT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WHN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WMN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WMX",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"XAS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"YED",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"Total Service Group",
+			"ComponentName":"Not Part of IBM Cloud",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Group",
+			"ComponentName":"Expert Labs & Solution Engr",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Group",
+			"ComponentName":"Onboarding & Client Assurance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Group",
+			"ComponentName":"CTO/Common Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Group",
+			"ComponentName":"Client Service Delivery",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Group",
+			"ComponentName":"Security, Risk, and Cloud Economics",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Group",
+			"ComponentName":"Infrastructure as a Service",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Group",
+			"ComponentName":"SLT",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Group",
+			"ComponentName":"Service Mgmt Infrastructure",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Group",
+			"ComponentName":"Cloud Product & Industry Platforms",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Group",
+			"ComponentName":"Strategic Delivery Management",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Service Group",
+			"ComponentName":"Unknown",
+			"Weight":1
+		},
+		{
+			"ParentName":"Unknown",
+			"ComponentName":"369",
+			"Weight":1
+		},
+		{
+			"ParentName":"Unknown",
+			"ComponentName":"541202",
+			"Weight":1
+		},
+		{
+			"ParentName":"Unknown",
+			"ComponentName":"5MVP1V",
+			"Weight":1
+		},
+		{
+			"ParentName":"Unknown",
+			"ComponentName":"8EVP5V",
+			"Weight":1
+		},
+		{
+			"ParentName":"Unknown",
+			"ComponentName":"OUI",
+			"Weight":1
+		},
+		{
+			"ParentName":"Unknown",
+			"ComponentName":"U6VP17",
+			"Weight":1
+		},
+		{
+			"ParentName":"Unknown",
+			"ComponentName":"U6VP1V",
+			"Weight":1
+		},
+		{
+			"ParentName":"Network",
+			"ComponentName":"Network SDN / Overlay",
+			"Weight":1
+		},
+		{
+			"ParentName":"Network",
+			"ComponentName":"Network Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"Network",
+			"ComponentName":"Network Underlay",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"NI3",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"5MLON2",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"A6V",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"IRT",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"5MSOFT",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"SLO020",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"5MLON1",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"SLO",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"SL4",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"UJD",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"HS7",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"00J",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"5MLON6",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"5MLON4",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"5MLON5",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"LGB",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"O55",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"GMD",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"NUA",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"VWI",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"1DJ",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"1DK",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"D1H",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"SLO040",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"SLO050",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"LIF",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"QFI",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"N00",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"UIU",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"SL5",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"T6I",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"SLOJP0",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"O9J",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"19C",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"1DM",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"ZMSOFT",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"00G",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"A7D",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"1DL",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"LBY",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"VC1",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"2DE",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"LQX",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"NSA",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"DK7",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"SFL001",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"SFL002",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"SFL003",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"SF0020",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"SL5M14",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"U6X",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"UA4",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"879900",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"SF0017",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"U7A",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"SF0021",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"145800",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"005M01",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"SL0050",
+			"Weight":1
+		},
+		{
+			"ParentName":"DC Ops",
+			"ComponentName":"NI4",
+			"Weight":1
+		},
+		{
+			"ParentName":"VMWare",
+			"ComponentName":"0AJ",
+			"Weight":1
+		},
+		{
+			"ParentName":"VMWare",
+			"ComponentName":"540606",
+			"Weight":1
+		},
+		{
+			"ParentName":"VMWare",
+			"ComponentName":"550608",
+			"Weight":1
+		},
+		{
+			"ParentName":"VMWare",
+			"ComponentName":"WN8",
+			"Weight":1
+		},
+		{
+			"ParentName":"VMWare",
+			"ComponentName":"JVR",
+			"Weight":1
+		},
+		{
+			"ParentName":"VMWare",
+			"ComponentName":"01C16",
+			"Weight":1
+		},
+		{
+			"ParentName":"VMWare",
+			"ComponentName":"A9U",
+			"Weight":1
+		},
+		{
+			"ParentName":"VMWare",
+			"ComponentName":"3N42A0",
+			"Weight":1
+		},
+		{
+			"ParentName":"VMWare",
+			"ComponentName":"870198",
+			"Weight":1
+		},
+		{
+			"ParentName":"VMWare",
+			"ComponentName":"C3BTO",
+			"Weight":1
+		},
+		{
+			"ParentName":"VMWare",
+			"ComponentName":"01C15",
+			"Weight":1
+		},
+		{
+			"ParentName":"VMWare",
+			"ComponentName":"A4K",
+			"Weight":1
+		},
+		{
+			"ParentName":"VMWare",
+			"ComponentName":"01C17",
+			"Weight":1
+		},
+		{
+			"ParentName":"VMWare",
+			"ComponentName":"36L",
+			"Weight":1
+		},
+		{
+			"ParentName":"VMWare",
+			"ComponentName":"VB3",
+			"Weight":1
+		},
+		{
+			"ParentName":"VMWare",
+			"ComponentName":"U3A",
+			"Weight":1
+		},
+		{
+			"ParentName":"VMWare",
+			"ComponentName":"YED",
+			"Weight":1
+		},
+		{
+			"ParentName":"VMWare",
+			"ComponentName":"W",
+			"Weight":1
+		},
+		{
+			"ParentName":"VMWare",
+			"ComponentName":"AAA",
+			"Weight":1
+		},
+		{
+			"ParentName":"VMWare",
+			"ComponentName":"N8O",
+			"Weight":1
+		},
+		{
+			"ParentName":"IaaS PMO",
+			"ComponentName":"PMO, BizOps & Analytics",
+			"Weight":1
+		},
+		{
+			"ParentName":"Storage",
+			"ComponentName":"Acadia/Ceph",
+			"Weight":1
+		},
+		{
+			"ParentName":"Storage",
+			"ComponentName":"Cloud Object Storage (COS)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Storage",
+			"ComponentName":"File / Block Storage",
+			"Weight":1
+		},
+		{
+			"ParentName":"Workload Eng Svc",
+			"ComponentName":"0DF",
+			"Weight":1
+		},
+		{
+			"ParentName":"Workload Eng Svc",
+			"ComponentName":"0DC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Workload Eng Svc",
+			"ComponentName":"0DE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Workload Eng Svc",
+			"ComponentName":"B5X",
+			"Weight":1
+		},
+		{
+			"ParentName":"Workload Eng Svc",
+			"ComponentName":"IUA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Network SDN / Overlay",
+			"ComponentName":"Y6J",
+			"Weight":1
+		},
+		{
+			"ParentName":"Network SDN / Overlay",
+			"ComponentName":"KG0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Network SDN / Overlay",
+			"ComponentName":"B8M",
+			"Weight":1
+		},
+		{
+			"ParentName":"Network SDN / Overlay",
+			"ComponentName":"B8N",
+			"Weight":1
+		},
+		{
+			"ParentName":"Network SDN / Overlay",
+			"ComponentName":"TLM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Network SDN / Overlay",
+			"ComponentName":"5M7501",
+			"Weight":1
+		},
+		{
+			"ParentName":"Network SDN / Overlay",
+			"ComponentName":"VMO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Network Services",
+			"ComponentName":"UCH",
+			"Weight":1
+		},
+		{
+			"ParentName":"Network Services",
+			"ComponentName":"SB7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Network Services",
+			"ComponentName":"A6Z",
+			"Weight":1
+		},
+		{
+			"ParentName":"Network Services",
+			"ComponentName":"A1F",
+			"Weight":1
+		},
+		{
+			"ParentName":"Network Services",
+			"ComponentName":"IOU",
+			"Weight":1
+		},
+		{
+			"ParentName":"Network Services",
+			"ComponentName":"540610",
+			"Weight":1
+		},
+		{
+			"ParentName":"Network Services",
+			"ComponentName":"IH2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Network Services",
+			"ComponentName":"VIA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Network Services",
+			"ComponentName":"5M7507",
+			"Weight":1
+		},
+		{
+			"ParentName":"Network Services",
+			"ComponentName":"H1O",
+			"Weight":1
+		},
+		{
+			"ParentName":"Network Services",
+			"ComponentName":"2HM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Network Underlay",
+			"ComponentName":"XNN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Network Underlay",
+			"ComponentName":"ADA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Network Underlay",
+			"ComponentName":"A6Y",
+			"Weight":1
+		},
+		{
+			"ParentName":"Network Underlay",
+			"ComponentName":"A1G",
+			"Weight":1
+		},
+		{
+			"ParentName":"Network Underlay",
+			"ComponentName":"SF0018",
+			"Weight":1
+		},
+		{
+			"ParentName":"Network Underlay",
+			"ComponentName":"00K",
+			"Weight":1
+		},
+		{
+			"ParentName":"Network Underlay",
+			"ComponentName":"B5MNET",
+			"Weight":1
+		},
+		{
+			"ParentName":"Network Underlay",
+			"ComponentName":"VJI",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operations & Compliance",
+			"ComponentName":"Cloud India Lab",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operations & Compliance",
+			"ComponentName":"Operations and Observability",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operations & Compliance",
+			"ComponentName":"Security and Compliance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud India Lab",
+			"ComponentName":"A1K",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operations and Observability",
+			"ComponentName":"GQY",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operations and Observability",
+			"ComponentName":"QWP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operations and Observability",
+			"ComponentName":"B1I",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operations and Observability",
+			"ComponentName":"0W4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operations and Observability",
+			"ComponentName":"SLN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operations and Observability",
+			"ComponentName":"4HE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operations and Observability",
+			"ComponentName":"4MQ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operations and Observability",
+			"ComponentName":"4V3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operations and Observability",
+			"ComponentName":"540601",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operations and Observability",
+			"ComponentName":"540602",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operations and Observability",
+			"ComponentName":"LJK",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operations and Observability",
+			"ComponentName":"MDT",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operations and Observability",
+			"ComponentName":"VXD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operations and Observability",
+			"ComponentName":"005402",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operations and Observability",
+			"ComponentName":"005403",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operations and Observability",
+			"ComponentName":"5402",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operations and Observability",
+			"ComponentName":"5403",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operations and Observability",
+			"ComponentName":"D9I",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operations and Observability",
+			"ComponentName":"E7Q",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security and Compliance",
+			"ComponentName":"8EH",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security and Compliance",
+			"ComponentName":"A6X",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security and Compliance",
+			"ComponentName":"158",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security and Compliance",
+			"ComponentName":"S7Z",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security and Compliance",
+			"ComponentName":"YT0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security and Compliance",
+			"ComponentName":"Z2I",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security and Compliance",
+			"ComponentName":"ZMS",
+			"Weight":1
+		},
+		{
+			"ParentName":"PMO, BizOps & Analytics",
+			"ComponentName":"B9J",
+			"Weight":1
+		},
+		{
+			"ParentName":"PMO, BizOps & Analytics",
+			"ComponentName":"B5F",
+			"Weight":1
+		},
+		{
+			"ParentName":"PMO, BizOps & Analytics",
+			"ComponentName":"L5S",
+			"Weight":1
+		},
+		{
+			"ParentName":"PMO, BizOps & Analytics",
+			"ComponentName":"Q39",
+			"Weight":1
+		},
+		{
+			"ParentName":"PMO, BizOps & Analytics",
+			"ComponentName":"B59",
+			"Weight":1
+		},
+		{
+			"ParentName":"PMO, BizOps & Analytics",
+			"ComponentName":"0DG",
+			"Weight":1
+		},
+		{
+			"ParentName":"Acadia/Ceph",
+			"ComponentName":"RWR761",
+			"Weight":1
+		},
+		{
+			"ParentName":"Acadia/Ceph",
+			"ComponentName":"B43",
+			"Weight":1
+		},
+		{
+			"ParentName":"Acadia/Ceph",
+			"ComponentName":"WGT",
+			"Weight":1
+		},
+		{
+			"ParentName":"Acadia/Ceph",
+			"ComponentName":"4W0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Acadia/Ceph",
+			"ComponentName":"0D5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Object Storage (COS)",
+			"ComponentName":"2VN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Object Storage (COS)",
+			"ComponentName":"L6O",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Object Storage (COS)",
+			"ComponentName":"JI0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Object Storage (COS)",
+			"ComponentName":"MP0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Object Storage (COS)",
+			"ComponentName":"B7M",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Object Storage (COS)",
+			"ComponentName":"B7L",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Object Storage (COS)",
+			"ComponentName":"CLD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Object Storage (COS)",
+			"ComponentName":"540603",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Object Storage (COS)",
+			"ComponentName":"540604",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Object Storage (COS)",
+			"ComponentName":"SF0022",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Object Storage (COS)",
+			"ComponentName":"WHN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Object Storage (COS)",
+			"ComponentName":"D9G",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Object Storage (COS)",
+			"ComponentName":"D9H",
+			"Weight":1
+		},
+		{
+			"ParentName":"File / Block Storage",
+			"ComponentName":"4FU",
+			"Weight":1
+		},
+		{
+			"ParentName":"File / Block Storage",
+			"ComponentName":"A7A",
+			"Weight":1
+		},
+		{
+			"ParentName":"File / Block Storage",
+			"ComponentName":"7AP",
+			"Weight":1
+		},
+		{
+			"ParentName":"File / Block Storage",
+			"ComponentName":"A1J",
+			"Weight":1
+		},
+		{
+			"ParentName":"File / Block Storage",
+			"ComponentName":"432000",
+			"Weight":1
+		},
+		{
+			"ParentName":"File / Block Storage",
+			"ComponentName":"540611",
+			"Weight":1
+		},
+		{
+			"ParentName":"File / Block Storage",
+			"ComponentName":"F1O",
+			"Weight":1
+		},
+		{
+			"ParentName":"File / Block Storage",
+			"ComponentName":"US04FU",
+			"Weight":1
+		},
+		{
+			"ParentName":"File / Block Storage",
+			"ComponentName":"D3I",
+			"Weight":1
+		},
+		{
+			"ParentName":"File / Block Storage",
+			"ComponentName":"SF0014",
+			"Weight":1
+		},
+		{
+			"ParentName":"File / Block Storage",
+			"ComponentName":"A3B",
+			"Weight":1
+		},
+		{
+			"ParentName":"File / Block Storage",
+			"ComponentName":"D9F",
+			"Weight":1
+		},
+		{
+			"ParentName":"File / Block Storage",
+			"ComponentName":"D9E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Compute & Workloads",
+			"ComponentName":"Capacity and Fleet Management",
+			"Weight":1
+		},
+		{
+			"ParentName":"Compute & Workloads",
+			"ComponentName":"Compute (VPC/Classic) & AI",
+			"Weight":1
+		},
+		{
+			"ParentName":"Compute & Workloads",
+			"ComponentName":"VMWare",
+			"Weight":1
+		},
+		{
+			"ParentName":"Compute & Workloads",
+			"ComponentName":"Workload Eng Svc",
+			"Weight":1
+		},
+		{
+			"ParentName":"Capacity and Fleet Management",
+			"ComponentName":"7U7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Capacity and Fleet Management",
+			"ComponentName":"8AQ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Capacity and Fleet Management",
+			"ComponentName":"LGP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Capacity and Fleet Management",
+			"ComponentName":"O3R",
+			"Weight":1
+		},
+		{
+			"ParentName":"Capacity and Fleet Management",
+			"ComponentName":"SZE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Capacity and Fleet Management",
+			"ComponentName":"VOP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Compute (VPC/Classic) & AI",
+			"ComponentName":"A1H",
+			"Weight":1
+		},
+		{
+			"ParentName":"Compute (VPC/Classic) & AI",
+			"ComponentName":"2DY",
+			"Weight":1
+		},
+		{
+			"ParentName":"Compute (VPC/Classic) & AI",
+			"ComponentName":"A7B",
+			"Weight":1
+		},
+		{
+			"ParentName":"Compute (VPC/Classic) & AI",
+			"ComponentName":"C85",
+			"Weight":1
+		},
+		{
+			"ParentName":"Compute (VPC/Classic) & AI",
+			"ComponentName":"0GS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Compute (VPC/Classic) & AI",
+			"ComponentName":"5M7D24",
+			"Weight":1
+		},
+		{
+			"ParentName":"Compute (VPC/Classic) & AI",
+			"ComponentName":"ILX",
+			"Weight":1
+		},
+		{
+			"ParentName":"Compute (VPC/Classic) & AI",
+			"ComponentName":"EPC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Compute (VPC/Classic) & AI",
+			"ComponentName":"4HK",
+			"Weight":1
+		},
+		{
+			"ParentName":"Compute (VPC/Classic) & AI",
+			"ComponentName":"XH2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Compute (VPC/Classic) & AI",
+			"ComponentName":"ZLS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Compute (VPC/Classic) & AI",
+			"ComponentName":"0GX",
+			"Weight":1
+		},
+		{
+			"ParentName":"Compute (VPC/Classic) & AI",
+			"ComponentName":"L3V",
+			"Weight":1
+		},
+		{
+			"ParentName":"Compute (VPC/Classic) & AI",
+			"ComponentName":"3DR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Compute (VPC/Classic) & AI",
+			"ComponentName":"BDL",
+			"Weight":1
+		},
+		{
+			"ParentName":"Compute (VPC/Classic) & AI",
+			"ComponentName":"1AO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Compute (VPC/Classic) & AI",
+			"ComponentName":"C5M",
+			"Weight":1
+		},
+		{
+			"ParentName":"Compute (VPC/Classic) & AI",
+			"ComponentName":"U3C",
+			"Weight":1
+		},
+		{
+			"ParentName":"Compute (VPC/Classic) & AI",
+			"ComponentName":"VBJ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Compute (VPC/Classic) & AI",
+			"ComponentName":"0GT",
+			"Weight":1
+		},
+		{
+			"ParentName":"Platform",
+			"ComponentName":"Platform Classic (IMS)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Platform",
+			"ComponentName":"VPC Platform / NGDC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hardware Design and Engineering",
+			"ComponentName":"HW Design and Engineering",
+			"Weight":1
+		},
+		{
+			"ParentName":"HW Design and Engineering",
+			"ComponentName":"NA9",
+			"Weight":1
+		},
+		{
+			"ParentName":"HW Design and Engineering",
+			"ComponentName":"37X",
+			"Weight":1
+		},
+		{
+			"ParentName":"HW Design and Engineering",
+			"ComponentName":"4U1",
+			"Weight":1
+		},
+		{
+			"ParentName":"HW Design and Engineering",
+			"ComponentName":"34R",
+			"Weight":1
+		},
+		{
+			"ParentName":"HW Design and Engineering",
+			"ComponentName":"034R",
+			"Weight":1
+		},
+		{
+			"ParentName":"Platform Classic (IMS)",
+			"ComponentName":"JKT",
+			"Weight":1
+		},
+		{
+			"ParentName":"Platform Classic (IMS)",
+			"ComponentName":"A6W",
+			"Weight":1
+		},
+		{
+			"ParentName":"Platform Classic (IMS)",
+			"ComponentName":"18Z",
+			"Weight":1
+		},
+		{
+			"ParentName":"Platform Classic (IMS)",
+			"ComponentName":"540607",
+			"Weight":1
+		},
+		{
+			"ParentName":"Platform Classic (IMS)",
+			"ComponentName":"540609",
+			"Weight":1
+		},
+		{
+			"ParentName":"Platform Classic (IMS)",
+			"ComponentName":"550605",
+			"Weight":1
+		},
+		{
+			"ParentName":"VPC Platform / NGDC",
+			"ComponentName":"37H",
+			"Weight":1
+		},
+		{
+			"ParentName":"VPC Platform / NGDC",
+			"ComponentName":"A1L",
+			"Weight":1
+		},
+		{
+			"ParentName":"VPC Platform / NGDC",
+			"ComponentName":"VLT",
+			"Weight":1
+		},
+		{
+			"ParentName":"VPC Platform / NGDC",
+			"ComponentName":"CMY",
+			"Weight":1
+		},
+		{
+			"ParentName":"VPC Platform / NGDC",
+			"ComponentName":"H3I",
+			"Weight":1
+		},
+		{
+			"ParentName":"VPC Platform / NGDC",
+			"ComponentName":"5M7502",
+			"Weight":1
+		},
+		{
+			"ParentName":"VPC Platform / NGDC",
+			"ComponentName":"H10",
+			"Weight":1
+		},
+		{
+			"ParentName":"VPC Platform / NGDC",
+			"ComponentName":"5M7505",
+			"Weight":1
+		},
+		{
+			"ParentName":"VPC Platform / NGDC",
+			"ComponentName":"H2O",
+			"Weight":1
+		},
+		{
+			"ParentName":"VPC Platform / NGDC",
+			"ComponentName":"HLO",
+			"Weight":1
+		},
+		{
+			"ParentName":"VPC Platform / NGDC",
+			"ComponentName":"H0I",
+			"Weight":1
+		},
+		{
+			"ParentName":"VPC Platform / NGDC",
+			"ComponentName":"UB0",
+			"Weight":1
+		},
+		{
+			"ParentName":"VPC Platform / NGDC",
+			"ComponentName":"F5M",
+			"Weight":1
+		},
+		{
+			"ParentName":"VPC Platform / NGDC",
+			"ComponentName":"04305M",
+			"Weight":1
+		},
+		{
+			"ParentName":"VPC Platform / NGDC",
+			"ComponentName":"NWP",
+			"Weight":1
+		},
+		{
+			"ParentName":"VPC Platform / NGDC",
+			"ComponentName":"CIH",
+			"Weight":1
+		},
+		{
+			"ParentName":"VPC Platform / NGDC",
+			"ComponentName":"D8K",
+			"Weight":1
+		},
+		{
+			"ParentName":"VPC Platform / NGDC",
+			"ComponentName":"540608",
+			"Weight":1
+		},
+		{
+			"ParentName":"VPC Platform / NGDC",
+			"ComponentName":"D9J",
+			"Weight":1
+		},
+		{
+			"ParentName":"Service Mgmt Infrastructure",
+			"ComponentName":"558830",
+			"Weight":1
+		},
+		{
+			"ParentName":"Service Mgmt Infrastructure",
+			"ComponentName":"XBD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Service Mgmt Infrastructure",
+			"ComponentName":"BJ0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Service Mgmt Infrastructure",
+			"ComponentName":"U3E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Service Mgmt Infrastructure",
+			"ComponentName":"BJ1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Service Mgmt Infrastructure",
+			"ComponentName":"WG5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Service Mgmt Infrastructure",
+			"ComponentName":"BRO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Service Mgmt Infrastructure",
+			"ComponentName":"461010",
+			"Weight":1
+		},
+		{
+			"ParentName":"Service Mgmt Infrastructure",
+			"ComponentName":"AEL",
+			"Weight":1
+		},
+		{
+			"ParentName":"Service Mgmt Infrastructure",
+			"ComponentName":"D4O",
+			"Weight":1
+		},
+		{
+			"ParentName":"Service Mgmt Infrastructure",
+			"ComponentName":"W3O",
+			"Weight":1
+		},
+		{
+			"ParentName":"Service Mgmt Infrastructure",
+			"ComponentName":"WGO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Service Mgmt Infrastructure",
+			"ComponentName":"WH4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Service Mgmt Infrastructure",
+			"ComponentName":"542603",
+			"Weight":1
+		},
+		{
+			"ParentName":"Service Mgmt Infrastructure",
+			"ComponentName":"553601",
+			"Weight":1
+		},
+		{
+			"ParentName":"Service Mgmt Infrastructure",
+			"ComponentName":"A2C",
+			"Weight":1
+		},
+		{
+			"ParentName":"SLT",
+			"ComponentName":"6PE",
+			"Weight":1
+		},
+		{
+			"ParentName":"SLT",
+			"ComponentName":"J1P",
+			"Weight":1
+		},
+		{
+			"ParentName":"SLT",
+			"ComponentName":"901582",
+			"Weight":1
+		},
+		{
+			"ParentName":"Infrastructure as a Service",
+			"ComponentName":"Compute & Workloads",
+			"Weight":1
+		},
+		{
+			"ParentName":"Infrastructure as a Service",
+			"ComponentName":"DC Ops",
+			"Weight":1
+		},
+		{
+			"ParentName":"Infrastructure as a Service",
+			"ComponentName":"Hardware Design and Engineering",
+			"Weight":1
+		},
+		{
+			"ParentName":"Infrastructure as a Service",
+			"ComponentName":"IaaS PMO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Infrastructure as a Service",
+			"ComponentName":"Network",
+			"Weight":1
+		},
+		{
+			"ParentName":"Infrastructure as a Service",
+			"ComponentName":"Operations & Compliance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Infrastructure as a Service",
+			"ComponentName":"Platform",
+			"Weight":1
+		},
+		{
+			"ParentName":"Infrastructure as a Service",
+			"ComponentName":"Storage",
+			"Weight":1
+		},
+		{
+			"ParentName":"Infrastructure as a Service",
+			"ComponentName":"D8X",
+			"Weight":1
+		},
+		{
+			"ParentName":"Infrastructure as a Service",
+			"ComponentName":"540605",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"7E6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"426703",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"3JS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"01C13",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"BLC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"B5N",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"WU0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"WV5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"00D484",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"00E428",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"01C14",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"01CLP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"461012",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"4HP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"4HQ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"4HV",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"4HW",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"552601",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"7CO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"8078E1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"B90",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"BLE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"BXE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"BXF",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"CFN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"CPM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"IRZ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"MV2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"QCC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"QNQ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"SQM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"U67501",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"U67502",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"U6A2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"01C03",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"A2Q",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"ZICAU6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"P7W",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"552602",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"329",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"32C",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"552603",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"B1J",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"005506",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"BSO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"CWZ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"ZWN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"A1D",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"16G",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"J2Q",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"01C18",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"6LN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"887312",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"A3L",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"I6U",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"CNU",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"5VD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"86B",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"UR4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"UTJ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"VJB",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"U37501",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"RY7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"OL9",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"H5X",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"H9F",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"9KA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"7IR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"5J8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"542604",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"043CNB",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"043CND",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"043CNO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"043BNB",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"043BND",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"830349",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"GMF",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"A4R",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"JAN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"410530",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"540612",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"AZ3220",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"AZ3240",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"AZ33A0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"AZ33B0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"FDZ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"542602",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"OUF",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"6UA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"9FK",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"005507",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"542601",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"00H010",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"01ACS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"02ACS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"043BMM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"043CMU",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"043CMM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"4IE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"7IS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"807U6B",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"8U7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"9HY",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"AFH",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"CB1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"FYA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"H1K",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"HGN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"HMA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"J6P",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"JEJ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"KR3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"KV2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"M6O",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"P1T",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"QZA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"RRN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"U3F",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"V32",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"VQF",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"VRQ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"W7J",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"ZJ5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"WVW",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"8300U3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"IZK",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"VU2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"043BMU",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"AZ3230",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"32X",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"CU7",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"C8F",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"Cloud Containers",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"Platform Automation",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"Platform Core",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"Observability",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"Cloud Security Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"IQS",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"D4E",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"A2L",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"2B5",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"D6J",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"XV8",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"MIN",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"MAA",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"SGG",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"0T0",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"00WA01",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"D5G",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"D5O",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"AE7",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"0003BH",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"0003BI",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"0003BJ",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"0003BL",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"003352",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"003367",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"005504",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"00D341",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"00D363",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"01C01",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"01C21",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"01C22",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"01C23",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"01C24",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"01CLD",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"01CLF",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"01CLK",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"043C68",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"043IU5",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"043PAG",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"0BE",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"0WS",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"1KZ",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"401207",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"410506",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"410509",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"410528",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"413002",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"413003",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"450230",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"461003",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"461004",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"461006",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"461009",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"461061",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"4XV",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"541201",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"541204",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"541205",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"551202",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"551203",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"551205",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"551206",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"551209",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"551210",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"670800",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"6Q3",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"73S",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"73T",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"7EF",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"7EP",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"7FB",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"7FE",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"7FF",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"7FJ",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"7I5",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"7YL",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"8E7501",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"8E7502",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"8EN",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"8EX",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"8L1",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"9EC",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"9SM",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"9SP",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"A3A",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"A4J",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"A4Q",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"A7I",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"A7M",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"A9V",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"AE8",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"AGS",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"B1N",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"B2N",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"B3F",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"B8Q",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"B98",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"B9L",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"BSJ",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"BXC",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"BXD",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"BXW",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"CA8",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"CW1",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"CWO",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"D2P",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"D5I",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"D5L",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"D5M",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"D7B",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"DMS",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"E7G",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"EWM",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"FRP",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"G1Q",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"GGS",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"GQF",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"GRQ",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"GSP",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"H5R",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"IQL",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"JAA",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"LKQ",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"LMP",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"LRH",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"NFL",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"QC8",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"SFH",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"SG8",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"SRD",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"SRH",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"SX0",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"SX7",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"SXB",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"005503",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"W4D",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"X2W",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"X8E",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"XBS",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"ZZY",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"GTE",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"SM6",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"D6N",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"EVJ",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"410503",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"410508",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"461007",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"1KA",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"A2U",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"01CLC",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"B3E",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"HKO",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"K58",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"LRG",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"UFZ",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"WMN",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"WMX",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"XAS",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"U65",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"1K0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Onboarding & Client Assurance",
+			"ComponentName":"MZA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Onboarding & Client Assurance",
+			"ComponentName":"TGL",
+			"Weight":1
+		},
+		{
+			"ParentName":"Onboarding & Client Assurance",
+			"ComponentName":"00H011",
+			"Weight":1
+		},
+		{
+			"ParentName":"Onboarding & Client Assurance",
+			"ComponentName":"542607",
+			"Weight":1
+		},
+		{
+			"ParentName":"Onboarding & Client Assurance",
+			"ComponentName":"605300",
+			"Weight":1
+		},
+		{
+			"ParentName":"Onboarding & Client Assurance",
+			"ComponentName":"605600",
+			"Weight":1
+		},
+		{
+			"ParentName":"Onboarding & Client Assurance",
+			"ComponentName":"605700",
+			"Weight":1
+		},
+		{
+			"ParentName":"Onboarding & Client Assurance",
+			"ComponentName":"BGS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Onboarding & Client Assurance",
+			"ComponentName":"K9O",
+			"Weight":1
+		},
+		{
+			"ParentName":"Onboarding & Client Assurance",
+			"ComponentName":"K9P",
+			"Weight":1
+		},
+		{
+			"ParentName":"Onboarding & Client Assurance",
+			"ComponentName":"KEN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Onboarding & Client Assurance",
+			"ComponentName":"MPH",
+			"Weight":1
+		},
+		{
+			"ParentName":"Onboarding & Client Assurance",
+			"ComponentName":"N84",
+			"Weight":1
+		},
+		{
+			"ParentName":"Onboarding & Client Assurance",
+			"ComponentName":"N8E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Onboarding & Client Assurance",
+			"ComponentName":"N8R",
+			"Weight":1
+		},
+		{
+			"ParentName":"Onboarding & Client Assurance",
+			"ComponentName":"N97",
+			"Weight":1
+		},
+		{
+			"ParentName":"Onboarding & Client Assurance",
+			"ComponentName":"A2D",
+			"Weight":1
+		},
+		{
+			"ParentName":"Onboarding & Client Assurance",
+			"ComponentName":"D7U",
+			"Weight":1
+		},
+		{
+			"ParentName":"Onboarding & Client Assurance",
+			"ComponentName":"10X",
+			"Weight":1
+		},
+		{
+			"ParentName":"Onboarding & Client Assurance",
+			"ComponentName":"5HH",
+			"Weight":1
+		},
+		{
+			"ParentName":"Onboarding & Client Assurance",
+			"ComponentName":"6E5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Onboarding & Client Assurance",
+			"ComponentName":"H66",
+			"Weight":1
+		},
+		{
+			"ParentName":"Strategic Delivery Management",
+			"ComponentName":"J73",
+			"Weight":1
+		},
+		{
+			"ParentName":"Strategic Delivery Management",
+			"ComponentName":"542606",
+			"Weight":1
+		},
+		{
+			"ParentName":"Strategic Delivery Management",
+			"ComponentName":"005508",
+			"Weight":1
+		},
+		{
+			"ParentName":"Expert Labs & Solution Engr",
+			"ComponentName":"SAC590",
+			"Weight":1
+		},
+		{
+			"ParentName":"Platform Core",
+			"ComponentName":"0438EC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Platform Core",
+			"ComponentName":"043IU1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Platform Core",
+			"ComponentName":"A3O",
+			"Weight":1
+		},
+		{
+			"ParentName":"Platform Core",
+			"ComponentName":"AFE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Containers",
+			"ComponentName":"IKS/ROKS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Containers",
+			"ComponentName":"Code Engine",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Containers",
+			"ComponentName":"541203",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Containers",
+			"ComponentName":"542501",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Containers",
+			"ComponentName":"973099",
+			"Weight":1
+		},
+		{
+			"ParentName":"Code Engine",
+			"ComponentName":"00D260",
+			"Weight":1
+		},
+		{
+			"ParentName":"Code Engine",
+			"ComponentName":"00D273",
+			"Weight":1
+		},
+		{
+			"ParentName":"Code Engine",
+			"ComponentName":"00D293",
+			"Weight":1
+		},
+		{
+			"ParentName":"Code Engine",
+			"ComponentName":"00D342",
+			"Weight":1
+		},
+		{
+			"ParentName":"IKS/ROKS",
+			"ComponentName":"0003BK",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"0001N1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"0001JD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"XSSO8E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"Z02981",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"015500",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"0438EB",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"0438EM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"043BMF",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"043BMH",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"043BMI",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"043BMN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"043BMP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"08E816",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"16L",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"1BI",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"1BJ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"32K",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"3N40A0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"542605",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"551204",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"5M1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"7L2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"7MU",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"8168EG",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"825540",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"8BW",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"8E7507",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"973390",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"A2T",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"BL7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"BMI",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"COE8EL",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"D260",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"D8H",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"GDD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"IGS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"LB7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"U11",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"32Q",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"3N42C0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"0002YL",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"18J",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"D7S",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"049600",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"095100",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"00C3BS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"0CL004",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"0CRCL3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"QXR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"5M0005",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"002U10",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"0PF",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"000002",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"000003",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"471",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"652000",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"801500",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"5MSY01",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"5MSY04",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"U12",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"KU1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"000WCP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"00C3T",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"016U1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"0SW174",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"B4O",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Part of IBM Cloud",
+			"ComponentName":"BKI",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":[]
+}

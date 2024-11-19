@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"Addes_Losses",
+	"Expression":"{DRILLDOWNMEMBER({[Account_Emp].[Account_Emp].[Adds]} , {[Account_Emp].[Account_Emp].[Adds],[Account_Emp].[Account_Emp].[New Hires],[Account_Emp].[Account_Emp].[Other Adds]} , RECURSIVE),DRILLDOWNMEMBER({[Account_Emp].[Account_Emp].[Losses]} , {[Account_Emp].[Account_Emp].[Losses],[Account_Emp].[Account_Emp].[Mgmt Init Loss],[Account_Emp].[Account_Emp].[Empl Init Loss],[Account_Emp].[Account_Emp].[Other Losses]} , RECURSIVE)}"
+}

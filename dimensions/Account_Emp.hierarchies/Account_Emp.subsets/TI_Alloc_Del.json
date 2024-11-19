@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"TI_Alloc_Del",
+	"Expression":"{EXCEPT(DISTINCT({[Account_Emp].[Account_Emp].[TI Alloc Participant],DESCENDANTS([Account_Emp].[Account_Emp].[TI Alloc Participant] , 99 , LEAVES)}) , {[Account_Emp].[Account_Emp].[TI Alloc Participant]}),[Account_Emp].[Account_Emp].[Employee Count],[Account_Emp].[Account_Emp].[FTE]}"
+}

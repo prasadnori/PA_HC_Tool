@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"Service_Group_Lkup",
+	"Hierarchies@Code.links":
+	[
+		"Service_Group_Lkup.hierarchies/Service_Group_Lkup.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Service_Group_Lkup')/Hierarchies('Service_Group_Lkup')"
+	}
+}

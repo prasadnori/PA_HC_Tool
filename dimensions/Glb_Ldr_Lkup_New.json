@@ -1,0 +1,19 @@
+{
+	"@type":"Dimension",
+	"Name":"Glb_Ldr_Lkup_New",
+	"AllLeavesHierarchyName":"Leaves",
+	"Hierarchies@Code.links":
+	[
+		"Glb_Ldr_Lkup_New.hierarchies/Glb_Ldr_Lkup_New.json",
+		"Glb_Ldr_Lkup_New.hierarchies/Org1.json",
+		"Glb_Ldr_Lkup_New.hierarchies/Org2.json",
+		"Glb_Ldr_Lkup_New.hierarchies/Org3.json",
+		"Glb_Ldr_Lkup_New.hierarchies/Org4.json",
+		"Glb_Ldr_Lkup_New.hierarchies/Org5.json",
+		"Glb_Ldr_Lkup_New.hierarchies/Org6.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Glb_Ldr_Lkup_New')/Hierarchies('Glb_Ldr_Lkup_New')"
+	}
+}

@@ -1,0 +1,692 @@
+{
+	"@type":"Hierarchy",
+	"Name":"UT",
+	"Elements":
+	[
+		{
+			"Name":"TI Alloc Participant",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Public Cloud Platform-N/A",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Public Cloud Platform-N/A-N/A",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Onboarding & Client Assurance - Harbour",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IBM Software Top Market (AUO)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"IBM Software Top Portfolio (AUO)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"TEL DEL ANZ CLOUD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TEL DEL US CLOUD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TEL DEL LA CLOUD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TEL DEL ITALY CLOUD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TEL DEL CA CLOUD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TEL DEL JAPAN CLOUD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TEL DEL FRANCE CLOUD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TEL DEL SPGI CLOUD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TEL DEL UKI CLOUD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TEL DEL WW TOP INFRA CLOUD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U6 Allocation",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Shared Services",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Compliance, Certifications and Risk",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Design (PMO)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cloud Delivery and Operations",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Product Management/Design",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Out of Scope (Cloud Platform)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CTO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IaaS",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Cloud Native IaaS",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Cloud Object Storage",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VPC Offerings",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Extended Enterprise",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Power Virtual Server (PowerVS)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IaaS Classic",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SAP on IBM CLoud",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VMWare on IBM Cloud",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SAP Rise",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IaaS Shared Services",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"DC Ops (IaaS Classic)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PaaS",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"PaaS True Up/ Top",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"PaaS Classic",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PaaS True Up, Allocations and Other",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cloud Native PaaS",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Cloudant (Public Cloud PaaS)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Code Engine",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DevTools",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cloud Database & Compose",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Observability",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Platform",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Satellite",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Event Streams for IBM Cloud",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Red Hat Open Shift on IBM Cloud & Kubernetes",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Security Services",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IBM Platform Cloud",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cloud Containers",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Platform Core",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cloud Security Services",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cloud Native Services",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cloud Data Services",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Deployment Automation-CD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HPC",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"HPCaaS (High-Performance Computing as a Service)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Spectrum Computing",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"(Not Participating)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"zz_",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cloud TEL & Support",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Technology Expert Labs & Support",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"GTM and Digital Support",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Customer Support",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IBM Cloud Premium & Advanced Support",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IBM Center for Cloud Training",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"UT TBD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cloud Support SE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cloud Technology Expert Labs - U6 UKI",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TEL DEL GDC Cloud",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Platform Automation",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IBM Garage for Public Cloud Platform (8E)",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"TI Alloc Participant",
+			"ComponentName":"IaaS",
+			"Weight":1
+		},
+		{
+			"ParentName":"TI Alloc Participant",
+			"ComponentName":"Cloud TEL & Support",
+			"Weight":1
+		},
+		{
+			"ParentName":"TI Alloc Participant",
+			"ComponentName":"IBM Software Top Market (AUO)",
+			"Weight":1
+		},
+		{
+			"ParentName":"TI Alloc Participant",
+			"ComponentName":"PaaS",
+			"Weight":1
+		},
+		{
+			"ParentName":"TI Alloc Participant",
+			"ComponentName":"Public Cloud Platform-N/A",
+			"Weight":1
+		},
+		{
+			"ParentName":"TI Alloc Participant",
+			"ComponentName":"U6 Allocation",
+			"Weight":1
+		},
+		{
+			"ParentName":"TI Alloc Participant",
+			"ComponentName":"(Not Participating)",
+			"Weight":1
+		},
+		{
+			"ParentName":"TI Alloc Participant",
+			"ComponentName":"zz_",
+			"Weight":1
+		},
+		{
+			"ParentName":"TI Alloc Participant",
+			"ComponentName":"UT TBD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Public Cloud Platform-N/A",
+			"ComponentName":"Public Cloud Platform-N/A-N/A",
+			"Weight":1
+		},
+		{
+			"ParentName":"Public Cloud Platform-N/A-N/A",
+			"ComponentName":"Onboarding & Client Assurance - Harbour",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Software Top Market (AUO)",
+			"ComponentName":"IBM Software Top Portfolio (AUO)",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Software Top Portfolio (AUO)",
+			"ComponentName":"Cloud Support SE",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Software Top Portfolio (AUO)",
+			"ComponentName":"Cloud Technology Expert Labs - U6 UKI",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Software Top Portfolio (AUO)",
+			"ComponentName":"TEL DEL ANZ CLOUD",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Software Top Portfolio (AUO)",
+			"ComponentName":"TEL DEL CA CLOUD",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Software Top Portfolio (AUO)",
+			"ComponentName":"TEL DEL FRANCE CLOUD",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Software Top Portfolio (AUO)",
+			"ComponentName":"TEL DEL GDC Cloud",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Software Top Portfolio (AUO)",
+			"ComponentName":"TEL DEL ITALY CLOUD",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Software Top Portfolio (AUO)",
+			"ComponentName":"TEL DEL JAPAN CLOUD",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Software Top Portfolio (AUO)",
+			"ComponentName":"TEL DEL LA CLOUD",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Software Top Portfolio (AUO)",
+			"ComponentName":"TEL DEL SPGI CLOUD",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Software Top Portfolio (AUO)",
+			"ComponentName":"TEL DEL UKI CLOUD",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Software Top Portfolio (AUO)",
+			"ComponentName":"TEL DEL US CLOUD",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Software Top Portfolio (AUO)",
+			"ComponentName":"TEL DEL WW TOP INFRA CLOUD",
+			"Weight":1
+		},
+		{
+			"ParentName":"U6 Allocation",
+			"ComponentName":"Shared Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"Shared Services",
+			"ComponentName":"Compliance, Certifications and Risk",
+			"Weight":1
+		},
+		{
+			"ParentName":"Shared Services",
+			"ComponentName":"Design (PMO)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Shared Services",
+			"ComponentName":"Cloud Delivery and Operations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Shared Services",
+			"ComponentName":"Product Management/Design",
+			"Weight":1
+		},
+		{
+			"ParentName":"Shared Services",
+			"ComponentName":"Out of Scope (Cloud Platform)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Shared Services",
+			"ComponentName":"CTO",
+			"Weight":1
+		},
+		{
+			"ParentName":"IaaS",
+			"ComponentName":"Cloud Native IaaS",
+			"Weight":1
+		},
+		{
+			"ParentName":"IaaS",
+			"ComponentName":"Extended Enterprise",
+			"Weight":1
+		},
+		{
+			"ParentName":"IaaS",
+			"ComponentName":"IaaS Shared Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native IaaS",
+			"ComponentName":"Cloud Object Storage",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native IaaS",
+			"ComponentName":"VPC Offerings",
+			"Weight":1
+		},
+		{
+			"ParentName":"Extended Enterprise",
+			"ComponentName":"Power Virtual Server (PowerVS)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Extended Enterprise",
+			"ComponentName":"IaaS Classic",
+			"Weight":1
+		},
+		{
+			"ParentName":"Extended Enterprise",
+			"ComponentName":"SAP on IBM CLoud",
+			"Weight":1
+		},
+		{
+			"ParentName":"Extended Enterprise",
+			"ComponentName":"VMWare on IBM Cloud",
+			"Weight":1
+		},
+		{
+			"ParentName":"Extended Enterprise",
+			"ComponentName":"SAP Rise",
+			"Weight":1
+		},
+		{
+			"ParentName":"IaaS Shared Services",
+			"ComponentName":"DC Ops (IaaS Classic)",
+			"Weight":1
+		},
+		{
+			"ParentName":"PaaS",
+			"ComponentName":"PaaS True Up/ Top",
+			"Weight":1
+		},
+		{
+			"ParentName":"PaaS",
+			"ComponentName":"Cloud Native PaaS",
+			"Weight":1
+		},
+		{
+			"ParentName":"PaaS",
+			"ComponentName":"HPC",
+			"Weight":1
+		},
+		{
+			"ParentName":"PaaS True Up/ Top",
+			"ComponentName":"PaaS Classic",
+			"Weight":1
+		},
+		{
+			"ParentName":"PaaS True Up/ Top",
+			"ComponentName":"PaaS True Up, Allocations and Other",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"Platform Automation",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"Cloudant (Public Cloud PaaS)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"Code Engine",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"DevTools",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"Cloud Database & Compose",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"Observability",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"Platform",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"Satellite",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"Event Streams for IBM Cloud",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"Red Hat Open Shift on IBM Cloud & Kubernetes",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"Security Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"IBM Platform Cloud",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"Cloud Containers",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"Platform Core",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"Cloud Security Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"Cloud Native Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"Cloud Data Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"Deployment Automation-CD",
+			"Weight":1
+		},
+		{
+			"ParentName":"HPC",
+			"ComponentName":"HPCaaS (High-Performance Computing as a Service)",
+			"Weight":1
+		},
+		{
+			"ParentName":"HPC",
+			"ComponentName":"Spectrum Computing",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud TEL & Support",
+			"ComponentName":"Technology Expert Labs & Support",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technology Expert Labs & Support",
+			"ComponentName":"IBM Garage for Public Cloud Platform (8E)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technology Expert Labs & Support",
+			"ComponentName":"GTM and Digital Support",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technology Expert Labs & Support",
+			"ComponentName":"Customer Support",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technology Expert Labs & Support",
+			"ComponentName":"IBM Cloud Premium & Advanced Support",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technology Expert Labs & Support",
+			"ComponentName":"IBM Center for Cloud Training",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"UT.subsets/Source_}Process - Cube Head Count Plan New Load - 19114.json",
+		"UT.subsets/Source_}Process - Cube Head Count Plan New Load - 24090.json",
+		"UT.subsets/Source_}Process - Cube Head Count Plan New Load - 24992.json",
+		"UT.subsets/Source_}Process - Cube Head Count Plan New Load - 25647.json",
+		"UT.subsets/Source_}Process - Cube Head Count Plan New Load - 33108.json",
+		"UT.subsets/Source_}Process - Cube Head Count Plan New Load - 59053.json",
+		"UT.subsets/Source_}Process - Cube Head Count Plan New Load - 7382.json",
+		"UT.subsets/Source_}Process - Cube Head Count Plan New Load - 87086.json",
+		"UT.subsets/Source_}Process - Cube Head Count Plan New Load - 91311.json"
+	]
+}

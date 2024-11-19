@@ -1,0 +1,20 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Account_Rsc",
+	"Elements":
+	[
+		{
+			"Name":"Employee Count",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Employee Allocation",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Program Seed",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}

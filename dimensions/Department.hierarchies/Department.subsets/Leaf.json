@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"Leaf",
+	"Expression":"{TM1FILTERBYLEVEL(TM1SUBSETALL([Department].[Department]) , 0)}"
+}

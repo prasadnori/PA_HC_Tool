@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"2024 YTD",
+	"Expression":"{[Time].[Time_YTD].LEVELS(0).MEMBERS}"
+}

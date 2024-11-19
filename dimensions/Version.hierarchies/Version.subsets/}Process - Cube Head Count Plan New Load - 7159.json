@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"}Process - Cube Head Count Plan New Load - 7159",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Version')/Hierarchies('Version')/Elements('ACTUAL')"
+		}
+	]
+}

@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"Source Data Entity",
+	"Expression":"{EXCEPT(DRILLDOWNMEMBER({[Entity].[Entity].[All Entity]} , {[Entity].[Entity].[All Entity]} , RECURSIVE) , {[Entity].[Entity].[17],[Entity].[Entity].[1G],[Entity].[Entity].[26],[Entity].[Entity].[2B],[Entity].[Entity].[2F],[Entity].[Entity].[2G-TechSales],[Entity].[Entity].[2S],[Entity].[Entity].[31],[Entity].[Entity].[37],[Entity].[Entity].[56],[Entity].[Entity].[57-Bus Partners],[Entity].[Entity].[5D-Gbl Call Ctr],[Entity].[Entity].[5F-EcoFieldSls],[Entity].[Entity].[5G-IBM.COM],[Entity].[Entity].[5M-PCldIaaSPlf],[Entity].[Entity].[61-Software Cmp],[Entity].[Entity].[68],[Entity].[Entity].[70-Core Cons],[Entity].[Entity].[75],[Entity].[Entity].[7D-z Sys MW SW],[Entity].[Entity].[7G-IBMAutomatn],[Entity].[Entity].[8E-CldDvPaaS],[Entity].[Entity].[8E-CldPlatfPaaS],[Entity].[Entity].[8F],[Entity].[Entity].[BM]})}"
+}

@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"Global Ldr Set",
+	"Expression":"{{[Global Leader_New].[Global Leader_New].levels(2).MEMBERS}}"
+}

@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"Guda_Lkup",
+	"Hierarchies@Code.links":
+	[
+		"Guda_Lkup.hierarchies/Guda_Lkup.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Guda_Lkup')/Hierarchies('Guda_Lkup')"
+	}
+}

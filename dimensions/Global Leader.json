@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"Global Leader",
+	"Hierarchies@Code.links":
+	[
+		"Global Leader.hierarchies/Global Leader.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Global Leader')/Hierarchies('Global Leader')"
+	}
+}

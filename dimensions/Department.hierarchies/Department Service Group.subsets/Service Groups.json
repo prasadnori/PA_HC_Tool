@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"Service Groups",
+	"Expression":"{[Department].[Department Service Group].[Total Service Group],DRILLDOWNMEMBER({[Department].[Department Service Group].[Total Sethi]} , {[Department].[Department Service Group].[Total Sethi]} , RECURSIVE),[Department].[Department Service Group].[Non-Sethi Total],[Department].[Department Service Group].[U3 - Other]}"
+}

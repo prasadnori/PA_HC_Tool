@@ -1,0 +1,1925 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Account_Emp",
+	"Elements":
+	[
+		{
+			"Name":"WorkPlace Site Population Break",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Metro Market Population Break",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TI Alloc Participant",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Direct reports total",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Onboard",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Net Changes",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Total Ins",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Total Outs",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Add - Incremental",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Add - Backfill",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Add - Loco Backfill",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Attrit w/Backfill",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Attrit w/o Backfill",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"System Move In",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"System Move Out",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"(Garage - Not Participating)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"(Not Participating)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cloud Database & Compose",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cloud Delivery and Operations",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cloud Object Storage",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cloudant (Public Cloud PaaS)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Code Engine",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Compliance, Certifications and Risk",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CTO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DC Ops (IaaS Classic)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Design (PMO)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DevTools",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Event Streams for IBM Cloud",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IaaS Classic",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IBM Center for Cloud Training",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IBM Cloud Premium & Advanced Support",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IBM Platform Cloud",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"No Platform (IaaS Classic)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Observability",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PaaS Classic",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PaaS True Up, Allocations and Other",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Platform",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Product Management/Design",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Red Hat Open Shift on IBM Cloud & Kubernetes",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SAP on IBM CLoud",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Satellite",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Security Services",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Spectrum Computing",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VMWare on IBM Cloud",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VPC Offerings",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"zz_",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Headcount Status",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"LOA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Adds",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Losses",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Transfers",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"New Hires",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Other Adds",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Transfer In",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"BU Transfer In",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Buffer Pool",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DC Opex Funding",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Dept Transfer In",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Div Transfer In",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FedRAMP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Org Transfer In",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Reclass $",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Return from LOA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Vendor",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Other Losses",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Transfer Out",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"BU Transfer Out",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Conversion to Reg",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Div Transfer Out",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Furlough",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Org Transfer Out",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SG Transfer Out",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Conversion from SubK",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Dept Transfer Out",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SG Transfer In",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Funding Transfer In",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Funding Transfer Out",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Add TBD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Loss TBD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cloud TEL & Support",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"All Account Emp",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Direct reports SubK",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Direct reports Reg",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Hire Early Prof",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Hire Prof",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Convert RP to RF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Retirement",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Vol Resign",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Res Prog",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Resl & Retire",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mgmt Init Loss",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Empl Init Loss",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Acquisition",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Intern",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"H100",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VMware Unico",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Teleport Replacement",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Madrid MZR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Carry Over from 2022",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2023 GEM Internship",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"101 Roadmap Gap",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Bolivia Transition",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DOU/ICA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Intel Funded",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JIL Funded",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Return from Furlough",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FTE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Employee Count",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Backfill",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MIS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EIS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"New Hire TBD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BDM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Granite 1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Bolivia Exit",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DC Closure",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Project Budget Depleted",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SubK Reduction",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SubK Reduction 5/23",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TOB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Convert Intern to EPH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Intern Term End Date",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Internal Job Movement",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Separation Oth",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Offer Declined",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"System Leaver",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Changed to Vendor",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"System Transfer Out",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Transfer Out TBD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Loss due to New ID",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Loss due to New ID for Geo Correction",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Transfer In TBD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Geo Conversion In",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Geo Conversion Out",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"System Transfer In",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cloud Native IaaS",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"IaaS",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Shared Services",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"U6 Allocation",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Extended Enterprise",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Cloud Native PaaS",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"PaaS True Up/ Top",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"PaaS",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"IaaS Shared Services",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Technology Expert Labs & Support",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"HPC",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Customer Support",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GTM and Digital Support",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Power Virtual Server (PowerVS)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Vela Funded",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cloud Containers",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TEL DEL ANZ CLOUD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TEL DEL US CLOUD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TEL DEL LA CLOUD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TEL DEL ITALY CLOUD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TEL DEL CA CLOUD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TEL DEL JAPAN CLOUD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TEL DEL FRANCE CLOUD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TEL DEL SPGI CLOUD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TEL DEL UKI CLOUD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TEL DEL WW TOP INFRA CLOUD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Platform Core",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Onboarding & Client Assurance - Harbour",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cloud Security Services",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cloud Native Services",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cloud Data Services",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Deployment Automation-CD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SAP Rise",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Out of Scope (Cloud Platform)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SI: QR Next Gen - Dev",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Hire-EarlyProf",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Hire-Prof",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Begin LOA A->I",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"End LOA I->A",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ResI & Retire",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Unknown Loss",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Convert RF->RP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Convert RP->RF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Res Prog(I)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Global Ldr Transfer In",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Global Ldr Transfer Out",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IBM Software Top Market (AUO)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"IBM Software Top Portfolio (AUO)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Public Cloud Platform-N/A",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Public Cloud Platform-N/A-N/A",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Security Threat Management",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Security Threat Mgmt",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"HPCaaS (High-Performance Computing as a Service)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cloud Support SE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Data Exchange",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"B2B Integration",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"SSW - SRE: SCBN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Res Prog(V)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Death",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Divestiture",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Div & Retire",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Begin IntAssgn",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VolRCtytoCty",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ConvSys NR->RF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TEL DEL GDC Cloud",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Platform Automation",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IBM Garage for Public Cloud Platform (8E)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cloud Technology Expert Labs - U6 UKI",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Watson Assistant Cartridge",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Watson Assistant",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SSW - Sustainability Software Top - SRE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"zSW - Db2 Analytics Accelerator for z/OS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Instana",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TEL DEL US pSERIES",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ConvSys RF->NR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Watson Orchestrate",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"End Int Assgn",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"TI Alloc Participant",
+			"ComponentName":"Watson Orchestrate",
+			"Weight":1
+		},
+		{
+			"ParentName":"TI Alloc Participant",
+			"ComponentName":"ConvSys RF->NR",
+			"Weight":1
+		},
+		{
+			"ParentName":"TI Alloc Participant",
+			"ComponentName":"TEL DEL US pSERIES",
+			"Weight":1
+		},
+		{
+			"ParentName":"TI Alloc Participant",
+			"ComponentName":"Instana",
+			"Weight":1
+		},
+		{
+			"ParentName":"TI Alloc Participant",
+			"ComponentName":"zSW - Db2 Analytics Accelerator for z/OS",
+			"Weight":1
+		},
+		{
+			"ParentName":"TI Alloc Participant",
+			"ComponentName":"SSW - Sustainability Software Top - SRE",
+			"Weight":1
+		},
+		{
+			"ParentName":"TI Alloc Participant",
+			"ComponentName":"Watson Assistant",
+			"Weight":1
+		},
+		{
+			"ParentName":"TI Alloc Participant",
+			"ComponentName":"Watson Assistant Cartridge",
+			"Weight":1
+		},
+		{
+			"ParentName":"TI Alloc Participant",
+			"ComponentName":"Data Exchange",
+			"Weight":1
+		},
+		{
+			"ParentName":"TI Alloc Participant",
+			"ComponentName":"Security Threat Management",
+			"Weight":1
+		},
+		{
+			"ParentName":"TI Alloc Participant",
+			"ComponentName":"Public Cloud Platform-N/A",
+			"Weight":1
+		},
+		{
+			"ParentName":"TI Alloc Participant",
+			"ComponentName":"IBM Software Top Market (AUO)",
+			"Weight":1
+		},
+		{
+			"ParentName":"TI Alloc Participant",
+			"ComponentName":"U6 Allocation",
+			"Weight":1
+		},
+		{
+			"ParentName":"TI Alloc Participant",
+			"ComponentName":"IaaS",
+			"Weight":1
+		},
+		{
+			"ParentName":"TI Alloc Participant",
+			"ComponentName":"PaaS",
+			"Weight":1
+		},
+		{
+			"ParentName":"TI Alloc Participant",
+			"ComponentName":"(Garage - Not Participating)",
+			"Weight":1
+		},
+		{
+			"ParentName":"TI Alloc Participant",
+			"ComponentName":"(Not Participating)",
+			"Weight":1
+		},
+		{
+			"ParentName":"TI Alloc Participant",
+			"ComponentName":"zz_",
+			"Weight":1
+		},
+		{
+			"ParentName":"TI Alloc Participant",
+			"ComponentName":"Cloud TEL & Support",
+			"Weight":1
+		},
+		{
+			"ParentName":"Direct reports total",
+			"ComponentName":"Direct reports Reg",
+			"Weight":1
+		},
+		{
+			"ParentName":"Direct reports total",
+			"ComponentName":"Direct reports SubK",
+			"Weight":1
+		},
+		{
+			"ParentName":"Net Changes",
+			"ComponentName":"Total Ins",
+			"Weight":1
+		},
+		{
+			"ParentName":"Net Changes",
+			"ComponentName":"Total Outs",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Ins",
+			"ComponentName":"Add - Incremental",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Ins",
+			"ComponentName":"Add - Backfill",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Ins",
+			"ComponentName":"Add - Loco Backfill",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Ins",
+			"ComponentName":"System Move In",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Outs",
+			"ComponentName":"Attrit w/Backfill",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Total Outs",
+			"ComponentName":"Attrit w/o Backfill",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Total Outs",
+			"ComponentName":"System Move Out",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Headcount Status",
+			"ComponentName":"Onboard",
+			"Weight":1
+		},
+		{
+			"ParentName":"Headcount Status",
+			"ComponentName":"Adds",
+			"Weight":1
+		},
+		{
+			"ParentName":"Headcount Status",
+			"ComponentName":"Losses",
+			"Weight":1
+		},
+		{
+			"ParentName":"Headcount Status",
+			"ComponentName":"Transfers",
+			"Weight":1
+		},
+		{
+			"ParentName":"Headcount Status",
+			"ComponentName":"LOA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Adds",
+			"ComponentName":"New Hires",
+			"Weight":1
+		},
+		{
+			"ParentName":"Adds",
+			"ComponentName":"Other Adds",
+			"Weight":1
+		},
+		{
+			"ParentName":"Losses",
+			"ComponentName":"Mgmt Init Loss",
+			"Weight":1
+		},
+		{
+			"ParentName":"Losses",
+			"ComponentName":"Empl Init Loss",
+			"Weight":1
+		},
+		{
+			"ParentName":"Losses",
+			"ComponentName":"Other Losses",
+			"Weight":1
+		},
+		{
+			"ParentName":"Transfers",
+			"ComponentName":"Transfer In",
+			"Weight":1
+		},
+		{
+			"ParentName":"Transfers",
+			"ComponentName":"Transfer Out",
+			"Weight":1
+		},
+		{
+			"ParentName":"New Hires",
+			"ComponentName":"Vela Funded",
+			"Weight":1
+		},
+		{
+			"ParentName":"New Hires",
+			"ComponentName":"101 Roadmap Gap",
+			"Weight":1
+		},
+		{
+			"ParentName":"New Hires",
+			"ComponentName":"2023 GEM Internship",
+			"Weight":1
+		},
+		{
+			"ParentName":"New Hires",
+			"ComponentName":"Carry Over from 2022",
+			"Weight":1
+		},
+		{
+			"ParentName":"New Hires",
+			"ComponentName":"DC Opex Funding",
+			"Weight":1
+		},
+		{
+			"ParentName":"New Hires",
+			"ComponentName":"FedRAMP",
+			"Weight":1
+		},
+		{
+			"ParentName":"New Hires",
+			"ComponentName":"H100",
+			"Weight":1
+		},
+		{
+			"ParentName":"New Hires",
+			"ComponentName":"Hire Early Prof",
+			"Weight":1
+		},
+		{
+			"ParentName":"New Hires",
+			"ComponentName":"Hire Prof",
+			"Weight":1
+		},
+		{
+			"ParentName":"New Hires",
+			"ComponentName":"Intern",
+			"Weight":1
+		},
+		{
+			"ParentName":"New Hires",
+			"ComponentName":"Madrid MZR",
+			"Weight":1
+		},
+		{
+			"ParentName":"New Hires",
+			"ComponentName":"New Hire TBD",
+			"Weight":1
+		},
+		{
+			"ParentName":"New Hires",
+			"ComponentName":"Teleport Replacement",
+			"Weight":1
+		},
+		{
+			"ParentName":"New Hires",
+			"ComponentName":"VMware Unico",
+			"Weight":1
+		},
+		{
+			"ParentName":"New Hires",
+			"ComponentName":"Hire-EarlyProf",
+			"Weight":1
+		},
+		{
+			"ParentName":"New Hires",
+			"ComponentName":"Hire-Prof",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Adds",
+			"ComponentName":"ConvSys NR->RF",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Adds",
+			"ComponentName":"Begin IntAssgn",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Adds",
+			"ComponentName":"Acquisition",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Adds",
+			"ComponentName":"Add TBD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Adds",
+			"ComponentName":"Backfill",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Adds",
+			"ComponentName":"Bolivia Transition",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Adds",
+			"ComponentName":"Buffer Pool",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Adds",
+			"ComponentName":"Conversion from SubK",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Adds",
+			"ComponentName":"Convert RP to RF",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Adds",
+			"ComponentName":"DOU/ICA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Adds",
+			"ComponentName":"Geo Conversion In",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Adds",
+			"ComponentName":"Intel Funded",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Adds",
+			"ComponentName":"JIL Funded",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Adds",
+			"ComponentName":"Reclass $",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Adds",
+			"ComponentName":"Return from Furlough",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Adds",
+			"ComponentName":"Return from LOA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Adds",
+			"ComponentName":"Vendor",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Adds",
+			"ComponentName":"End LOA I->A",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Adds",
+			"ComponentName":"Convert RP->RF",
+			"Weight":1
+		},
+		{
+			"ParentName":"Transfer In",
+			"ComponentName":"Global Ldr Transfer In",
+			"Weight":1
+		},
+		{
+			"ParentName":"Transfer In",
+			"ComponentName":"Transfer In TBD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Transfer In",
+			"ComponentName":"Dept Transfer In",
+			"Weight":1
+		},
+		{
+			"ParentName":"Transfer In",
+			"ComponentName":"SG Transfer In",
+			"Weight":1
+		},
+		{
+			"ParentName":"Transfer In",
+			"ComponentName":"Div Transfer In",
+			"Weight":1
+		},
+		{
+			"ParentName":"Transfer In",
+			"ComponentName":"BU Transfer In",
+			"Weight":1
+		},
+		{
+			"ParentName":"Transfer In",
+			"ComponentName":"Org Transfer In",
+			"Weight":1
+		},
+		{
+			"ParentName":"Transfer In",
+			"ComponentName":"Funding Transfer In",
+			"Weight":1
+		},
+		{
+			"ParentName":"Transfer In",
+			"ComponentName":"System Transfer In",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Losses",
+			"ComponentName":"End Int Assgn",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Losses",
+			"ComponentName":"VolRCtytoCty",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Other Losses",
+			"ComponentName":"Death",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Other Losses",
+			"ComponentName":"Conversion to Reg",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Other Losses",
+			"ComponentName":"Convert Intern to EPH",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Other Losses",
+			"ComponentName":"Furlough",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Other Losses",
+			"ComponentName":"Geo Conversion Out",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Other Losses",
+			"ComponentName":"Intern Term End Date",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Other Losses",
+			"ComponentName":"Internal Job Movement",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Other Losses",
+			"ComponentName":"Loss due to New ID",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Other Losses",
+			"ComponentName":"Loss due to New ID for Geo Correction",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Other Losses",
+			"ComponentName":"Loss TBD",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Other Losses",
+			"ComponentName":"Offer Declined",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Other Losses",
+			"ComponentName":"Separation Oth",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Other Losses",
+			"ComponentName":"System Leaver",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Other Losses",
+			"ComponentName":"TOB",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Other Losses",
+			"ComponentName":"Vendor",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Other Losses",
+			"ComponentName":"Begin LOA A->I",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Other Losses",
+			"ComponentName":"Unknown Loss",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Other Losses",
+			"ComponentName":"Convert RF->RP",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Transfer Out",
+			"ComponentName":"Global Ldr Transfer Out",
+			"Weight":1
+		},
+		{
+			"ParentName":"Transfer Out",
+			"ComponentName":"Transfer Out TBD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Transfer Out",
+			"ComponentName":"Changed to Vendor",
+			"Weight":1
+		},
+		{
+			"ParentName":"Transfer Out",
+			"ComponentName":"Dept Transfer Out",
+			"Weight":1
+		},
+		{
+			"ParentName":"Transfer Out",
+			"ComponentName":"SG Transfer Out",
+			"Weight":1
+		},
+		{
+			"ParentName":"Transfer Out",
+			"ComponentName":"Div Transfer Out",
+			"Weight":1
+		},
+		{
+			"ParentName":"Transfer Out",
+			"ComponentName":"BU Transfer Out",
+			"Weight":1
+		},
+		{
+			"ParentName":"Transfer Out",
+			"ComponentName":"Org Transfer Out",
+			"Weight":1
+		},
+		{
+			"ParentName":"Transfer Out",
+			"ComponentName":"Funding Transfer Out",
+			"Weight":1
+		},
+		{
+			"ParentName":"Transfer Out",
+			"ComponentName":"System Transfer Out",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud TEL & Support",
+			"ComponentName":"Technology Expert Labs & Support",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Account Emp",
+			"ComponentName":"Employee Count",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Account Emp",
+			"ComponentName":"FTE",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Account Emp",
+			"ComponentName":"Headcount Status",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Account Emp",
+			"ComponentName":"Net Changes",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Account Emp",
+			"ComponentName":"Direct reports total",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Account Emp",
+			"ComponentName":"TI Alloc Participant",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Account Emp",
+			"ComponentName":"WorkPlace Site Population Break",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Account Emp",
+			"ComponentName":"Metro Market Population Break",
+			"Weight":1
+		},
+		{
+			"ParentName":"Mgmt Init Loss",
+			"ComponentName":"Div & Retire",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Mgmt Init Loss",
+			"ComponentName":"Divestiture",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Mgmt Init Loss",
+			"ComponentName":"Res Prog(V)",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Mgmt Init Loss",
+			"ComponentName":"BDM",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Mgmt Init Loss",
+			"ComponentName":"Bolivia Exit",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Mgmt Init Loss",
+			"ComponentName":"DC Closure",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Mgmt Init Loss",
+			"ComponentName":"Granite 1",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Mgmt Init Loss",
+			"ComponentName":"MIS",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Mgmt Init Loss",
+			"ComponentName":"Project Budget Depleted",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Mgmt Init Loss",
+			"ComponentName":"Res Prog",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Mgmt Init Loss",
+			"ComponentName":"Resl & Retire",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Mgmt Init Loss",
+			"ComponentName":"SubK Reduction",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Mgmt Init Loss",
+			"ComponentName":"SubK Reduction 5/23",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Mgmt Init Loss",
+			"ComponentName":"ResI & Retire",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Mgmt Init Loss",
+			"ComponentName":"Res Prog(I)",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Empl Init Loss",
+			"ComponentName":"EIS",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Empl Init Loss",
+			"ComponentName":"Retirement",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Empl Init Loss",
+			"ComponentName":"Vol Resign",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Cloud Native IaaS",
+			"ComponentName":"Cloud Object Storage",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native IaaS",
+			"ComponentName":"VPC Offerings",
+			"Weight":1
+		},
+		{
+			"ParentName":"IaaS",
+			"ComponentName":"Cloud Native IaaS",
+			"Weight":1
+		},
+		{
+			"ParentName":"IaaS",
+			"ComponentName":"Extended Enterprise",
+			"Weight":1
+		},
+		{
+			"ParentName":"IaaS",
+			"ComponentName":"IaaS Shared Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"Shared Services",
+			"ComponentName":"Compliance, Certifications and Risk",
+			"Weight":1
+		},
+		{
+			"ParentName":"Shared Services",
+			"ComponentName":"Design (PMO)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Shared Services",
+			"ComponentName":"Cloud Delivery and Operations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Shared Services",
+			"ComponentName":"Product Management/Design",
+			"Weight":1
+		},
+		{
+			"ParentName":"Shared Services",
+			"ComponentName":"Out of Scope (Cloud Platform)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Shared Services",
+			"ComponentName":"CTO",
+			"Weight":1
+		},
+		{
+			"ParentName":"U6 Allocation",
+			"ComponentName":"Shared Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"Extended Enterprise",
+			"ComponentName":"No Platform (IaaS Classic)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Extended Enterprise",
+			"ComponentName":"Power Virtual Server (PowerVS)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Extended Enterprise",
+			"ComponentName":"IaaS Classic",
+			"Weight":1
+		},
+		{
+			"ParentName":"Extended Enterprise",
+			"ComponentName":"SAP on IBM CLoud",
+			"Weight":1
+		},
+		{
+			"ParentName":"Extended Enterprise",
+			"ComponentName":"VMWare on IBM Cloud",
+			"Weight":1
+		},
+		{
+			"ParentName":"Extended Enterprise",
+			"ComponentName":"SAP Rise",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"Platform Automation",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"Cloudant (Public Cloud PaaS)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"Code Engine",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"DevTools",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"Cloud Database & Compose",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"Observability",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"Platform",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"Satellite",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"Event Streams for IBM Cloud",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"Red Hat Open Shift on IBM Cloud & Kubernetes",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"Security Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"IBM Platform Cloud",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"Cloud Containers",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"Platform Core",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"Cloud Security Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"Cloud Native Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"Cloud Data Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Native PaaS",
+			"ComponentName":"Deployment Automation-CD",
+			"Weight":1
+		},
+		{
+			"ParentName":"PaaS True Up/ Top",
+			"ComponentName":"PaaS Classic",
+			"Weight":1
+		},
+		{
+			"ParentName":"PaaS True Up/ Top",
+			"ComponentName":"PaaS True Up, Allocations and Other",
+			"Weight":1
+		},
+		{
+			"ParentName":"PaaS",
+			"ComponentName":"PaaS True Up/ Top",
+			"Weight":1
+		},
+		{
+			"ParentName":"PaaS",
+			"ComponentName":"Cloud Native PaaS",
+			"Weight":1
+		},
+		{
+			"ParentName":"PaaS",
+			"ComponentName":"HPC",
+			"Weight":1
+		},
+		{
+			"ParentName":"IaaS Shared Services",
+			"ComponentName":"DC Ops (IaaS Classic)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technology Expert Labs & Support",
+			"ComponentName":"IBM Garage for Public Cloud Platform (8E)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technology Expert Labs & Support",
+			"ComponentName":"GTM and Digital Support",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technology Expert Labs & Support",
+			"ComponentName":"Customer Support",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technology Expert Labs & Support",
+			"ComponentName":"IBM Cloud Premium & Advanced Support",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technology Expert Labs & Support",
+			"ComponentName":"IBM Center for Cloud Training",
+			"Weight":1
+		},
+		{
+			"ParentName":"HPC",
+			"ComponentName":"HPCaaS (High-Performance Computing as a Service)",
+			"Weight":1
+		},
+		{
+			"ParentName":"HPC",
+			"ComponentName":"Spectrum Computing",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Software Top Market (AUO)",
+			"ComponentName":"IBM Software Top Portfolio (AUO)",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Software Top Portfolio (AUO)",
+			"ComponentName":"Cloud Technology Expert Labs - U6 UKI",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Software Top Portfolio (AUO)",
+			"ComponentName":"TEL DEL GDC Cloud",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Software Top Portfolio (AUO)",
+			"ComponentName":"Cloud Support SE",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Software Top Portfolio (AUO)",
+			"ComponentName":"TEL DEL ANZ CLOUD",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Software Top Portfolio (AUO)",
+			"ComponentName":"TEL DEL US CLOUD",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Software Top Portfolio (AUO)",
+			"ComponentName":"TEL DEL LA CLOUD",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Software Top Portfolio (AUO)",
+			"ComponentName":"TEL DEL ITALY CLOUD",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Software Top Portfolio (AUO)",
+			"ComponentName":"TEL DEL CA CLOUD",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Software Top Portfolio (AUO)",
+			"ComponentName":"TEL DEL JAPAN CLOUD",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Software Top Portfolio (AUO)",
+			"ComponentName":"TEL DEL FRANCE CLOUD",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Software Top Portfolio (AUO)",
+			"ComponentName":"TEL DEL SPGI CLOUD",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Software Top Portfolio (AUO)",
+			"ComponentName":"TEL DEL UKI CLOUD",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Software Top Portfolio (AUO)",
+			"ComponentName":"TEL DEL WW TOP INFRA CLOUD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Public Cloud Platform-N/A",
+			"ComponentName":"Public Cloud Platform-N/A-N/A",
+			"Weight":1
+		},
+		{
+			"ParentName":"Public Cloud Platform-N/A-N/A",
+			"ComponentName":"Onboarding & Client Assurance - Harbour",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security Threat Management",
+			"ComponentName":"Security Threat Mgmt",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security Threat Mgmt",
+			"ComponentName":"SI: QR Next Gen - Dev",
+			"Weight":1
+		},
+		{
+			"ParentName":"Data Exchange",
+			"ComponentName":"B2B Integration",
+			"Weight":1
+		},
+		{
+			"ParentName":"B2B Integration",
+			"ComponentName":"SSW - SRE: SCBN",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"Account_Emp.subsets/Addes_Losses.json",
+		"Account_Emp.subsets/Employee Count.json",
+		"Account_Emp.subsets/Onboard.json",
+		"Account_Emp.subsets/TI_Alloc_Del.json"
+	]
+}

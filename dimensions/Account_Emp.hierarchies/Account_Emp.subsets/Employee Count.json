@@ -1,0 +1,13 @@
+{
+	"@type":"Subset",
+	"Name":"Employee Count",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Account_Emp')/Hierarchies('Account_Emp')/Elements('Employee Count')"
+		},
+		{
+			"@id":"Dimensions('Account_Emp')/Hierarchies('Account_Emp')/Elements('Onboard')"
+		}
+	]
+}

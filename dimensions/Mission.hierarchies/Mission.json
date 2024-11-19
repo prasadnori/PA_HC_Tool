@@ -1,0 +1,800 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Mission",
+	"Elements":
+	[
+		{
+			"Name":"Total Mission",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Network SDN / Overlay",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Network Underlay",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Network Services",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cloud India Lab",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Operations and Observability",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Security and Compliance",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PMO, BizOps and Biz Analytics",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DC Ops & DC Ops Other",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"File / Block Storage",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Acadia / Ceph",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cloud Object Storage (COS)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Compute (VPC/Classic) & AI",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Workload Engineering Services",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VMWare",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capacity and Fleet Management",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Classic (IMS)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Platform Architecture",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VPC Platform / NGDC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Hardware Design and Engineering",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Hardware Platform",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cloud Object Storage (COS Systems)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Automation",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Containers",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Data",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HPC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Observability",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Platform Core",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Security",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Compliance",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mission TBD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Reactive",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Fraud, Abuse, Incident Response",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Platform",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technical Expert Labs Delivery",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Compliance - All other programs",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Advisory",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SLT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Industry",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CTO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cloud Economics",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"1st Line Risk",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Architecture",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Automation and Governance",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Availability / Incident Management",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Business Continuity / Disaster Recovery",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Chief Controls Office",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Chief Risk Officer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Classic",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Compliance Continuous Monitoring",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Compliance ISMAP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Compliance PCI",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cross-Portfolio & GTM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Data Privacy",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Deputy / Manager – Multiple Missions",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Design",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Digital",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Exclude",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GTM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IaaS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IaaS Client Architecture",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ISV SaaS CoE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Network, Storage, Compute",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"OSS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Pen Test",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Platinum/Strategic",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PowerVS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PowerVS CoE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Regulatory Compliance Mgmt Systems",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Rohit direct",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Security Engineering",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SM Tooling",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Strategic Delivery Management",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"User Research",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PaaS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Onboarding & Client Assurance",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Service Mgmt Infrastructure",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Cloud Product & Industry Platforms",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"CTO/Common Services",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Security, Risk, and Cloud Economics",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Client Service Delivery",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Infrastructure as a Service",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Expert Labs & Solution Engr",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Problem Management",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MSP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Spectrum Computing",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"Total Mission",
+			"ComponentName":"SLT",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Mission",
+			"ComponentName":"Service Mgmt Infrastructure",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Mission",
+			"ComponentName":"Cloud Product & Industry Platforms",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Mission",
+			"ComponentName":"Onboarding & Client Assurance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Mission",
+			"ComponentName":"Strategic Delivery Management",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Mission",
+			"ComponentName":"CTO/Common Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Mission",
+			"ComponentName":"Security, Risk, and Cloud Economics",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Mission",
+			"ComponentName":"Client Service Delivery",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Mission",
+			"ComponentName":"Infrastructure as a Service",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Mission",
+			"ComponentName":"Expert Labs & Solution Engr",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Mission",
+			"ComponentName":"Exclude",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Mission",
+			"ComponentName":"Mission TBD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Onboarding & Client Assurance",
+			"ComponentName":"MSP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Onboarding & Client Assurance",
+			"ComponentName":"CSC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Onboarding & Client Assurance",
+			"ComponentName":"ISV SaaS CoE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Onboarding & Client Assurance",
+			"ComponentName":"Platinum/Strategic",
+			"Weight":1
+		},
+		{
+			"ParentName":"Onboarding & Client Assurance",
+			"ComponentName":"PowerVS CoE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Service Mgmt Infrastructure",
+			"ComponentName":"Problem Management",
+			"Weight":1
+		},
+		{
+			"ParentName":"Service Mgmt Infrastructure",
+			"ComponentName":"Advisory",
+			"Weight":1
+		},
+		{
+			"ParentName":"Service Mgmt Infrastructure",
+			"ComponentName":"Availability / Incident Management",
+			"Weight":1
+		},
+		{
+			"ParentName":"Service Mgmt Infrastructure",
+			"ComponentName":"Business Continuity / Disaster Recovery",
+			"Weight":1
+		},
+		{
+			"ParentName":"Service Mgmt Infrastructure",
+			"ComponentName":"Deputy / Manager – Multiple Missions",
+			"Weight":1
+		},
+		{
+			"ParentName":"Service Mgmt Infrastructure",
+			"ComponentName":"OSS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Service Mgmt Infrastructure",
+			"ComponentName":"SM Tooling",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"Classic",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"Compliance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"Cross-Portfolio & GTM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"Design",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"IaaS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"IaaS Client Architecture",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"Industry",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"Network, Storage, Compute",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"PaaS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"PowerVS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"Rohit direct",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"Security",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"User Research",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"Spectrum Computing",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"Automation",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"Containers",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"CTO",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"Data",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"HPC",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"Observability",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"Platform Core",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"Platform",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"Reactive",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"1st Line Risk",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"Architecture",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"Automation and Governance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"Chief Controls Office",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"Chief Risk Officer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"Cloud Economics",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"Compliance Continuous Monitoring",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"Compliance ISMAP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"Compliance PCI",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"Compliance - All other programs",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"Data Privacy",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"Fraud, Abuse, Incident Response",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"Pen Test",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"Regulatory Compliance Mgmt Systems",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"Security Engineering",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"Digital",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"GTM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Infrastructure as a Service",
+			"ComponentName":"Acadia / Ceph",
+			"Weight":1
+		},
+		{
+			"ParentName":"Infrastructure as a Service",
+			"ComponentName":"Capacity and Fleet Management",
+			"Weight":1
+		},
+		{
+			"ParentName":"Infrastructure as a Service",
+			"ComponentName":"Classic (IMS)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Infrastructure as a Service",
+			"ComponentName":"Cloud India Lab",
+			"Weight":1
+		},
+		{
+			"ParentName":"Infrastructure as a Service",
+			"ComponentName":"Cloud Object Storage (COS)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Infrastructure as a Service",
+			"ComponentName":"Cloud Object Storage (COS Systems)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Infrastructure as a Service",
+			"ComponentName":"Compute (VPC/Classic) & AI",
+			"Weight":1
+		},
+		{
+			"ParentName":"Infrastructure as a Service",
+			"ComponentName":"DC Ops & DC Ops Other",
+			"Weight":1
+		},
+		{
+			"ParentName":"Infrastructure as a Service",
+			"ComponentName":"File / Block Storage",
+			"Weight":1
+		},
+		{
+			"ParentName":"Infrastructure as a Service",
+			"ComponentName":"Hardware Design and Engineering",
+			"Weight":1
+		},
+		{
+			"ParentName":"Infrastructure as a Service",
+			"ComponentName":"Hardware Platform",
+			"Weight":1
+		},
+		{
+			"ParentName":"Infrastructure as a Service",
+			"ComponentName":"Network SDN / Overlay",
+			"Weight":1
+		},
+		{
+			"ParentName":"Infrastructure as a Service",
+			"ComponentName":"Network Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"Infrastructure as a Service",
+			"ComponentName":"Network Underlay",
+			"Weight":1
+		},
+		{
+			"ParentName":"Infrastructure as a Service",
+			"ComponentName":"Operations and Observability",
+			"Weight":1
+		},
+		{
+			"ParentName":"Infrastructure as a Service",
+			"ComponentName":"Platform Architecture",
+			"Weight":1
+		},
+		{
+			"ParentName":"Infrastructure as a Service",
+			"ComponentName":"PMO, BizOps and Biz Analytics",
+			"Weight":1
+		},
+		{
+			"ParentName":"Infrastructure as a Service",
+			"ComponentName":"Security and Compliance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Infrastructure as a Service",
+			"ComponentName":"VMWare",
+			"Weight":1
+		},
+		{
+			"ParentName":"Infrastructure as a Service",
+			"ComponentName":"VPC Platform / NGDC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Infrastructure as a Service",
+			"ComponentName":"Workload Engineering Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"Expert Labs & Solution Engr",
+			"ComponentName":"Technical Expert Labs Delivery",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"Mission.subsets/Source_}Process - Cube Head Count Plan New Load - 19114.json",
+		"Mission.subsets/Source_}Process - Cube Head Count Plan New Load - 24090.json",
+		"Mission.subsets/Source_}Process - Cube Head Count Plan New Load - 24992.json",
+		"Mission.subsets/Source_}Process - Cube Head Count Plan New Load - 25647.json",
+		"Mission.subsets/Source_}Process - Cube Head Count Plan New Load - 33108.json",
+		"Mission.subsets/Source_}Process - Cube Head Count Plan New Load - 59053.json",
+		"Mission.subsets/Source_}Process - Cube Head Count Plan New Load - 7382.json",
+		"Mission.subsets/Source_}Process - Cube Head Count Plan New Load - 87086.json",
+		"Mission.subsets/Source_}Process - Cube Head Count Plan New Load - 91311.json"
+	]
+}

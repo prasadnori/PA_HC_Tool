@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"BP Employee Type = V",
+	"Expression":"{FILTER(TM1SUBSETALL([Employee].[Employee Type]) , ([Employee].[Employee Type].CURRENTMEMBER.PROPERTIES(\"BP Employee Type\") = \"V\"))}"
+}

@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"Version = FORECAST",
+	"Expression":"{{FILTER(TM1SubsetAll([Time].[Time]), ([Time].[Time].CURRENTMEMBER.PROPERTIES(\"Version\") = \"FORECAST\"))}}"
+}

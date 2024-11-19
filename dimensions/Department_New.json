@@ -1,0 +1,17 @@
+{
+	"@type":"Dimension",
+	"Name":"Department_New",
+	"AllLeavesHierarchyName":"Leaves",
+	"Hierarchies@Code.links":
+	[
+		"Department_New.hierarchies/Department_New.json",
+		"Department_New.hierarchies/Department Function.json",
+		"Department_New.hierarchies/Department Service Group.json",
+		"Department_New.hierarchies/Department Service Group New.json",
+		"Department_New.hierarchies/Department Service Group Prior to Jul24.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Department_New')/Hierarchies('Department_New')"
+	}
+}

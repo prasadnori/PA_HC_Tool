@@ -1,0 +1,6668 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Job Category New",
+	"Elements":
+	[
+		{
+			"Name":"Total Job Category",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Job Category TBD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AR - Architect",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Other Architect",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Application Architect",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Architect",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Business Architect",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Business Process Solution Architect",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Chief Architect",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Enterprise Architect",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Experience Architect",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"General Other IT Architect",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Information Architect",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Infrastructure Architect",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Integration Architect",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Operations Architect",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Security Architect",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Solution Architect",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Systems Engineering Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technical Architect",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technical Solution Architect",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Test Architect",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AD - Enterprise Operations",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Bus Outsourcing Delivery - Cust Relationship Mgmt",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"CRM Delivery Cust Svc Rep",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CRM Delivery Cust Svc Team Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CRM Delivery Cust Svc Business Mgr",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CRM Delivery Cust Svc Mgr",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CRM Delivery Solutions Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Business Operations",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Resource Deployment Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Financing Business Support Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Compliance Audit & Risk Assurer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Compliance Tester",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Capacity Management Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Contract Commercial Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Contract Management Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Contract Management Analyst",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Contract Management Advisor",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Performance & Optimization Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Project Staffing Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Resource Staffing Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Workforce Management Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Process Services",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Recruiting Services Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Process Innovation Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Process Delivery Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Contracts and Negotiations",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Contract Negotiator",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Contract Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sales Support",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Business Operations Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Deal Facilitator",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Deal Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sales Reporting Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SPO Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Business Partner Experience Advocate",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Business Advisor",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sales Execution & Management Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Global Sales Coverage Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Client Satisfaction Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sales Compliance Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Enterprise Enablement Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sales Management Strategy & Transformation",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sales Enablement Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Other Enterprise Operations",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Facility Management Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Administration Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Administrative Analyst",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Administrative Staff Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Real Estate Financial Planning & Contracts Prof",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"General Legal Support Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Real Estate Facilities Operations Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Security Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Text/Graphics Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Corporate Development Professional, M&A",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Business Programs Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technology Business Development Executive",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Process Excellence & Transformation Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Administrator",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Export Regulations Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Quote to Cash Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Agile Coach",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Governance and Enablement Officer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Learning & Development Programs Administrator",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Client Success Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Enterprise Analytics Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Enterprise Performance Management Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Enterprise Operations Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Quote to Cash Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Enterprise Operations & Services Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Global CRM Experience Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Business Excellence Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Corporate Real Estate Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Safety & Security Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Strategy & Transformation Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Strategy & Business Development Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CN - Consultant",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Other Consultant",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Package Consultant",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Application Consultant",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Resiliency Consultant",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Engagement Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Industry Consultant",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Business Transformation Consultant",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IT Management Consultant",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Security Consultant",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Business Design Consultant",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"General Other Consultant",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Business Sales & Delivery Executive",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technical Consultant",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Associate Partner Incentive",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Implementation Consultant",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Data Consultant",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Experience Consultant",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Hacker",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Quality Consultant",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Strategy Principal",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Complex Project Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Delivery Consultant",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Delivery Practice Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Client Financial Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Client Partner",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Country Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Geo Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Global Delivery & Center Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Global Industry Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Growth Platform Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Industry & Domain Expert",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Industry Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Lead Client Partner",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Managing Client Partner",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Market Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Offering Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Practice Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Quality Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sector Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Service Area Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Service Line Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Solutioning Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Thought Leadership & Platforms Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Delivery Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Threat Intelligence Consultant",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Incident Response Consultant",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Managing Delivery Partner",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Strategy Consultant (CN2)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Strategy Consultant",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DS - Data Science",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Other Data Science",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Quantitative Financial Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Data Scientist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Data Analyst",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Meteorologist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ML Ops. Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ML Engineer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Chief Data Scientist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Data Science Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DP - Design",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Design",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Designer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Design Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Distinguished Designer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FI - Finance",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Accounting",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Accountant",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Senior Accountant",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Lead Accountant",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Accounting Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Accounting Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Accounting Technologist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Tax and Treasury",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Treasury Operations",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Controls/Compliance Officer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Financial Markets Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Pension Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Tax Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Treasury Technology & Transformation Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Treasury Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Tax Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Audit",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Internal Auditor/Investigator",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Audit / Compliance Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Finance Business Controls",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Business Controls Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Business Planning",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Associate Business Planning Analyst",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Business Planning Analyst",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Business Planning Advisor",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Business Planning Support Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Pricing",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Business Model/Offering Pricing",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Complex Transaction Pricing",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Volume Transaction Pricing",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Operations Pricing",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Pricing Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Business Outsourcing Delivery - Fin & Admin",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Fin & Admin Business Associate",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Fin & Admin Business Analyst",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Fin & Admin Delivery Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Fin & Admin Process Owner",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Fin & Admin Service Delivery Executive",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Fin & Admin Delivery Team Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Other Finance",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Credit Analyst",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Financial Analyst",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Risk Management Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Incentive Analyst",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Incentive Process Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Incentives Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Global Sales Incentive Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CFO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Controller",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Credit Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Investor Relations Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Risk Management Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Pension Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GM - General Management",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Other General Management",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"People Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Portfolio Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Business Executive",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Functional Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Open Source & Standards Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Country General Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Managing Director",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Client Facing/Solns Integration Distinguished Engn",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Country General Manager (Incentive)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Deal Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Market Maker",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Senior Vice President",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Corporate Development Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Strategic Partnership Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Strategy & Enablement Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Integration Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Corporate Strategy Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Intellectual Property Licensing Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HD - Hardware Development & Support",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Hardware Engineer",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Packaging Engineering Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Functional Verification Engineering Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Hardware Architect",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Hardware Designer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Firmware Engineering Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Microprocessor Development Engineering Prof",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Product/System Assurance & Validation Eng Prof",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Circuit Design Engineering Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Logic Design Engineering Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Chip/Unit Integration Engineering Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Development Product Engineering Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Development Application Engineering Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Test, Characterization & Diagnostics Eng Prof",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Process Modeling & SW Development Engineering Prof",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Design Aids & Automation Engineering Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Device Design & Modeling Engineering Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Semiconductor Process Integration Engineering Prof",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Unit Process Engineering Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Semiconductor Quality/Reliability Engineering Prof",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Product Engineering Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Senior Technical Staff Member-Hardware",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Layout Mask Designer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Other Hardware Development & Support",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Product Eng/Product Field Engineer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Hardware Developer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Supply Chain Engineering Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technical Support Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technician in Development",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Hardware Test Technician",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Circuit Layout Design Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Development Engineering Technician",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technician",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Lab Technician",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HR - Human Resources",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Other Human Resources",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Employee & Labor Relations Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Human Resources Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Workforce Skills & Analytics Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Global Mobility Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Talent Solutions Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Employee & Labor Relations Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Employee Experience Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Talent Solutions Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HR Services",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Executive Administrative Assistant",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HR Services Administrator",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IBM AskHR Contact Center Representative",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HR Services Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HR Delivery Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HR Delivery Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Payroll Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HR Digital Enablement Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HR Operations Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Payroll Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Global Mobility Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Strategic Enterprise Transformation Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Learning",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Learning Consultant",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Learning Facilitator",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Learning Developer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Learning Operations",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Learning Portfolio & Project Management",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Knowledge Services Consultant",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Learning Strategist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Learning & Skills Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Corporate Health & Safety",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Safety/IH Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Medical Specialist-Physician",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Medical Specialist-Nurse",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CH&S Program Management & Support Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Corporate Health & Safety Medical Specialists",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CH&S Safety & Industrial Hygiene Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Corporate Health & Safety Health Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Medical Professional Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HR Partners",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"HR Strategic Business Unit Partner",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HR Business Unit Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HR Generalist Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Talent Acquisition",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Recruitment Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Talent Acquisition Partner",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Talent Acquisition Administrator",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Talent Acquisition Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Compensation & Benefits",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Benefits Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Compensation Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Benefits Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Compensation Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Compensation & Benefits Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Inclusion & Leadership",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Executive Succession & Development Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Diversity Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Leadership Development Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Leadership, Development, & Inclusion Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HR Business Development",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"HR Business Development Consultant",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HR Business Development Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LE - Legal",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Lawyer (LE1)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Lawyer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Intellectual Property Lawyer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"General Legal Counsel",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Intellectual Property Legal Counsel",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mergers & Acquisitions Legal Counsel",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Intellectual Property Legal",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Intellectual Property Paralegal",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Patent Agent",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Patent Engineering Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Compliance Legal Counsel",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Other Legal",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Paralegal",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Government & Regulatory Affairs Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Legal Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Governance & Enablement Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Governmental Programs Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Risk & Compliance Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Environmental Affairs Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Contracts and Negotiation Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MA - Marketing, Comms & CSR",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Content",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Brand, Creative, & Content Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Client & Ecosystem Engagement",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Field MCC Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Event & Experience Marketing Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IBM Innovation Studio Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Event & Experience Marketing Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Field Marketing & Communications Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Experience Engine",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Demand Generation Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Analytics Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Media Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Digital Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Analytics & Data Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Demand Generation Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Digital Marketing Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Product Marketing",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Product Marketer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Product Marketing & Communications Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Social",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Social Media and Influence Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Social Media & Influence Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Brand",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Brand, Creative and Content Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Marketing Strategy & Operations",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"MCC Operations Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Transformation & Development Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Marketing Strategy Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Marketing & Communications Operations Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Marketing & Communications Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Corporate Citizenship",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Corporate Social Responsibility Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Corporate Social Responsibility Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cross Communications",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Cross Communications Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"External Relations",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"External Relations Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Analyst Relations Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"External Relations Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IBMer Communications",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Executive Communications Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IBMer Communications Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MF - Manufacturing",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Engineer in Manufacturing",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Application Support Engineering Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Configuration Engineering Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Industrial Engineering Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Manufacturing Engineering Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Process Engineering Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Manufacturing Quality Engineering Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Manufacturing Test Engineering Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technician in Manufacturing",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Manufacturing Team Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Customized Solutions Technician",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EC Management Release Technician",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Manufacturing Engineering Technician",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Manufacturing Technician",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Quality Technician",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Manufacturing Test Technician",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Manufacturing Fab Facility Support Technician",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Production Operations",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Inventory Control Analyst",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Customized Solutions Production Operator",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Other Manufacturing",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Environmental, Chemical & Toxicology Eng Prof",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Product Safety & HW Compliance Engineering Prof",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Real Estate Facilities Engineering Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Manufacturing Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"OM - Offering Management",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Offering Management",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Offering Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Product Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Product Management Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Strategy & Product Management Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PM - Project Management",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Other Project Management",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Project Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Project Administrator",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Transition Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Measurements & Reporting Analyst",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Delivery Project Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Quality Assurance Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Business Area Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Delivery Engagement Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technical Resolution Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"General Other Project Management",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Delivery Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Program Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Client Delivery Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PS - Product Services",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Other Product Services",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Software Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technical Support Representative",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Account Technical Representative",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Service Planning Representative",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"System Services Representative",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technical Team Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Remote Technical Support",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Client Availability Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RD - Research",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Research Staff",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Research Scientist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Research Staff Member",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Distinguished Research Scientist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Principal Research Scientist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Postdoctoral Researcher",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Academic Visitor",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Pre-Doctoral Student",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Staff Research Scientist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Senior Research Scientist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Senior Research Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Distinguished Engineer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Fellow",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Lab Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Distinguished Scientist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Research Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SC - Supply Chain",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Procurement",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Procurement Engineering Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Procurement Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Procurement Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Procurement Sourcing Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Accounts Payable Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Procurement Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Procurement Sourcing Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Accounts Payable Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Logistics",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Trade Compliance Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Logistics Operations Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Fulfillment",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Accounts Receivable Collections Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Customer/BP Support OnLine Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Customer Relationship Representative (CRR)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Supply Management/Scheduling Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Fulfillment Contract and Solutions Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Fulfillment Team Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Fulfillment Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Accounts Receivable Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Channel Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"End-to-End Supply Chain Management",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Supply Chain Management Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Supply Chain Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Other Supply Chain",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Supply Chain Operations Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Asset Management Analyst",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Data Enablement Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Supply Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Process Services Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Accounts Receivable & Cash Management Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Enterprise Asset Management Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Supply Chain Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SD - Software Development & Support",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Software Engineer",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Software Architect",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Software Performance Analyst",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Developer Advocate",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"L3 Support Engineer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"QA/Test Developer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Back-End Developer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Front-End Developer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DevOps Developer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Firmware Developer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Compiler Technology Developer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Other Software Development & Support",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Build/Packaging Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Customer/Partner Engagement Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Software Release Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Senior Technical Staff Member (STSM)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technology Advocate",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Researcher",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Software Development Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Product Owner",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technical Content Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Chief Technical Officer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Development Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DevOps Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Software Developer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Service & Support",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Technical Support Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Software Service Planner",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technical Enablement Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Support Architect",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SL - Sales",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Other Sales",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Solution Representative",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Solution Representative-Brand Specialist (SW)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sales Manager Incentive",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Holding Code Outside Sales",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Holding Code Outside Sales Incentive",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Holding Code Outside Sales Incentive (STD)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Holding Code Software Sales Incentive",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Holding Code Software Sales Incentive (STD)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Holding Code Digital Sales",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Holding Code Digital Sales Incentive",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Holding Code Digital Sales Incentive (STD)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Acquisition Sales Transition Incentive",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Acquisition SW Sales Transition Incentive",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Acquisition Sales Transition Incentive Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Acquisition Technical Transition Incentive",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Acquisition Technl Transition Incentive Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Acquisition Digital Sales Incentive",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sales Enablement & Skills Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Financing Sales Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Financing Sales Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WW Ecosystem Sales Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WW Technical Sales Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WW Sales Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sales Enablement & Skills Content Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Intellectual Property Sales Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Strategic Sales Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technical Sales Architect & Specialist",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Solution Representative-Brand Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Client Technical Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"General Other Technical Sales Architect",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"General Other Sales",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"General Other Solution Sales",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"General Other Technical Sales Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Solution Sales Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Client Technical Architect",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Client Solution Executive",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Business Development Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sales Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Market General Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Market Sales Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Early Sales Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Ecosystem Sales",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Ecosystem Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Partner Recruitment Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Brand Partner Specialist - Territory",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technology Partner Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ISV Partner Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Brand Partner Specialist - Partner",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ISV Success Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Ecosystem Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Service Technology Partner Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Client Engineering Sales",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Client Engineering - Designer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Client Engineering - Technology Engineer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Client Engineering Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Client Engineering - Business Technology Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Client Engineering - Data Scientist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Client Engineering - Solution Architect",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Ecosystem Engineering - Solution Architect",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Ecosystem Engineering - AI Engineer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Ecosystem Engineering - Technology Engineer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Ecosystem Engineering Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sales Engineering Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Client Engineering - AI Engineer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technical Sales",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Partner Technical Specialist - Partner",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technical Sales Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Brand Technical Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Customer Success Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Customer Success Manager - Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Brand Technical Specialist Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Digital Technical Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Z Architect",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Digitization Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Account Technical Leader Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Account Technical Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Partner Technical Specialist - Territory",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Customer Success Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Brand Sales",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Brand Sales Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Brand Sales Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Digital Sales",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Digital Sales Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Digital Sales Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sales Development Representative",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Digital Sales Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technology Portfolio Sales",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Technology Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technology Cross Brand Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technology Seller",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technology Seller Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technology MD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Industry Technology Seller",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Industry Technology Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technology Managing Director",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technology Sales Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Licensing & Renewal Sales",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Dealmaker - Sales",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Licensing Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Subscription & Annuity Representative",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Subscription & Annuity Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SR - Site Reliability Engineer",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Other Site Reliability Engineer",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Site Reliability Engineering Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SS - Services Solutions Management",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Other Services Solutions Management",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"General Other Services Solutions Management",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Solution Consultant",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technical Solution Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Industry Solutions Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Security Services Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technical Solutions Management",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Client Technical Solutioner",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TS - Technical Specialist",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Services Specialist",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Business Analyst",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Application Developer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Application Database Administrator",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Data Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Quality Engineer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Infrastructure Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Information Developer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"General Other IT Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Appl Integration & Middleware Solutions Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Business Information Management Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Content Management Solutions Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Network Services Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Server Services Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Storage Services Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Package Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cross Systems Services Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Security Services Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Application Development Programmer Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Application Programmer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Data Engineer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Information Security Analyst",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Digital Business Architect",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DevOps Engineer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technical Services Specialist",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Systems Management Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Systems Programmer",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Computer Operator",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Client Service Representative",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Team Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IMAC Coordinator",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Deskside Support Representative",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Security Delivery Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Software Platform Management Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Service Coordinator",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Operations Production Analyst",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Systems Administrator",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Operations/Technical Support Duty Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technical Operations Analyst",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Systems Support Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Network Support Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Data Center Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Service Delivery Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Delivery Analyst",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Account/Technical Subject Matter Expert",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Service Availability Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Service Integration Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"System Database Administrator",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technical Services Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Client Support Relations",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technical Services General Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Integrated Service Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technical Specialist Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Unified Systems Operator",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Services Delivery Squad Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Information Technology Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cyber Security Incident Response Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technical Solutions Support Specialist",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Security Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Server Support Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Testing Support Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Appl Integration & Middleware Support Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Appl Development Products Support Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Content Management Support Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Data Management Support Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Storage Support Specialist",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Technical Specialist General Professional",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"OT - Other",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Aviation",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Pilot",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Aviation Manager",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Aviation Inspector/Technician",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Aviation Leader",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Unassigned",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Executive",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Graduate",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Student/Intern",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Position Pending Holding Code",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Acquisition Transition Incentive (DTP)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Acquisition Transition Incentive Mgr (DTP)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Acquisition Transition Digital Sales (DTP)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Acquisition Transition Tech Sales (DTP)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Acquisition Transition Tech Sales Mgr (DTP)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Unkown",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"Total Job Category",
+			"ComponentName":"Job Category TBD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Job Category",
+			"ComponentName":"AR - Architect",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Job Category",
+			"ComponentName":"AD - Enterprise Operations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Job Category",
+			"ComponentName":"CN - Consultant",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Job Category",
+			"ComponentName":"DS - Data Science",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Job Category",
+			"ComponentName":"DP - Design",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Job Category",
+			"ComponentName":"FI - Finance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Job Category",
+			"ComponentName":"GM - General Management",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Job Category",
+			"ComponentName":"HD - Hardware Development & Support",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Job Category",
+			"ComponentName":"HR - Human Resources",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Job Category",
+			"ComponentName":"LE - Legal",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Job Category",
+			"ComponentName":"MA - Marketing, Comms & CSR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Job Category",
+			"ComponentName":"MF - Manufacturing",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Job Category",
+			"ComponentName":"OM - Offering Management",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Job Category",
+			"ComponentName":"PM - Project Management",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Job Category",
+			"ComponentName":"PS - Product Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Job Category",
+			"ComponentName":"RD - Research",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Job Category",
+			"ComponentName":"SC - Supply Chain",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Job Category",
+			"ComponentName":"SD - Software Development & Support",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Job Category",
+			"ComponentName":"SL - Sales",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Job Category",
+			"ComponentName":"SR - Site Reliability Engineer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Job Category",
+			"ComponentName":"SS - Services Solutions Management",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Job Category",
+			"ComponentName":"TS - Technical Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Job Category",
+			"ComponentName":"OT - Other",
+			"Weight":1
+		},
+		{
+			"ParentName":"AR - Architect",
+			"ComponentName":"Other Architect",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Architect",
+			"ComponentName":"Application Architect",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Architect",
+			"ComponentName":"Architect",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Architect",
+			"ComponentName":"Business Architect",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Architect",
+			"ComponentName":"Business Process Solution Architect",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Architect",
+			"ComponentName":"Chief Architect",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Architect",
+			"ComponentName":"Enterprise Architect",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Architect",
+			"ComponentName":"Experience Architect",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Architect",
+			"ComponentName":"General Other IT Architect",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Architect",
+			"ComponentName":"Information Architect",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Architect",
+			"ComponentName":"Infrastructure Architect",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Architect",
+			"ComponentName":"Integration Architect",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Architect",
+			"ComponentName":"Operations Architect",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Architect",
+			"ComponentName":"Security Architect",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Architect",
+			"ComponentName":"Solution Architect",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Architect",
+			"ComponentName":"Systems Engineering Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Architect",
+			"ComponentName":"Technical Architect",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Architect",
+			"ComponentName":"Technical Solution Architect",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Architect",
+			"ComponentName":"Test Architect",
+			"Weight":1
+		},
+		{
+			"ParentName":"AD - Enterprise Operations",
+			"ComponentName":"Bus Outsourcing Delivery - Cust Relationship Mgmt",
+			"Weight":1
+		},
+		{
+			"ParentName":"AD - Enterprise Operations",
+			"ComponentName":"Business Operations",
+			"Weight":1
+		},
+		{
+			"ParentName":"AD - Enterprise Operations",
+			"ComponentName":"Process Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"AD - Enterprise Operations",
+			"ComponentName":"Contracts and Negotiations",
+			"Weight":1
+		},
+		{
+			"ParentName":"AD - Enterprise Operations",
+			"ComponentName":"Sales Support",
+			"Weight":1
+		},
+		{
+			"ParentName":"AD - Enterprise Operations",
+			"ComponentName":"Other Enterprise Operations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Bus Outsourcing Delivery - Cust Relationship Mgmt",
+			"ComponentName":"CRM Delivery Cust Svc Rep",
+			"Weight":1
+		},
+		{
+			"ParentName":"Bus Outsourcing Delivery - Cust Relationship Mgmt",
+			"ComponentName":"CRM Delivery Cust Svc Team Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Bus Outsourcing Delivery - Cust Relationship Mgmt",
+			"ComponentName":"CRM Delivery Cust Svc Business Mgr",
+			"Weight":1
+		},
+		{
+			"ParentName":"Bus Outsourcing Delivery - Cust Relationship Mgmt",
+			"ComponentName":"CRM Delivery Cust Svc Mgr",
+			"Weight":1
+		},
+		{
+			"ParentName":"Bus Outsourcing Delivery - Cust Relationship Mgmt",
+			"ComponentName":"CRM Delivery Solutions Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Business Operations",
+			"ComponentName":"Resource Deployment Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Business Operations",
+			"ComponentName":"Financing Business Support Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Business Operations",
+			"ComponentName":"Compliance Audit & Risk Assurer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Business Operations",
+			"ComponentName":"Compliance Tester",
+			"Weight":1
+		},
+		{
+			"ParentName":"Business Operations",
+			"ComponentName":"Capacity Management Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Business Operations",
+			"ComponentName":"Contract Commercial Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Business Operations",
+			"ComponentName":"Contract Management Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Business Operations",
+			"ComponentName":"Contract Management Analyst",
+			"Weight":1
+		},
+		{
+			"ParentName":"Business Operations",
+			"ComponentName":"Contract Management Advisor",
+			"Weight":1
+		},
+		{
+			"ParentName":"Business Operations",
+			"ComponentName":"Performance & Optimization Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Business Operations",
+			"ComponentName":"Project Staffing Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Business Operations",
+			"ComponentName":"Resource Staffing Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Business Operations",
+			"ComponentName":"Workforce Management Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Process Services",
+			"ComponentName":"Recruiting Services Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Process Services",
+			"ComponentName":"Process Innovation Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Process Services",
+			"ComponentName":"Process Delivery Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Contracts and Negotiations",
+			"ComponentName":"Contract Negotiator",
+			"Weight":1
+		},
+		{
+			"ParentName":"Contracts and Negotiations",
+			"ComponentName":"Contract Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sales Support",
+			"ComponentName":"Business Operations Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sales Support",
+			"ComponentName":"Deal Facilitator",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sales Support",
+			"ComponentName":"Deal Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sales Support",
+			"ComponentName":"Sales Reporting Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sales Support",
+			"ComponentName":"SPO Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sales Support",
+			"ComponentName":"Business Partner Experience Advocate",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sales Support",
+			"ComponentName":"Business Advisor",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sales Support",
+			"ComponentName":"Sales Execution & Management Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sales Support",
+			"ComponentName":"Global Sales Coverage Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sales Support",
+			"ComponentName":"Client Satisfaction Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sales Support",
+			"ComponentName":"Sales Compliance Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sales Support",
+			"ComponentName":"Enterprise Enablement Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sales Support",
+			"ComponentName":"Sales Management Strategy & Transformation",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sales Support",
+			"ComponentName":"Sales Enablement Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Enterprise Operations",
+			"ComponentName":"Facility Management Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Enterprise Operations",
+			"ComponentName":"Administration Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Enterprise Operations",
+			"ComponentName":"Administrative Analyst",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Enterprise Operations",
+			"ComponentName":"Administrative Staff Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Enterprise Operations",
+			"ComponentName":"Real Estate Financial Planning & Contracts Prof",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Enterprise Operations",
+			"ComponentName":"General Legal Support Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Enterprise Operations",
+			"ComponentName":"Real Estate Facilities Operations Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Enterprise Operations",
+			"ComponentName":"Security Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Enterprise Operations",
+			"ComponentName":"Text/Graphics Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Enterprise Operations",
+			"ComponentName":"Corporate Development Professional, M&A",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Enterprise Operations",
+			"ComponentName":"Business Programs Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Enterprise Operations",
+			"ComponentName":"Technology Business Development Executive",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Enterprise Operations",
+			"ComponentName":"Process Excellence & Transformation Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Enterprise Operations",
+			"ComponentName":"Administrator",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Enterprise Operations",
+			"ComponentName":"Export Regulations Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Enterprise Operations",
+			"ComponentName":"Quote to Cash Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Enterprise Operations",
+			"ComponentName":"Agile Coach",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Enterprise Operations",
+			"ComponentName":"Governance and Enablement Officer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Enterprise Operations",
+			"ComponentName":"Learning & Development Programs Administrator",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Enterprise Operations",
+			"ComponentName":"Client Success Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Enterprise Operations",
+			"ComponentName":"Enterprise Analytics Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Enterprise Operations",
+			"ComponentName":"Enterprise Performance Management Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Enterprise Operations",
+			"ComponentName":"Enterprise Operations Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Enterprise Operations",
+			"ComponentName":"Quote to Cash Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Enterprise Operations",
+			"ComponentName":"Enterprise Operations & Services Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Enterprise Operations",
+			"ComponentName":"Global CRM Experience Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Enterprise Operations",
+			"ComponentName":"Business Excellence Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Enterprise Operations",
+			"ComponentName":"Corporate Real Estate Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Enterprise Operations",
+			"ComponentName":"Safety & Security Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Enterprise Operations",
+			"ComponentName":"Strategy & Transformation Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Enterprise Operations",
+			"ComponentName":"Strategy & Business Development Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"CN - Consultant",
+			"ComponentName":"Other Consultant",
+			"Weight":1
+		},
+		{
+			"ParentName":"CN - Consultant",
+			"ComponentName":"Strategy Consultant (CN2)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Package Consultant",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Application Consultant",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Resiliency Consultant",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Engagement Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Industry Consultant",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Business Transformation Consultant",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"IT Management Consultant",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Security Consultant",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Business Design Consultant",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"General Other Consultant",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Business Sales & Delivery Executive",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Technical Consultant",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Associate Partner Incentive",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Implementation Consultant",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Data Consultant",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Experience Consultant",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Hacker",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Quality Consultant",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Strategy Principal",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Complex Project Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Delivery Consultant",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Delivery Practice Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Client Financial Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Client Partner",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Country Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Geo Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Global Delivery & Center Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Global Industry Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Growth Platform Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Industry & Domain Expert",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Industry Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Lead Client Partner",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Managing Client Partner",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Market Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Offering Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Practice Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Quality Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Sector Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Service Area Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Service Line Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Solutioning Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Thought Leadership & Platforms Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Delivery Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Threat Intelligence Consultant",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Incident Response Consultant",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Consultant",
+			"ComponentName":"Managing Delivery Partner",
+			"Weight":1
+		},
+		{
+			"ParentName":"Strategy Consultant (CN2)",
+			"ComponentName":"Strategy Consultant",
+			"Weight":1
+		},
+		{
+			"ParentName":"DS - Data Science",
+			"ComponentName":"Other Data Science",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Data Science",
+			"ComponentName":"Quantitative Financial Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Data Science",
+			"ComponentName":"Data Scientist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Data Science",
+			"ComponentName":"Data Analyst",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Data Science",
+			"ComponentName":"Meteorologist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Data Science",
+			"ComponentName":"ML Ops. Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Data Science",
+			"ComponentName":"ML Engineer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Data Science",
+			"ComponentName":"Chief Data Scientist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Data Science",
+			"ComponentName":"Data Science Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"DP - Design",
+			"ComponentName":"Design",
+			"Weight":1
+		},
+		{
+			"ParentName":"Design",
+			"ComponentName":"Designer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Design",
+			"ComponentName":"Design Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Design",
+			"ComponentName":"Distinguished Designer",
+			"Weight":1
+		},
+		{
+			"ParentName":"FI - Finance",
+			"ComponentName":"Accounting",
+			"Weight":1
+		},
+		{
+			"ParentName":"FI - Finance",
+			"ComponentName":"Tax and Treasury",
+			"Weight":1
+		},
+		{
+			"ParentName":"FI - Finance",
+			"ComponentName":"Audit",
+			"Weight":1
+		},
+		{
+			"ParentName":"FI - Finance",
+			"ComponentName":"Finance Business Controls",
+			"Weight":1
+		},
+		{
+			"ParentName":"FI - Finance",
+			"ComponentName":"Business Planning",
+			"Weight":1
+		},
+		{
+			"ParentName":"FI - Finance",
+			"ComponentName":"Pricing",
+			"Weight":1
+		},
+		{
+			"ParentName":"FI - Finance",
+			"ComponentName":"Business Outsourcing Delivery - Fin & Admin",
+			"Weight":1
+		},
+		{
+			"ParentName":"FI - Finance",
+			"ComponentName":"Other Finance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Accounting",
+			"ComponentName":"Accountant",
+			"Weight":1
+		},
+		{
+			"ParentName":"Accounting",
+			"ComponentName":"Senior Accountant",
+			"Weight":1
+		},
+		{
+			"ParentName":"Accounting",
+			"ComponentName":"Lead Accountant",
+			"Weight":1
+		},
+		{
+			"ParentName":"Accounting",
+			"ComponentName":"Accounting Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Accounting",
+			"ComponentName":"Accounting Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Accounting",
+			"ComponentName":"Accounting Technologist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Tax and Treasury",
+			"ComponentName":"Treasury Operations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Tax and Treasury",
+			"ComponentName":"Controls/Compliance Officer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Tax and Treasury",
+			"ComponentName":"Financial Markets Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Tax and Treasury",
+			"ComponentName":"Pension Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Tax and Treasury",
+			"ComponentName":"Tax Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Tax and Treasury",
+			"ComponentName":"Treasury Technology & Transformation Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Tax and Treasury",
+			"ComponentName":"Treasury Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Tax and Treasury",
+			"ComponentName":"Tax Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Audit",
+			"ComponentName":"Internal Auditor/Investigator",
+			"Weight":1
+		},
+		{
+			"ParentName":"Audit",
+			"ComponentName":"Audit / Compliance Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Finance Business Controls",
+			"ComponentName":"Business Controls Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Business Planning",
+			"ComponentName":"Associate Business Planning Analyst",
+			"Weight":1
+		},
+		{
+			"ParentName":"Business Planning",
+			"ComponentName":"Business Planning Analyst",
+			"Weight":1
+		},
+		{
+			"ParentName":"Business Planning",
+			"ComponentName":"Business Planning Advisor",
+			"Weight":1
+		},
+		{
+			"ParentName":"Business Planning",
+			"ComponentName":"Business Planning Support Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Pricing",
+			"ComponentName":"Business Model/Offering Pricing",
+			"Weight":1
+		},
+		{
+			"ParentName":"Pricing",
+			"ComponentName":"Complex Transaction Pricing",
+			"Weight":1
+		},
+		{
+			"ParentName":"Pricing",
+			"ComponentName":"Volume Transaction Pricing",
+			"Weight":1
+		},
+		{
+			"ParentName":"Pricing",
+			"ComponentName":"Operations Pricing",
+			"Weight":1
+		},
+		{
+			"ParentName":"Pricing",
+			"ComponentName":"Pricing Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Business Outsourcing Delivery - Fin & Admin",
+			"ComponentName":"Fin & Admin Business Associate",
+			"Weight":1
+		},
+		{
+			"ParentName":"Business Outsourcing Delivery - Fin & Admin",
+			"ComponentName":"Fin & Admin Business Analyst",
+			"Weight":1
+		},
+		{
+			"ParentName":"Business Outsourcing Delivery - Fin & Admin",
+			"ComponentName":"Fin & Admin Delivery Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Business Outsourcing Delivery - Fin & Admin",
+			"ComponentName":"Fin & Admin Process Owner",
+			"Weight":1
+		},
+		{
+			"ParentName":"Business Outsourcing Delivery - Fin & Admin",
+			"ComponentName":"Fin & Admin Service Delivery Executive",
+			"Weight":1
+		},
+		{
+			"ParentName":"Business Outsourcing Delivery - Fin & Admin",
+			"ComponentName":"Fin & Admin Delivery Team Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Finance",
+			"ComponentName":"Credit Analyst",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Finance",
+			"ComponentName":"Financial Analyst",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Finance",
+			"ComponentName":"Risk Management Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Finance",
+			"ComponentName":"Incentive Analyst",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Finance",
+			"ComponentName":"Incentive Process Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Finance",
+			"ComponentName":"Incentives Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Finance",
+			"ComponentName":"Global Sales Incentive Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Finance",
+			"ComponentName":"CFO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Finance",
+			"ComponentName":"Controller",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Finance",
+			"ComponentName":"Credit Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Finance",
+			"ComponentName":"Investor Relations Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Finance",
+			"ComponentName":"Risk Management Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Finance",
+			"ComponentName":"Pension Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"GM - General Management",
+			"ComponentName":"Other General Management",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other General Management",
+			"ComponentName":"People Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other General Management",
+			"ComponentName":"Portfolio Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other General Management",
+			"ComponentName":"Business Executive",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other General Management",
+			"ComponentName":"Functional Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other General Management",
+			"ComponentName":"Open Source & Standards Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other General Management",
+			"ComponentName":"Country General Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other General Management",
+			"ComponentName":"Managing Director",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other General Management",
+			"ComponentName":"Client Facing/Solns Integration Distinguished Engn",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other General Management",
+			"ComponentName":"Country General Manager (Incentive)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other General Management",
+			"ComponentName":"Deal Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other General Management",
+			"ComponentName":"Market Maker",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other General Management",
+			"ComponentName":"Senior Vice President",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other General Management",
+			"ComponentName":"Corporate Development Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other General Management",
+			"ComponentName":"Strategic Partnership Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other General Management",
+			"ComponentName":"Strategy & Enablement Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other General Management",
+			"ComponentName":"Integration Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other General Management",
+			"ComponentName":"Corporate Strategy Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other General Management",
+			"ComponentName":"Intellectual Property Licensing Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"HD - Hardware Development & Support",
+			"ComponentName":"Hardware Engineer",
+			"Weight":1
+		},
+		{
+			"ParentName":"HD - Hardware Development & Support",
+			"ComponentName":"Other Hardware Development & Support",
+			"Weight":1
+		},
+		{
+			"ParentName":"HD - Hardware Development & Support",
+			"ComponentName":"Technician in Development",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hardware Engineer",
+			"ComponentName":"Packaging Engineering Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hardware Engineer",
+			"ComponentName":"Functional Verification Engineering Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hardware Engineer",
+			"ComponentName":"Hardware Architect",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hardware Engineer",
+			"ComponentName":"Hardware Designer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hardware Engineer",
+			"ComponentName":"Firmware Engineering Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hardware Engineer",
+			"ComponentName":"Microprocessor Development Engineering Prof",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hardware Engineer",
+			"ComponentName":"Product/System Assurance & Validation Eng Prof",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hardware Engineer",
+			"ComponentName":"Circuit Design Engineering Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hardware Engineer",
+			"ComponentName":"Logic Design Engineering Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hardware Engineer",
+			"ComponentName":"Chip/Unit Integration Engineering Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hardware Engineer",
+			"ComponentName":"Development Product Engineering Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hardware Engineer",
+			"ComponentName":"Development Application Engineering Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hardware Engineer",
+			"ComponentName":"Test, Characterization & Diagnostics Eng Prof",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hardware Engineer",
+			"ComponentName":"Process Modeling & SW Development Engineering Prof",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hardware Engineer",
+			"ComponentName":"Design Aids & Automation Engineering Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hardware Engineer",
+			"ComponentName":"Device Design & Modeling Engineering Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hardware Engineer",
+			"ComponentName":"Semiconductor Process Integration Engineering Prof",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hardware Engineer",
+			"ComponentName":"Unit Process Engineering Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hardware Engineer",
+			"ComponentName":"Semiconductor Quality/Reliability Engineering Prof",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hardware Engineer",
+			"ComponentName":"Product Engineering Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hardware Engineer",
+			"ComponentName":"Senior Technical Staff Member-Hardware",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hardware Engineer",
+			"ComponentName":"Layout Mask Designer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Hardware Development & Support",
+			"ComponentName":"Product Eng/Product Field Engineer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Hardware Development & Support",
+			"ComponentName":"Hardware Developer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Hardware Development & Support",
+			"ComponentName":"Supply Chain Engineering Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Hardware Development & Support",
+			"ComponentName":"Technical Support Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technician in Development",
+			"ComponentName":"Hardware Test Technician",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technician in Development",
+			"ComponentName":"Circuit Layout Design Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technician in Development",
+			"ComponentName":"Development Engineering Technician",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technician in Development",
+			"ComponentName":"Technician",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technician in Development",
+			"ComponentName":"Lab Technician",
+			"Weight":1
+		},
+		{
+			"ParentName":"HR - Human Resources",
+			"ComponentName":"Other Human Resources",
+			"Weight":1
+		},
+		{
+			"ParentName":"HR - Human Resources",
+			"ComponentName":"HR Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"HR - Human Resources",
+			"ComponentName":"Learning",
+			"Weight":1
+		},
+		{
+			"ParentName":"HR - Human Resources",
+			"ComponentName":"Corporate Health & Safety",
+			"Weight":1
+		},
+		{
+			"ParentName":"HR - Human Resources",
+			"ComponentName":"HR Partners",
+			"Weight":1
+		},
+		{
+			"ParentName":"HR - Human Resources",
+			"ComponentName":"Talent Acquisition",
+			"Weight":1
+		},
+		{
+			"ParentName":"HR - Human Resources",
+			"ComponentName":"Compensation & Benefits",
+			"Weight":1
+		},
+		{
+			"ParentName":"HR - Human Resources",
+			"ComponentName":"Inclusion & Leadership",
+			"Weight":1
+		},
+		{
+			"ParentName":"HR - Human Resources",
+			"ComponentName":"HR Business Development",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Human Resources",
+			"ComponentName":"Employee & Labor Relations Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Human Resources",
+			"ComponentName":"Human Resources Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Human Resources",
+			"ComponentName":"Workforce Skills & Analytics Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Human Resources",
+			"ComponentName":"Global Mobility Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Human Resources",
+			"ComponentName":"Talent Solutions Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Human Resources",
+			"ComponentName":"Employee & Labor Relations Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Human Resources",
+			"ComponentName":"Employee Experience Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Human Resources",
+			"ComponentName":"Talent Solutions Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"HR Services",
+			"ComponentName":"Executive Administrative Assistant",
+			"Weight":1
+		},
+		{
+			"ParentName":"HR Services",
+			"ComponentName":"HR Services Administrator",
+			"Weight":1
+		},
+		{
+			"ParentName":"HR Services",
+			"ComponentName":"IBM AskHR Contact Center Representative",
+			"Weight":1
+		},
+		{
+			"ParentName":"HR Services",
+			"ComponentName":"HR Services Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"HR Services",
+			"ComponentName":"HR Delivery Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"HR Services",
+			"ComponentName":"HR Delivery Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"HR Services",
+			"ComponentName":"Payroll Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"HR Services",
+			"ComponentName":"HR Digital Enablement Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"HR Services",
+			"ComponentName":"HR Operations Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"HR Services",
+			"ComponentName":"Payroll Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"HR Services",
+			"ComponentName":"Global Mobility Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"HR Services",
+			"ComponentName":"Strategic Enterprise Transformation Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Learning",
+			"ComponentName":"Learning Consultant",
+			"Weight":1
+		},
+		{
+			"ParentName":"Learning",
+			"ComponentName":"Learning Facilitator",
+			"Weight":1
+		},
+		{
+			"ParentName":"Learning",
+			"ComponentName":"Learning Developer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Learning",
+			"ComponentName":"Learning Operations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Learning",
+			"ComponentName":"Learning Portfolio & Project Management",
+			"Weight":1
+		},
+		{
+			"ParentName":"Learning",
+			"ComponentName":"Knowledge Services Consultant",
+			"Weight":1
+		},
+		{
+			"ParentName":"Learning",
+			"ComponentName":"Learning Strategist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Learning",
+			"ComponentName":"Learning & Skills Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corporate Health & Safety",
+			"ComponentName":"Safety/IH Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corporate Health & Safety",
+			"ComponentName":"Medical Specialist-Physician",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corporate Health & Safety",
+			"ComponentName":"Medical Specialist-Nurse",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corporate Health & Safety",
+			"ComponentName":"CH&S Program Management & Support Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corporate Health & Safety",
+			"ComponentName":"Corporate Health & Safety Medical Specialists",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corporate Health & Safety",
+			"ComponentName":"CH&S Safety & Industrial Hygiene Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corporate Health & Safety",
+			"ComponentName":"Corporate Health & Safety Health Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corporate Health & Safety",
+			"ComponentName":"Medical Professional Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"HR Partners",
+			"ComponentName":"HR Strategic Business Unit Partner",
+			"Weight":1
+		},
+		{
+			"ParentName":"HR Partners",
+			"ComponentName":"HR Business Unit Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"HR Partners",
+			"ComponentName":"HR Generalist Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Talent Acquisition",
+			"ComponentName":"Recruitment Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Talent Acquisition",
+			"ComponentName":"Talent Acquisition Partner",
+			"Weight":1
+		},
+		{
+			"ParentName":"Talent Acquisition",
+			"ComponentName":"Talent Acquisition Administrator",
+			"Weight":1
+		},
+		{
+			"ParentName":"Talent Acquisition",
+			"ComponentName":"Talent Acquisition Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Compensation & Benefits",
+			"ComponentName":"Benefits Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Compensation & Benefits",
+			"ComponentName":"Compensation Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Compensation & Benefits",
+			"ComponentName":"Benefits Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Compensation & Benefits",
+			"ComponentName":"Compensation Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Compensation & Benefits",
+			"ComponentName":"Compensation & Benefits Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Inclusion & Leadership",
+			"ComponentName":"Executive Succession & Development Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Inclusion & Leadership",
+			"ComponentName":"Diversity Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Inclusion & Leadership",
+			"ComponentName":"Leadership Development Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Inclusion & Leadership",
+			"ComponentName":"Leadership, Development, & Inclusion Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"HR Business Development",
+			"ComponentName":"HR Business Development Consultant",
+			"Weight":1
+		},
+		{
+			"ParentName":"HR Business Development",
+			"ComponentName":"HR Business Development Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"LE - Legal",
+			"ComponentName":"Lawyer (LE1)",
+			"Weight":1
+		},
+		{
+			"ParentName":"LE - Legal",
+			"ComponentName":"Intellectual Property Legal",
+			"Weight":1
+		},
+		{
+			"ParentName":"LE - Legal",
+			"ComponentName":"Other Legal",
+			"Weight":1
+		},
+		{
+			"ParentName":"Lawyer (LE1)",
+			"ComponentName":"Lawyer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Lawyer (LE1)",
+			"ComponentName":"Intellectual Property Lawyer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Lawyer (LE1)",
+			"ComponentName":"General Legal Counsel",
+			"Weight":1
+		},
+		{
+			"ParentName":"Lawyer (LE1)",
+			"ComponentName":"Intellectual Property Legal Counsel",
+			"Weight":1
+		},
+		{
+			"ParentName":"Lawyer (LE1)",
+			"ComponentName":"Mergers & Acquisitions Legal Counsel",
+			"Weight":1
+		},
+		{
+			"ParentName":"Intellectual Property Legal",
+			"ComponentName":"Intellectual Property Paralegal",
+			"Weight":1
+		},
+		{
+			"ParentName":"Intellectual Property Legal",
+			"ComponentName":"Patent Agent",
+			"Weight":1
+		},
+		{
+			"ParentName":"Intellectual Property Legal",
+			"ComponentName":"Patent Engineering Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Intellectual Property Legal",
+			"ComponentName":"Compliance Legal Counsel",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Legal",
+			"ComponentName":"Paralegal",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Legal",
+			"ComponentName":"Government & Regulatory Affairs Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Legal",
+			"ComponentName":"Legal Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Legal",
+			"ComponentName":"Governance & Enablement Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Legal",
+			"ComponentName":"Governmental Programs Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Legal",
+			"ComponentName":"Risk & Compliance Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Legal",
+			"ComponentName":"Environmental Affairs Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Legal",
+			"ComponentName":"Contracts and Negotiation Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"MA - Marketing, Comms & CSR",
+			"ComponentName":"Content",
+			"Weight":1
+		},
+		{
+			"ParentName":"MA - Marketing, Comms & CSR",
+			"ComponentName":"Client & Ecosystem Engagement",
+			"Weight":1
+		},
+		{
+			"ParentName":"MA - Marketing, Comms & CSR",
+			"ComponentName":"Experience Engine",
+			"Weight":1
+		},
+		{
+			"ParentName":"MA - Marketing, Comms & CSR",
+			"ComponentName":"Product Marketing",
+			"Weight":1
+		},
+		{
+			"ParentName":"MA - Marketing, Comms & CSR",
+			"ComponentName":"Social",
+			"Weight":1
+		},
+		{
+			"ParentName":"MA - Marketing, Comms & CSR",
+			"ComponentName":"Brand",
+			"Weight":1
+		},
+		{
+			"ParentName":"MA - Marketing, Comms & CSR",
+			"ComponentName":"Marketing Strategy & Operations",
+			"Weight":1
+		},
+		{
+			"ParentName":"MA - Marketing, Comms & CSR",
+			"ComponentName":"Corporate Citizenship",
+			"Weight":1
+		},
+		{
+			"ParentName":"MA - Marketing, Comms & CSR",
+			"ComponentName":"Cross Communications",
+			"Weight":1
+		},
+		{
+			"ParentName":"MA - Marketing, Comms & CSR",
+			"ComponentName":"External Relations",
+			"Weight":1
+		},
+		{
+			"ParentName":"MA - Marketing, Comms & CSR",
+			"ComponentName":"IBMer Communications",
+			"Weight":1
+		},
+		{
+			"ParentName":"Content",
+			"ComponentName":"Brand, Creative, & Content Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client & Ecosystem Engagement",
+			"ComponentName":"Field MCC Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client & Ecosystem Engagement",
+			"ComponentName":"Event & Experience Marketing Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client & Ecosystem Engagement",
+			"ComponentName":"IBM Innovation Studio Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client & Ecosystem Engagement",
+			"ComponentName":"Event & Experience Marketing Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client & Ecosystem Engagement",
+			"ComponentName":"Field Marketing & Communications Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Experience Engine",
+			"ComponentName":"Demand Generation Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Experience Engine",
+			"ComponentName":"Analytics Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Experience Engine",
+			"ComponentName":"Media Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Experience Engine",
+			"ComponentName":"Digital Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Experience Engine",
+			"ComponentName":"Analytics & Data Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Experience Engine",
+			"ComponentName":"Demand Generation Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Experience Engine",
+			"ComponentName":"Digital Marketing Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Product Marketing",
+			"ComponentName":"Product Marketer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Product Marketing",
+			"ComponentName":"Product Marketing & Communications Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Social",
+			"ComponentName":"Social Media and Influence Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Social",
+			"ComponentName":"Social Media & Influence Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Brand",
+			"ComponentName":"Brand, Creative and Content Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Marketing Strategy & Operations",
+			"ComponentName":"MCC Operations Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Marketing Strategy & Operations",
+			"ComponentName":"Transformation & Development Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Marketing Strategy & Operations",
+			"ComponentName":"Marketing Strategy Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Marketing Strategy & Operations",
+			"ComponentName":"Marketing & Communications Operations Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Marketing Strategy & Operations",
+			"ComponentName":"Marketing & Communications Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corporate Citizenship",
+			"ComponentName":"Corporate Social Responsibility Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Corporate Citizenship",
+			"ComponentName":"Corporate Social Responsibility Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cross Communications",
+			"ComponentName":"Cross Communications Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"External Relations",
+			"ComponentName":"External Relations Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"External Relations",
+			"ComponentName":"Analyst Relations Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"External Relations",
+			"ComponentName":"External Relations Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBMer Communications",
+			"ComponentName":"Executive Communications Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBMer Communications",
+			"ComponentName":"IBMer Communications Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"MF - Manufacturing",
+			"ComponentName":"Engineer in Manufacturing",
+			"Weight":1
+		},
+		{
+			"ParentName":"MF - Manufacturing",
+			"ComponentName":"Technician in Manufacturing",
+			"Weight":1
+		},
+		{
+			"ParentName":"MF - Manufacturing",
+			"ComponentName":"Production Operations",
+			"Weight":1
+		},
+		{
+			"ParentName":"MF - Manufacturing",
+			"ComponentName":"Other Manufacturing",
+			"Weight":1
+		},
+		{
+			"ParentName":"Engineer in Manufacturing",
+			"ComponentName":"Application Support Engineering Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Engineer in Manufacturing",
+			"ComponentName":"Configuration Engineering Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Engineer in Manufacturing",
+			"ComponentName":"Industrial Engineering Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Engineer in Manufacturing",
+			"ComponentName":"Manufacturing Engineering Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Engineer in Manufacturing",
+			"ComponentName":"Process Engineering Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Engineer in Manufacturing",
+			"ComponentName":"Manufacturing Quality Engineering Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Engineer in Manufacturing",
+			"ComponentName":"Manufacturing Test Engineering Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technician in Manufacturing",
+			"ComponentName":"Manufacturing Team Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technician in Manufacturing",
+			"ComponentName":"Customized Solutions Technician",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technician in Manufacturing",
+			"ComponentName":"EC Management Release Technician",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technician in Manufacturing",
+			"ComponentName":"Manufacturing Engineering Technician",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technician in Manufacturing",
+			"ComponentName":"Manufacturing Technician",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technician in Manufacturing",
+			"ComponentName":"Quality Technician",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technician in Manufacturing",
+			"ComponentName":"Manufacturing Test Technician",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technician in Manufacturing",
+			"ComponentName":"Manufacturing Fab Facility Support Technician",
+			"Weight":1
+		},
+		{
+			"ParentName":"Production Operations",
+			"ComponentName":"Inventory Control Analyst",
+			"Weight":1
+		},
+		{
+			"ParentName":"Production Operations",
+			"ComponentName":"Customized Solutions Production Operator",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Manufacturing",
+			"ComponentName":"Environmental, Chemical & Toxicology Eng Prof",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Manufacturing",
+			"ComponentName":"Product Safety & HW Compliance Engineering Prof",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Manufacturing",
+			"ComponentName":"Real Estate Facilities Engineering Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Manufacturing",
+			"ComponentName":"Manufacturing Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"OM - Offering Management",
+			"ComponentName":"Offering Management",
+			"Weight":1
+		},
+		{
+			"ParentName":"Offering Management",
+			"ComponentName":"Offering Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Offering Management",
+			"ComponentName":"Product Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Offering Management",
+			"ComponentName":"Product Management Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Offering Management",
+			"ComponentName":"Strategy & Product Management Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"PM - Project Management",
+			"ComponentName":"Other Project Management",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Project Management",
+			"ComponentName":"Project Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Project Management",
+			"ComponentName":"Project Administrator",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Project Management",
+			"ComponentName":"Transition Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Project Management",
+			"ComponentName":"Measurements & Reporting Analyst",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Project Management",
+			"ComponentName":"Delivery Project Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Project Management",
+			"ComponentName":"Quality Assurance Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Project Management",
+			"ComponentName":"Business Area Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Project Management",
+			"ComponentName":"Delivery Engagement Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Project Management",
+			"ComponentName":"Technical Resolution Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Project Management",
+			"ComponentName":"General Other Project Management",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Project Management",
+			"ComponentName":"Delivery Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Project Management",
+			"ComponentName":"Program Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Project Management",
+			"ComponentName":"Client Delivery Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"PS - Product Services",
+			"ComponentName":"Other Product Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Product Services",
+			"ComponentName":"Software Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Product Services",
+			"ComponentName":"Technical Support Representative",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Product Services",
+			"ComponentName":"Account Technical Representative",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Product Services",
+			"ComponentName":"Service Planning Representative",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Product Services",
+			"ComponentName":"System Services Representative",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Product Services",
+			"ComponentName":"Technical Team Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Product Services",
+			"ComponentName":"Remote Technical Support",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Product Services",
+			"ComponentName":"Client Availability Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"RD - Research",
+			"ComponentName":"Research Staff",
+			"Weight":1
+		},
+		{
+			"ParentName":"Research Staff",
+			"ComponentName":"Research Scientist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Research Staff",
+			"ComponentName":"Research Staff Member",
+			"Weight":1
+		},
+		{
+			"ParentName":"Research Staff",
+			"ComponentName":"Distinguished Research Scientist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Research Staff",
+			"ComponentName":"Principal Research Scientist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Research Staff",
+			"ComponentName":"Postdoctoral Researcher",
+			"Weight":1
+		},
+		{
+			"ParentName":"Research Staff",
+			"ComponentName":"Academic Visitor",
+			"Weight":1
+		},
+		{
+			"ParentName":"Research Staff",
+			"ComponentName":"Pre-Doctoral Student",
+			"Weight":1
+		},
+		{
+			"ParentName":"Research Staff",
+			"ComponentName":"Staff Research Scientist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Research Staff",
+			"ComponentName":"Senior Research Scientist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Research Staff",
+			"ComponentName":"Senior Research Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Research Staff",
+			"ComponentName":"Distinguished Engineer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Research Staff",
+			"ComponentName":"Fellow",
+			"Weight":1
+		},
+		{
+			"ParentName":"Research Staff",
+			"ComponentName":"Lab Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Research Staff",
+			"ComponentName":"Distinguished Scientist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Research Staff",
+			"ComponentName":"Research Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"SC - Supply Chain",
+			"ComponentName":"Procurement",
+			"Weight":1
+		},
+		{
+			"ParentName":"SC - Supply Chain",
+			"ComponentName":"Logistics",
+			"Weight":1
+		},
+		{
+			"ParentName":"SC - Supply Chain",
+			"ComponentName":"Fulfillment",
+			"Weight":1
+		},
+		{
+			"ParentName":"SC - Supply Chain",
+			"ComponentName":"End-to-End Supply Chain Management",
+			"Weight":1
+		},
+		{
+			"ParentName":"SC - Supply Chain",
+			"ComponentName":"Other Supply Chain",
+			"Weight":1
+		},
+		{
+			"ParentName":"Procurement",
+			"ComponentName":"Procurement Engineering Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Procurement",
+			"ComponentName":"Procurement Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Procurement",
+			"ComponentName":"Procurement Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Procurement",
+			"ComponentName":"Procurement Sourcing Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Procurement",
+			"ComponentName":"Accounts Payable Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Procurement",
+			"ComponentName":"Procurement Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Procurement",
+			"ComponentName":"Procurement Sourcing Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Procurement",
+			"ComponentName":"Accounts Payable Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Logistics",
+			"ComponentName":"Trade Compliance Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Logistics",
+			"ComponentName":"Logistics Operations Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Fulfillment",
+			"ComponentName":"Accounts Receivable Collections Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Fulfillment",
+			"ComponentName":"Customer/BP Support OnLine Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Fulfillment",
+			"ComponentName":"Customer Relationship Representative (CRR)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Fulfillment",
+			"ComponentName":"Supply Management/Scheduling Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Fulfillment",
+			"ComponentName":"Fulfillment Contract and Solutions Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Fulfillment",
+			"ComponentName":"Fulfillment Team Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Fulfillment",
+			"ComponentName":"Fulfillment Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Fulfillment",
+			"ComponentName":"Accounts Receivable Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Fulfillment",
+			"ComponentName":"Channel Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"End-to-End Supply Chain Management",
+			"ComponentName":"Supply Chain Management Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"End-to-End Supply Chain Management",
+			"ComponentName":"Supply Chain Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Supply Chain",
+			"ComponentName":"Supply Chain Operations Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Supply Chain",
+			"ComponentName":"Asset Management Analyst",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Supply Chain",
+			"ComponentName":"Data Enablement Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Supply Chain",
+			"ComponentName":"Supply Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Supply Chain",
+			"ComponentName":"Process Services Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Supply Chain",
+			"ComponentName":"Accounts Receivable & Cash Management Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Supply Chain",
+			"ComponentName":"Enterprise Asset Management Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Supply Chain",
+			"ComponentName":"Supply Chain Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"SD - Software Development & Support",
+			"ComponentName":"Software Engineer",
+			"Weight":1
+		},
+		{
+			"ParentName":"SD - Software Development & Support",
+			"ComponentName":"Other Software Development & Support",
+			"Weight":1
+		},
+		{
+			"ParentName":"SD - Software Development & Support",
+			"ComponentName":"Service & Support",
+			"Weight":1
+		},
+		{
+			"ParentName":"Software Engineer",
+			"ComponentName":"Software Architect",
+			"Weight":1
+		},
+		{
+			"ParentName":"Software Engineer",
+			"ComponentName":"Software Performance Analyst",
+			"Weight":1
+		},
+		{
+			"ParentName":"Software Engineer",
+			"ComponentName":"Developer Advocate",
+			"Weight":1
+		},
+		{
+			"ParentName":"Software Engineer",
+			"ComponentName":"L3 Support Engineer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Software Engineer",
+			"ComponentName":"QA/Test Developer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Software Engineer",
+			"ComponentName":"Back-End Developer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Software Engineer",
+			"ComponentName":"Front-End Developer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Software Engineer",
+			"ComponentName":"DevOps Developer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Software Engineer",
+			"ComponentName":"Firmware Developer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Software Engineer",
+			"ComponentName":"Compiler Technology Developer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Software Development & Support",
+			"ComponentName":"Build/Packaging Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Software Development & Support",
+			"ComponentName":"Customer/Partner Engagement Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Software Development & Support",
+			"ComponentName":"Software Release Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Software Development & Support",
+			"ComponentName":"Senior Technical Staff Member (STSM)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Software Development & Support",
+			"ComponentName":"Technology Advocate",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Software Development & Support",
+			"ComponentName":"Researcher",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Software Development & Support",
+			"ComponentName":"Software Development Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Software Development & Support",
+			"ComponentName":"Product Owner",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Software Development & Support",
+			"ComponentName":"Technical Content Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Software Development & Support",
+			"ComponentName":"Chief Technical Officer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Software Development & Support",
+			"ComponentName":"Development Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Software Development & Support",
+			"ComponentName":"DevOps Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Software Development & Support",
+			"ComponentName":"Software Developer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Service & Support",
+			"ComponentName":"Technical Support Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Service & Support",
+			"ComponentName":"Software Service Planner",
+			"Weight":1
+		},
+		{
+			"ParentName":"Service & Support",
+			"ComponentName":"Technical Enablement Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Service & Support",
+			"ComponentName":"Support Architect",
+			"Weight":1
+		},
+		{
+			"ParentName":"SL - Sales",
+			"ComponentName":"Other Sales",
+			"Weight":1
+		},
+		{
+			"ParentName":"SL - Sales",
+			"ComponentName":"Technical Sales Architect & Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"SL - Sales",
+			"ComponentName":"Ecosystem Sales",
+			"Weight":1
+		},
+		{
+			"ParentName":"SL - Sales",
+			"ComponentName":"Client Engineering Sales",
+			"Weight":1
+		},
+		{
+			"ParentName":"SL - Sales",
+			"ComponentName":"Technical Sales",
+			"Weight":1
+		},
+		{
+			"ParentName":"SL - Sales",
+			"ComponentName":"Brand Sales",
+			"Weight":1
+		},
+		{
+			"ParentName":"SL - Sales",
+			"ComponentName":"Digital Sales",
+			"Weight":1
+		},
+		{
+			"ParentName":"SL - Sales",
+			"ComponentName":"Technology Portfolio Sales",
+			"Weight":1
+		},
+		{
+			"ParentName":"SL - Sales",
+			"ComponentName":"Licensing & Renewal Sales",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Sales",
+			"ComponentName":"Solution Representative",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Sales",
+			"ComponentName":"Solution Representative-Brand Specialist (SW)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Sales",
+			"ComponentName":"Sales Manager Incentive",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Sales",
+			"ComponentName":"Holding Code Outside Sales",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Sales",
+			"ComponentName":"Holding Code Outside Sales Incentive",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Sales",
+			"ComponentName":"Holding Code Outside Sales Incentive (STD)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Sales",
+			"ComponentName":"Holding Code Software Sales Incentive",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Sales",
+			"ComponentName":"Holding Code Software Sales Incentive (STD)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Sales",
+			"ComponentName":"Holding Code Digital Sales",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Sales",
+			"ComponentName":"Holding Code Digital Sales Incentive",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Sales",
+			"ComponentName":"Holding Code Digital Sales Incentive (STD)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Sales",
+			"ComponentName":"Acquisition Sales Transition Incentive",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Sales",
+			"ComponentName":"Acquisition SW Sales Transition Incentive",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Sales",
+			"ComponentName":"Acquisition Sales Transition Incentive Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Sales",
+			"ComponentName":"Acquisition Technical Transition Incentive",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Sales",
+			"ComponentName":"Acquisition Technl Transition Incentive Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Sales",
+			"ComponentName":"Acquisition Digital Sales Incentive",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Sales",
+			"ComponentName":"Sales Enablement & Skills Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Sales",
+			"ComponentName":"Financing Sales Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Sales",
+			"ComponentName":"Financing Sales Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Sales",
+			"ComponentName":"WW Ecosystem Sales Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Sales",
+			"ComponentName":"WW Technical Sales Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Sales",
+			"ComponentName":"WW Sales Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Sales",
+			"ComponentName":"Sales Enablement & Skills Content Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Sales",
+			"ComponentName":"Intellectual Property Sales Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Sales",
+			"ComponentName":"Strategic Sales Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Sales Architect & Specialist",
+			"ComponentName":"Solution Representative-Brand Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Sales Architect & Specialist",
+			"ComponentName":"Client Technical Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Sales Architect & Specialist",
+			"ComponentName":"General Other Technical Sales Architect",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Sales Architect & Specialist",
+			"ComponentName":"General Other Sales",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Sales Architect & Specialist",
+			"ComponentName":"General Other Solution Sales",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Sales Architect & Specialist",
+			"ComponentName":"General Other Technical Sales Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Sales Architect & Specialist",
+			"ComponentName":"Solution Sales Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Sales Architect & Specialist",
+			"ComponentName":"Client Technical Architect",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Sales Architect & Specialist",
+			"ComponentName":"Client Solution Executive",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Sales Architect & Specialist",
+			"ComponentName":"Business Development Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Sales Architect & Specialist",
+			"ComponentName":"Sales Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Sales Architect & Specialist",
+			"ComponentName":"Market General Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Sales Architect & Specialist",
+			"ComponentName":"Market Sales Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Sales Architect & Specialist",
+			"ComponentName":"Early Sales Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Ecosystem Sales",
+			"ComponentName":"Ecosystem Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Ecosystem Sales",
+			"ComponentName":"Partner Recruitment Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Ecosystem Sales",
+			"ComponentName":"Brand Partner Specialist - Territory",
+			"Weight":1
+		},
+		{
+			"ParentName":"Ecosystem Sales",
+			"ComponentName":"Technology Partner Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Ecosystem Sales",
+			"ComponentName":"ISV Partner Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Ecosystem Sales",
+			"ComponentName":"Brand Partner Specialist - Partner",
+			"Weight":1
+		},
+		{
+			"ParentName":"Ecosystem Sales",
+			"ComponentName":"ISV Success Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Ecosystem Sales",
+			"ComponentName":"Ecosystem Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Ecosystem Sales",
+			"ComponentName":"Service Technology Partner Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Engineering Sales",
+			"ComponentName":"Client Engineering - Designer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Engineering Sales",
+			"ComponentName":"Client Engineering - Technology Engineer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Engineering Sales",
+			"ComponentName":"Client Engineering Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Engineering Sales",
+			"ComponentName":"Client Engineering - Business Technology Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Engineering Sales",
+			"ComponentName":"Client Engineering - Data Scientist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Engineering Sales",
+			"ComponentName":"Client Engineering - Solution Architect",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Engineering Sales",
+			"ComponentName":"Ecosystem Engineering - Solution Architect",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Engineering Sales",
+			"ComponentName":"Ecosystem Engineering - AI Engineer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Engineering Sales",
+			"ComponentName":"Ecosystem Engineering - Technology Engineer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Engineering Sales",
+			"ComponentName":"Ecosystem Engineering Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Engineering Sales",
+			"ComponentName":"Sales Engineering Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Engineering Sales",
+			"ComponentName":"Client Engineering - AI Engineer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Sales",
+			"ComponentName":"Partner Technical Specialist - Partner",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Sales",
+			"ComponentName":"Technical Sales Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Sales",
+			"ComponentName":"Brand Technical Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Sales",
+			"ComponentName":"Customer Success Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Sales",
+			"ComponentName":"Customer Success Manager - Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Sales",
+			"ComponentName":"Brand Technical Specialist Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Sales",
+			"ComponentName":"Digital Technical Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Sales",
+			"ComponentName":"Z Architect",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Sales",
+			"ComponentName":"Digitization Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Sales",
+			"ComponentName":"Account Technical Leader Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Sales",
+			"ComponentName":"Account Technical Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Sales",
+			"ComponentName":"Partner Technical Specialist - Territory",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Sales",
+			"ComponentName":"Customer Success Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Brand Sales",
+			"ComponentName":"Brand Sales Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Brand Sales",
+			"ComponentName":"Brand Sales Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Sales",
+			"ComponentName":"Digital Sales Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Sales",
+			"ComponentName":"Digital Sales Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Sales",
+			"ComponentName":"Sales Development Representative",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Sales",
+			"ComponentName":"Digital Sales Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technology Portfolio Sales",
+			"ComponentName":"Technology Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technology Portfolio Sales",
+			"ComponentName":"Technology Cross Brand Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technology Portfolio Sales",
+			"ComponentName":"Technology Seller",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technology Portfolio Sales",
+			"ComponentName":"Technology Seller Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technology Portfolio Sales",
+			"ComponentName":"Technology MD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technology Portfolio Sales",
+			"ComponentName":"Industry Technology Seller",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technology Portfolio Sales",
+			"ComponentName":"Industry Technology Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technology Portfolio Sales",
+			"ComponentName":"Technology Managing Director",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technology Portfolio Sales",
+			"ComponentName":"Technology Sales Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Licensing & Renewal Sales",
+			"ComponentName":"Dealmaker - Sales",
+			"Weight":1
+		},
+		{
+			"ParentName":"Licensing & Renewal Sales",
+			"ComponentName":"Licensing Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Licensing & Renewal Sales",
+			"ComponentName":"Subscription & Annuity Representative",
+			"Weight":1
+		},
+		{
+			"ParentName":"Licensing & Renewal Sales",
+			"ComponentName":"Subscription & Annuity Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"SR - Site Reliability Engineer",
+			"ComponentName":"Other Site Reliability Engineer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Site Reliability Engineer",
+			"ComponentName":"Site Reliability Engineering Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"SS - Services Solutions Management",
+			"ComponentName":"Other Services Solutions Management",
+			"Weight":1
+		},
+		{
+			"ParentName":"SS - Services Solutions Management",
+			"ComponentName":"Technical Solutions Management",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Services Solutions Management",
+			"ComponentName":"General Other Services Solutions Management",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Services Solutions Management",
+			"ComponentName":"Solution Consultant",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Services Solutions Management",
+			"ComponentName":"Technical Solution Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Services Solutions Management",
+			"ComponentName":"Industry Solutions Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Services Solutions Management",
+			"ComponentName":"Security Services Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Solutions Management",
+			"ComponentName":"Client Technical Solutioner",
+			"Weight":1
+		},
+		{
+			"ParentName":"TS - Technical Specialist",
+			"ComponentName":"Services Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"TS - Technical Specialist",
+			"ComponentName":"Technical Services Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"TS - Technical Specialist",
+			"ComponentName":"Technical Solutions Support Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Services Specialist",
+			"ComponentName":"Business Analyst",
+			"Weight":1
+		},
+		{
+			"ParentName":"Services Specialist",
+			"ComponentName":"Application Developer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Services Specialist",
+			"ComponentName":"Application Database Administrator",
+			"Weight":1
+		},
+		{
+			"ParentName":"Services Specialist",
+			"ComponentName":"Data Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Services Specialist",
+			"ComponentName":"Quality Engineer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Services Specialist",
+			"ComponentName":"Infrastructure Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Services Specialist",
+			"ComponentName":"Information Developer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Services Specialist",
+			"ComponentName":"General Other IT Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Services Specialist",
+			"ComponentName":"Appl Integration & Middleware Solutions Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Services Specialist",
+			"ComponentName":"Business Information Management Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Services Specialist",
+			"ComponentName":"Content Management Solutions Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Services Specialist",
+			"ComponentName":"Network Services Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Services Specialist",
+			"ComponentName":"Server Services Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Services Specialist",
+			"ComponentName":"Storage Services Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Services Specialist",
+			"ComponentName":"Package Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Services Specialist",
+			"ComponentName":"Cross Systems Services Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Services Specialist",
+			"ComponentName":"Security Services Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Services Specialist",
+			"ComponentName":"Application Development Programmer Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Services Specialist",
+			"ComponentName":"Application Programmer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Services Specialist",
+			"ComponentName":"Data Engineer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Services Specialist",
+			"ComponentName":"Information Security Analyst",
+			"Weight":1
+		},
+		{
+			"ParentName":"Services Specialist",
+			"ComponentName":"Digital Business Architect",
+			"Weight":1
+		},
+		{
+			"ParentName":"Services Specialist",
+			"ComponentName":"DevOps Engineer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Services Specialist",
+			"ComponentName":"Systems Management Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Services Specialist",
+			"ComponentName":"Systems Programmer",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Services Specialist",
+			"ComponentName":"Computer Operator",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Services Specialist",
+			"ComponentName":"Client Service Representative",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Services Specialist",
+			"ComponentName":"Team Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Services Specialist",
+			"ComponentName":"IMAC Coordinator",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Services Specialist",
+			"ComponentName":"Deskside Support Representative",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Services Specialist",
+			"ComponentName":"Security Delivery Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Services Specialist",
+			"ComponentName":"Software Platform Management Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Services Specialist",
+			"ComponentName":"Service Coordinator",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Services Specialist",
+			"ComponentName":"Operations Production Analyst",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Services Specialist",
+			"ComponentName":"Systems Administrator",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Services Specialist",
+			"ComponentName":"Operations/Technical Support Duty Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Services Specialist",
+			"ComponentName":"Technical Operations Analyst",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Services Specialist",
+			"ComponentName":"Systems Support Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Services Specialist",
+			"ComponentName":"Network Support Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Services Specialist",
+			"ComponentName":"Data Center Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Services Specialist",
+			"ComponentName":"Service Delivery Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Services Specialist",
+			"ComponentName":"Delivery Analyst",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Services Specialist",
+			"ComponentName":"Account/Technical Subject Matter Expert",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Services Specialist",
+			"ComponentName":"Service Availability Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Services Specialist",
+			"ComponentName":"Service Integration Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Services Specialist",
+			"ComponentName":"System Database Administrator",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Services Specialist",
+			"ComponentName":"Technical Services Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Services Specialist",
+			"ComponentName":"Client Support Relations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Services Specialist",
+			"ComponentName":"Technical Services General Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Services Specialist",
+			"ComponentName":"Integrated Service Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Services Specialist",
+			"ComponentName":"Technical Specialist Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Services Specialist",
+			"ComponentName":"Unified Systems Operator",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Services Specialist",
+			"ComponentName":"Services Delivery Squad Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Services Specialist",
+			"ComponentName":"Information Technology Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Services Specialist",
+			"ComponentName":"Cyber Security Incident Response Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Solutions Support Specialist",
+			"ComponentName":"Security Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Solutions Support Specialist",
+			"ComponentName":"Server Support Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Solutions Support Specialist",
+			"ComponentName":"Testing Support Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Solutions Support Specialist",
+			"ComponentName":"Appl Integration & Middleware Support Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Solutions Support Specialist",
+			"ComponentName":"Appl Development Products Support Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Solutions Support Specialist",
+			"ComponentName":"Content Management Support Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Solutions Support Specialist",
+			"ComponentName":"Data Management Support Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Solutions Support Specialist",
+			"ComponentName":"Storage Support Specialist",
+			"Weight":1
+		},
+		{
+			"ParentName":"Technical Solutions Support Specialist",
+			"ComponentName":"Technical Specialist General Professional",
+			"Weight":1
+		},
+		{
+			"ParentName":"OT - Other",
+			"ComponentName":"Aviation",
+			"Weight":1
+		},
+		{
+			"ParentName":"OT - Other",
+			"ComponentName":"Unassigned",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aviation",
+			"ComponentName":"Pilot",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aviation",
+			"ComponentName":"Aviation Manager",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aviation",
+			"ComponentName":"Aviation Inspector/Technician",
+			"Weight":1
+		},
+		{
+			"ParentName":"Aviation",
+			"ComponentName":"Aviation Leader",
+			"Weight":1
+		},
+		{
+			"ParentName":"Unassigned",
+			"ComponentName":"Executive",
+			"Weight":1
+		},
+		{
+			"ParentName":"Unassigned",
+			"ComponentName":"Graduate",
+			"Weight":1
+		},
+		{
+			"ParentName":"Unassigned",
+			"ComponentName":"Student/Intern",
+			"Weight":1
+		},
+		{
+			"ParentName":"Unassigned",
+			"ComponentName":"Position Pending Holding Code",
+			"Weight":1
+		},
+		{
+			"ParentName":"Unassigned",
+			"ComponentName":"Acquisition Transition Incentive (DTP)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Unassigned",
+			"ComponentName":"Acquisition Transition Incentive Mgr (DTP)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Unassigned",
+			"ComponentName":"Acquisition Transition Digital Sales (DTP)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Unassigned",
+			"ComponentName":"Acquisition Transition Tech Sales (DTP)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Unassigned",
+			"ComponentName":"Acquisition Transition Tech Sales Mgr (DTP)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Unassigned",
+			"ComponentName":"Unkown",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"Job Category New.subsets/Source_}Process - Cube Head Count Plan New Load - 19114.json",
+		"Job Category New.subsets/Source_}Process - Cube Head Count Plan New Load - 24090.json",
+		"Job Category New.subsets/Source_}Process - Cube Head Count Plan New Load - 24992.json",
+		"Job Category New.subsets/Source_}Process - Cube Head Count Plan New Load - 25647.json",
+		"Job Category New.subsets/Source_}Process - Cube Head Count Plan New Load - 33108.json",
+		"Job Category New.subsets/Source_}Process - Cube Head Count Plan New Load - 59053.json",
+		"Job Category New.subsets/Source_}Process - Cube Head Count Plan New Load - 7382.json",
+		"Job Category New.subsets/Source_}Process - Cube Head Count Plan New Load - 87086.json",
+		"Job Category New.subsets/Source_}Process - Cube Head Count Plan New Load - 91311.json"
+	]
+}

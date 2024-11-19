@@ -1,0 +1,204 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Movements",
+	"Elements":
+	[
+		{
+			"Name":"Empl Init Loss",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"L",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"-Vol Resign",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"New Hires",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"A",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"+Hire-EarlyProf",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"+Hire-Prof",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mgmt Init Loss",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"-MIS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Other Losses",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"-Begin LOA A->I",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Other Adds",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"+End LOA I->A",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-ResI & Retire",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Retirement",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Unknown Loss",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"+Acquisition",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Convert RF->RP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"+Convert RP->RF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"-Res Prog(I)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"All Movements",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"No Movt",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"Empl Init Loss",
+			"ComponentName":"-Vol Resign",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Empl Init Loss",
+			"ComponentName":"-Retirement",
+			"Weight":-1
+		},
+		{
+			"ParentName":"L",
+			"ComponentName":"Empl Init Loss",
+			"Weight":1
+		},
+		{
+			"ParentName":"L",
+			"ComponentName":"Mgmt Init Loss",
+			"Weight":1
+		},
+		{
+			"ParentName":"L",
+			"ComponentName":"Other Losses",
+			"Weight":1
+		},
+		{
+			"ParentName":"New Hires",
+			"ComponentName":"+Hire-EarlyProf",
+			"Weight":1
+		},
+		{
+			"ParentName":"New Hires",
+			"ComponentName":"+Hire-Prof",
+			"Weight":1
+		},
+		{
+			"ParentName":"A",
+			"ComponentName":"New Hires",
+			"Weight":1
+		},
+		{
+			"ParentName":"A",
+			"ComponentName":"Other Adds",
+			"Weight":1
+		},
+		{
+			"ParentName":"Mgmt Init Loss",
+			"ComponentName":"-MIS",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Mgmt Init Loss",
+			"ComponentName":"-ResI & Retire",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Mgmt Init Loss",
+			"ComponentName":"-Res Prog(I)",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Other Losses",
+			"ComponentName":"-Begin LOA A->I",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Other Losses",
+			"ComponentName":"-Unknown Loss",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Other Losses",
+			"ComponentName":"-Convert RF->RP",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Other Adds",
+			"ComponentName":"+End LOA I->A",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Adds",
+			"ComponentName":"+Acquisition",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Adds",
+			"ComponentName":"+Convert RP->RF",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Movements",
+			"ComponentName":"No Movt",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Movements",
+			"ComponentName":"L",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Movements",
+			"ComponentName":"A",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":[]
+}

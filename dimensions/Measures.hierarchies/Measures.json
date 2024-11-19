@@ -1,0 +1,27 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Measures",
+	"Elements":
+	[
+		{
+			"Name":"YTD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"QTD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MTD",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"Measures.subsets/Source_}Process - Cube Head Count Plan New Load - 24090.json",
+		"Measures.subsets/Source_}Process - Cube Head Count Plan New Load - 24992.json",
+		"Measures.subsets/Source_}Process - Cube Head Count Plan New Load - 25647.json",
+		"Measures.subsets/Source_}Process - Cube Head Count Plan New Load - 33108.json",
+		"Measures.subsets/Source_}Process - Cube Head Count Plan New Load - 59053.json"
+	]
+}

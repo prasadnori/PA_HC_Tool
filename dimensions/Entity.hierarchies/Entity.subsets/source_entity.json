@@ -1,0 +1,31 @@
+{
+	"@type":"Subset",
+	"Name":"source_entity",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Entity')/Hierarchies('Entity')/Elements('02-IBMSls Spt')"
+		},
+		{
+			"@id":"Dimensions('Entity')/Hierarchies('Entity')/Elements('5M-PCldIaaSPlf')"
+		},
+		{
+			"@id":"Dimensions('Entity')/Hierarchies('Entity')/Elements('8E-CldPlatfPaaS')"
+		},
+		{
+			"@id":"Dimensions('Entity')/Hierarchies('Entity')/Elements('SQ-PCldIaaSDig')"
+		},
+		{
+			"@id":"Dimensions('Entity')/Hierarchies('Entity')/Elements('U1-PCldSales')"
+		},
+		{
+			"@id":"Dimensions('Entity')/Hierarchies('Entity')/Elements('U3-CldPlIaaSOff')"
+		},
+		{
+			"@id":"Dimensions('Entity')/Hierarchies('Entity')/Elements('U6-PCldTop')"
+		},
+		{
+			"@id":"Dimensions('Entity')/Hierarchies('Entity')/Elements('U7-PCldIaaSnSO')"
+		}
+	]
+}

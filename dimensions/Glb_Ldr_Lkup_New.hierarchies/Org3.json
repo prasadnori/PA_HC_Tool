@@ -1,0 +1,40 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Org3",
+	"Elements":
+	[
+		{
+			"Name":"Ali, Muhammad",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Badlaney, Rohit",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Harbour, Ed",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"McGee, Jason",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Moskos, Chris",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sansoucie, Christopher",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sethi, Satinder",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"King, Dan",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}

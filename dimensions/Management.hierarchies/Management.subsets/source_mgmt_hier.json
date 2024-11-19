@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"source_mgmt_hier",
+	"Expression":"{DRILLDOWNMEMBER({[Management].[Management].[Cloud Platform (Alan Peacock)]} , {[Management].[Management].[Cloud Platform (Alan Peacock)]} , RECURSIVE)}"
+}

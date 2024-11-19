@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"Sethi",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Global Leader_New')/Hierarchies('Global Leader_New')/Elements('Sethi')"
+		}
+	]
+}

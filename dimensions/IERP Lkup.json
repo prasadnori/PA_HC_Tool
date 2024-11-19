@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"IERP Lkup",
+	"Hierarchies@Code.links":
+	[
+		"IERP Lkup.hierarchies/IERP Lkup.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('IERP Lkup')/Hierarchies('IERP Lkup')"
+	}
+}

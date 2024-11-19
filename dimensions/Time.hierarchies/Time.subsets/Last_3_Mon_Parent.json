@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"Last_3_Mon_Parent",
+	"Expression":"{HIERARCHIZE(EXCEPT(DISTINCT({[Time].[Time].[Feb 2024],GENERATE(FILTER(DISTINCT({[Time].[Time].MEMBERS,[Time].[Time].[Feb 2024]}) , [Time].[Time].CURRENTMEMBER.NAME = \"Feb 2024\") , ASCENDANTS([Time].[Time].CURRENTMEMBER))}) , {[Time].[Time].[Q1 2024]})),HIERARCHIZE(EXCEPT(DISTINCT({[Time].[Time].[Mar 2024],GENERATE(FILTER(DISTINCT({[Time].[Time].MEMBERS,[Time].[Time].[Mar 2024]}) , [Time].[Time].CURRENTMEMBER.NAME = \"Mar 2024\") , ASCENDANTS([Time].[Time].CURRENTMEMBER))}) , {[Time].[Time].[Q1 2024],[Time].[Time].[2024]})),HIERARCHIZE(EXCEPT(DISTINCT({[Time].[Time].[Apr 2024],GENERATE(FILTER(DISTINCT({[Time].[Time].MEMBERS,[Time].[Time].[Apr 2024]}) , [Time].[Time].CURRENTMEMBER.NAME = \"Apr 2024\") , ASCENDANTS([Time].[Time].CURRENTMEMBER))}) , {[Time].[Time].[2024],[Time].[Time].[Q2 2024]}))}"
+}

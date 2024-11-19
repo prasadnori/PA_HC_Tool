@@ -1,0 +1,7190 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Department_New",
+	"Elements":
+	[
+		{
+			"Name":"Total Department",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Dept TBD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7E6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01C13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A1L",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A6W",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2VN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FDZ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JAN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B1J",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"005506",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BSO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CWZ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ZWN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U11",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5M7502",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5M7505",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"973099",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"558830",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"541203",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"542501",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IGS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GDD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BMI",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A1D",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"16G",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"J2Q",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IZK",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AZ33A0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"6UA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"UCH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SB7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"KG0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ADA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5M1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A3O",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AFE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A6X",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"158",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NI3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U3F",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B5N",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"P7W",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"6PE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"901582",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WG5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"J1P",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0438EC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043IU1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"410530",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"542602",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"02ACS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"XNN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"426703",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"807U6B",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"3JS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"37H",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CMY",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A2Q",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"552601",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A7B",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A1H",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SFL001",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SFL002",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JKT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043IU5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"XV8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"H5R",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BXD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BXC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ZZY",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SF0020",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SL5M14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5MLON2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A6V",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IRT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5MSOFT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U6X",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SLO020",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"015500",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A1F",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"9KA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B1N",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D7B",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0438EB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"QC8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SXB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"32Q",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TLM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5M7501",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IOU",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Y6J",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B1I",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SLN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5MLON1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5HH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A6Z",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SLO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B90",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SL4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VRQ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"OUF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"QZA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"KR3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VQF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"P1T",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WU0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"830349",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"542607",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"UA4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"UJD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HS7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BL7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"H3I",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0AJ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"540606",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"550608",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A6Y",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"825540",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00H011",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7CO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7L2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7MU",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"542605",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K9P",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MZA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"KEN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MPH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01C18",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"73S",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00J",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MDT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"C8F",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IQS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MAA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GGS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"8E7502",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"551203",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MIN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00D341",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"551209",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7IS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AFH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ZJ5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"8BW",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MV2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"461012",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4HV",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4HW",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"9HY",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AZ33B0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CPM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U6A2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01C14",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SQM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BXE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"36L",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WN8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JVR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01C16",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"8300U3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WVW",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AZ3220",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"542601",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043BMM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"H1K",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00D484",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BLE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"X2W",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"005503",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"J6P",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A1G",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SF0018",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00K",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7EF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01CLF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"UR4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"H9F",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"H5X",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"410528",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0BE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DMS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"551205",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SRD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5MLON6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5MLON4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5MLON5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043BMN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043BMF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"XBS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7FB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LMP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7FJ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00D260",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SGG",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4HK",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EPC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B59",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LGB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"L5S",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"O55",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GMD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"COE8EL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"005504",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0T0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GTE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"541204",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B98",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B8Q",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U67501",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5J8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"KV2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VU2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"8E7507",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"J73",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"005508",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"542606",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VXD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4MQ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LJK",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GQY",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"005402",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043CNO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7IR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"887312",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"I6U",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RY7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"XSSO8E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BXF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"879900",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"N8E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"N8R",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"N97",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"N84",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GSP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"8E7501",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00D293",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"413002",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7FE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0003BJ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00WA01",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"003367",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"540607",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A9U",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"08E816",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"410509",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"410506",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D2P",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"G1Q",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01C23",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B2N",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043C68",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043PAG",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GQF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GRQ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"8EX",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"8EN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BXW",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BSJ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"73T",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A7A",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"H2O",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4HE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SF0017",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SFL003",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"L6O",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JI0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NUA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VWI",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SFH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MP0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LKQ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7EP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"541205",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"551202",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A1J",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NA9",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"37X",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"605600",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K9O",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"1DJ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"1DK",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HLO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"UB0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"F5M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"QWP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D1H",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"1BI",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JEJ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043BND",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043CNB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"W7J",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"005507",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"551204",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"540602",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ZICAU6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0DG",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SLO040",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SLO050",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"QNQ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"XBD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"W3O",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AEL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CB1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SRH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B8M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B8N",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VIA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B7M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B7L",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"H0I",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2DY",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"L3V",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043CMU",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"8EH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A1K",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LIF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U7A",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4FU",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"8AQ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B43",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D5L",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7FF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"3N42A0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"870198",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CLD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"413003",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SAC590",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"3N40A0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"3N42C0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VB3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U3A",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VBJ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0003BK",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D6J",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D4E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7YL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LB7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"1AO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"OL9",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"UTJ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"32K",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"QFI",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"N00",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LGP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0DF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D4O",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BJ0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5M7507",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IRZ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A4J",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"UIU",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"E7G",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"401207",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U37501",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VJB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A3L",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"461004",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"9SP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IQL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"X8E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SG8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01CLK",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01C01",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SF0014",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Z02981",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"86B",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"1KZ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AE7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7AP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"145800",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"M6O",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FYA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HGN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"8168EG",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043CND",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"542604",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"9EC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00D273",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SX0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SL5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"T6I",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0003BH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"461009",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FRP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"8L1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NFL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"551210",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0DC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ZLS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ILX",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SF0022",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U3E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"461010",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"542603",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0WS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7I5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"005M01",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SLOJP0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NWP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"O9J",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"8U7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4IE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00E428",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5VD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"9SM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LRH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AGS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"540610",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"550605",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"540609",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00D342",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"8078E1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4V3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"W4D",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AE8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CIH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VLT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D5O",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"19C",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WV5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"YT0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"S7Z",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"540612",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SZE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AZ3240",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D7U",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"461061",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SM6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7U7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CNU",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0438EM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043BMP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BLC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CFN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"10X",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"450230",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BRO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"1DM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"C3BTO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0W4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"F1O",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ZMSOFT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00G",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JAA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043BNB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"QCC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01CLP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01C15",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2B5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A2L",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D5G",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RRN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TGL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BGS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5M7D24",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SF0021",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A7D",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A4K",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VMO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0003BL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A3A",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"1DL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VOP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SX7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00D363",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4HP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EWM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"04305M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"XH2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0GX",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"3DR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0DE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BDL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"540603",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"540604",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4HQ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"9FK",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HMA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IH2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"34R",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LBY",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VC1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043CMM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01ACS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"V32",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0GS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D5M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"18Z",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"540601",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A2T",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D6N",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4U1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4XV",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D5I",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"973390",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A4Q",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WH4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WGO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BJ1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0GT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B5MNET",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"C5M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"C85",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D8H",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B5X",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IUA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RWR761",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"461003",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"6Q3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00H010",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U3C",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"O3R",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01C24",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0003BI",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"003352",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"605700",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"605300",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"H1O",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A7I",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Z2I",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B3F",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2DE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"16L",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01CLD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"670800",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U67502",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01C21",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01C22",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"US04FU",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SL0050",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VJI",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2HM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LQX",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NSA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"H10",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"1BJ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"005403",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D3I",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"540611",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"432000",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01C17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D260",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"6LN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DK7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01C03",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"034R",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CWO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CW1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A2D",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"461006",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B9L",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q39",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043BMI",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A9V",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A7M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"541201",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043BMH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"551206",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ZMS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CA8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"540608",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D8K",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A3B",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D7S",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A2U",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"18J",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D8X",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"W",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A2C",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"553601",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"552603",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"552602",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"32C",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"329",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"869004",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"1K0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"326",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"UJ2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CCTECH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"20002R",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"859440",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000568",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"3P10B0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"432302",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"432300",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U02",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"095100",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"801500",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00E880",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"UT7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00C3BS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U03",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00C3T",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000WCP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"77WC1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00U1CR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0CSMCY",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5O2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2UJ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00F944",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"501TU1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"830450",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0C3610",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"652000",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000003",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"606831",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00N358",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5GD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01U11",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"049600",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5MSY04",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VD6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GZZ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VBA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"002U10",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00N383",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"KU1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"L2N",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HBK",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"858852",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"15K",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"S7B",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TUB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4LN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"S4N",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Z0C3BS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"606BTS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"XHE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"57Y",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"XFC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U101",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U102",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5M0005",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"016A5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"006U1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SSAIU1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CCSELL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CS01C3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0CRCL3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"86151",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"02CLD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0161X",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"071102",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"3N4000",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"3N4100",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"3N4200",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"3N4300",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BKI",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Z00CSM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WCE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q26",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U01",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"S8W",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"86374",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"L2O",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IEW",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LB6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000002",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U1IN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"02061",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0119W",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SWG831",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LGO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LB8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00000D",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"016U1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2T3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"3H0000",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CD1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5010C3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0CL004",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"471",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"STK",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MD0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"UU2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"20001R",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"072261",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"101104",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"007YCY",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"001U10",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5MSY01",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TOJ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2UG",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"000CSM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"111655",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4YM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Z02U10",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TUC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B4O",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"3H1000",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"3H2000",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"88212",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CLO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"N358",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"H66",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"410508",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K58",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01CLC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"UFZ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"410503",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"1KA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"461007",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"XAS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LRG",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EVJ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U65",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BXY",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HKO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B3E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CU7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AZ3230",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B5F",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FPC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"N8O",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"UHR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ZLSA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"YED",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"6YJ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"540605",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EXLA8E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"852528",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0SW174",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SCP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"501WAT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CW9",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"009214",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0PCWW1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0PF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2KX",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"6E5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SBD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"QXR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"830451",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"1U0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4DS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"815111",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"32X",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"513501",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AAA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4W0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"00D367",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A4R",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"35F",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"8EL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5MVP1V",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"541202",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"551007",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"OUI",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE00D341",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE00E448",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE003352",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE00D260",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"8EVP5V",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE00D484",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"552908",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE00D273",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE00D684",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE00E428",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"552996",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A30",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DE00D342",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ZO7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U6VP17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"553804",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B9Y",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U6VP1V",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WHN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D9F",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D9G",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D9E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0D5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WGT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"E7Q",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"369",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0001N1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0002YL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D9H",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"043BMU",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D9I",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WMN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WMX",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0001JD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NI4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GMF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D9J",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5402",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5403",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"B9J",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"03ACS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D9W",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D9X",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D9V",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D293",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"Dept TBD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"7E6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"01C13",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A1L",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A6W",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"2VN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"FDZ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"JAN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"B1J",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"005506",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"BSO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"CWZ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"ZWN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"U11",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"5M7502",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"5M7505",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"973099",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"558830",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"541203",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"542501",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"IGS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"GDD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"BMI",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A1D",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"16G",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"J2Q",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"IZK",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"AZ33A0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"6UA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"UCH",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SB7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"KG0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"ADA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"5M1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A3O",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"AFE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A6X",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"158",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"NI3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"U3F",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"B5N",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"P7W",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"6PE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"901582",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"WG5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"J1P",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"0438EC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"043IU1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"410530",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"542602",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"02ACS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"XNN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"426703",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"807U6B",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"3JS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"37H",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"CMY",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A2Q",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"552601",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A7B",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A1H",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SFL001",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SFL002",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"JKT",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"043IU5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"XV8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"H5R",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"BXD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"BXC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"ZZY",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SF0020",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SL5M14",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"5MLON2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A6V",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"IRT",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"5MSOFT",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"U6X",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SLO020",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"015500",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A1F",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"9KA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"B1N",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"D7B",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"0438EB",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"QC8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SXB",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"32Q",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"TLM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"5M7501",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"IOU",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"Y6J",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"B1I",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SLN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"5MLON1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"5HH",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A6Z",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SLO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"B90",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SL4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"VRQ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"OUF",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"QZA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"KR3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"VQF",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"P1T",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"WU0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"830349",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"542607",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"UA4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"UJD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"HS7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"BL7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"H3I",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"0AJ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"540606",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"550608",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A6Y",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"825540",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"00H011",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"7CO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"7L2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"7MU",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"542605",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"K9P",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"MZA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"KEN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"MPH",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"01C18",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"73S",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"00J",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"MDT",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"C8F",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"IQS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"MAA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"GGS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"8E7502",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"551203",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"MIN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"00D341",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"551209",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"7IS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"AFH",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"ZJ5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"8BW",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"MV2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"461012",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"4HV",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"4HW",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"9HY",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"AZ33B0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"CPM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"U6A2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"01C14",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SQM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"BXE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"36L",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"WN8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"JVR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"01C16",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"8300U3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"WVW",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"AZ3220",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"542601",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"043BMM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"H1K",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"00D484",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"BLE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"X2W",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"005503",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"J6P",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A1G",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SF0018",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"00K",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"7EF",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"01CLF",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"UR4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"H9F",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"H5X",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"410528",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"0BE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"DMS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"551205",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SRD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"5MLON6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"5MLON4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"5MLON5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"043BMN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"043BMF",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"XBS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"7FB",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"LMP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"7FJ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"00D260",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SGG",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"4HK",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"EPC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"B59",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"LGB",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"L5S",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"O55",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"GMD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"COE8EL",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"005504",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"0T0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"GTE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"541204",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"B98",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"B8Q",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"U67501",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"5J8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"KV2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"VU2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"8E7507",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"J73",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"005508",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"542606",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"VXD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"4MQ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"LJK",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"GQY",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"005402",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"043CNO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"7IR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"887312",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"I6U",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"RY7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"XSSO8E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"BXF",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"879900",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"N8E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"N8R",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"N97",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"N84",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"GSP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"8E7501",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"00D293",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"413002",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"7FE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"0003BJ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"00WA01",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"003367",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"540607",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A9U",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"08E816",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"410509",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"410506",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"D2P",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"G1Q",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"01C23",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"B2N",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"043C68",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"043PAG",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"GQF",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"GRQ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"8EX",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"8EN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"BXW",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"BSJ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"73T",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A7A",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"H2O",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"4HE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SF0017",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SFL003",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"L6O",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"JI0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"NUA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"VWI",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SFH",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"MP0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"LKQ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"7EP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"541205",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"551202",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A1J",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"NA9",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"37X",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"605600",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"K9O",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"1DJ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"1DK",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"HLO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"UB0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"F5M",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"QWP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"D1H",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"1BI",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"JEJ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"043BND",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"043CNB",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"W7J",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"005507",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"551204",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"540602",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"ZICAU6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"0DG",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SLO040",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SLO050",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"QNQ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"XBD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"W3O",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"AEL",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"CB1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SRH",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"B8M",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"B8N",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"VIA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"B7M",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"B7L",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"H0I",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"2DY",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"L3V",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"043CMU",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"8EH",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A1K",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"LIF",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"U7A",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"4FU",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"8AQ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"B43",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"D5L",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"7FF",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"3N42A0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"870198",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"CLD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"413003",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SAC590",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"3N40A0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"3N42C0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"VB3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"U3A",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"VBJ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"0003BK",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"D6J",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"D4E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"7YL",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"LB7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"1AO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"OL9",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"UTJ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"32K",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"QFI",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"N00",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"LGP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"0DF",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"D4O",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"BJ0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"5M7507",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"IRZ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A4J",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"UIU",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"E7G",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"401207",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"U37501",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"VJB",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A3L",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"461004",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"9SP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"IQL",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"X8E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SG8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"01CLK",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"01C01",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SF0014",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"Z02981",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"86B",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"1KZ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"AE7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"7AP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"145800",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"M6O",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"FYA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"HGN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"8168EG",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"043CND",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"542604",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"9EC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"00D273",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SX0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SL5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"T6I",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"0003BH",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"461009",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"FRP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"8L1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"NFL",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"551210",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"0DC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"ZLS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"ILX",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SF0022",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"U3E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"461010",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"542603",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"0WS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"7I5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"005M01",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SLOJP0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"NWP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"O9J",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"8U7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"4IE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"00E428",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"5VD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"9SM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"LRH",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"AGS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"540610",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"550605",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"540609",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"00D342",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"8078E1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"4V3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"W4D",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"AE8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"CIH",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"VLT",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"D5O",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"19C",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"WV5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"YT0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"S7Z",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"540612",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SZE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"AZ3240",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"D7U",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"461061",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SM6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"7U7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"CNU",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"0438EM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"043BMP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"BLC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"CFN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"10X",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"450230",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"BRO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"1DM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"C3BTO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"0W4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"F1O",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"ZMSOFT",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"00G",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"JAA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"043BNB",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"QCC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"01CLP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"01C15",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"2B5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A2L",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"D5G",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"RRN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"TGL",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"BGS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"5M7D24",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SF0021",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A7D",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A4K",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"VMO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"0003BL",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A3A",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"1DL",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"VOP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SX7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"00D363",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"4HP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"EWM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"04305M",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"XH2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"0GX",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"3DR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"0DE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"BDL",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"540603",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"540604",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"4HQ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"9FK",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"HMA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"IH2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"34R",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"LBY",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"VC1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"043CMM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"01ACS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"V32",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"0GS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"D5M",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"18Z",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"540601",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A2T",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"D6N",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"4U1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"4XV",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"D5I",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"973390",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A4Q",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"WH4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"WGO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"BJ1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"0GT",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"B5MNET",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"C5M",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"C85",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"D8H",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"B5X",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"IUA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"RWR761",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"461003",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"6Q3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"00H010",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"U3C",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"O3R",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"01C24",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"0003BI",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"003352",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"605700",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"605300",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"H1O",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A7I",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"Z2I",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"B3F",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"2DE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"16L",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"01CLD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"670800",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"U67502",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"01C21",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"01C22",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"US04FU",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SL0050",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"VJI",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"2HM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"LQX",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"NSA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"H10",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"1BJ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"005403",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"D3I",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"540611",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"432000",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"01C17",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"D260",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"6LN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"DK7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"01C03",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"034R",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"CWO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"CW1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A2D",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"461006",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"B9L",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"Q39",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"043BMI",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A9V",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A7M",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"541201",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"043BMH",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"551206",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"ZMS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"CA8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"540608",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"D8K",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A3B",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"D7S",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A2U",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"18J",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"D8X",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"W",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A2C",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"553601",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"552603",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"552602",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"32C",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"329",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"869004",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"1K0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"326",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"UJ2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"CCTECH",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"20002R",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"859440",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"000568",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"3P10B0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"432302",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"432300",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"U02",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"095100",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"801500",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"00E880",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"UT7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"00C3BS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"U03",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"00C3T",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"000WCP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"77WC1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"00U1CR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"0CSMCY",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"5O2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"2UJ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"00F944",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"501TU1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"830450",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"0C3610",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"652000",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"000003",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"606831",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"00N358",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"5GD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"01U11",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"049600",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"5MSY04",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"VD6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"GZZ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"VBA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"002U10",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"00N383",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"KU1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"L2N",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"HBK",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"858852",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"15K",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"S7B",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"TUB",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"4LN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"S4N",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"Z0C3BS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"606BTS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"XHE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"57Y",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"XFC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"U101",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"U102",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"5M0005",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"016A5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"006U1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SSAIU1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"CCSELL",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"CS01C3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"0CRCL3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"86151",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"02CLD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"0161X",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"071102",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"3N4000",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"3N4100",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"3N4200",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"3N4300",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"BKI",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"Z00CSM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"WCE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"Q26",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"U01",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"S8W",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"86374",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"L2O",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"IEW",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"LB6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"000002",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"U1IN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"02061",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"0119W",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SWG831",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"LGO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"LB8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"00000D",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"016U1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"2T3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"3H0000",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"CD1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"5010C3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"0CL004",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"471",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"STK",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"MD0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"UU2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"20001R",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"072261",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"101104",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"007YCY",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"001U10",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"5MSY01",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"TOJ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"2UG",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"000CSM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"111655",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"4YM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"Z02U10",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"TUC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"B4O",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"3H1000",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"3H2000",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"88212",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"CLO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"N358",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"H66",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"410508",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"K58",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"01CLC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"UFZ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"410503",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"1KA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"461007",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"XAS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"LRG",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"EVJ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"U65",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"BXY",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"HKO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"B3E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"CU7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"AZ3230",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"B5F",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"FPC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"N8O",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"UHR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"ZLSA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"YED",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"6YJ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"5M",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"540605",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"EXLA8E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"852528",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"0SW174",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SCP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"501WAT",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"U12",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"CW9",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"009214",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"0PCWW1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"0PF",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"2KX",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"6E5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"SBD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"QXR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"830451",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"1U0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"4DS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"815111",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"32X",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"513501",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"AAA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"4W0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"00D367",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A4R",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"35F",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"8EL",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"5MVP1V",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"541202",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"551007",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"OUI",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"DE00D341",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"DE00E448",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"DE003352",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"DE00D260",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"8EVP5V",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"DE00D484",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"552908",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"DE00D273",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"DE00D684",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"DE00E428",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"552996",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"A30",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"DE00D342",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"ZO7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"U6VP17",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"553804",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"B9Y",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"U6VP1V",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"WHN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"D9F",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"D9G",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"D9E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"0D5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"WGT",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"E7Q",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"369",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"0001N1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"0002YL",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"D9H",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"043BMU",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"D9I",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"WMN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"WMX",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"0001JD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"NI4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"GMF",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"D9J",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"5402",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"5403",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"B9J",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"03ACS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"D9W",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"D9X",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"D9V",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"U6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Department",
+			"ComponentName":"D293",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"Department_New.subsets/Source_}Process - Cube Head Count Plan New Load - 19114.json",
+		"Department_New.subsets/Source_}Process - Cube Head Count Plan New Load - 24090.json",
+		"Department_New.subsets/Source_}Process - Cube Head Count Plan New Load - 24992.json",
+		"Department_New.subsets/Source_}Process - Cube Head Count Plan New Load - 25647.json",
+		"Department_New.subsets/Source_}Process - Cube Head Count Plan New Load - 33108.json",
+		"Department_New.subsets/Source_}Process - Cube Head Count Plan New Load - 59053.json",
+		"Department_New.subsets/Source_}Process - Cube Head Count Plan New Load - 7382.json",
+		"Department_New.subsets/Source_}Process - Cube Head Count Plan New Load - 87086.json",
+		"Department_New.subsets/Source_}Process - Cube Head Count Plan New Load - 91311.json"
+	]
+}

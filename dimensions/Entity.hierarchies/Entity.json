@@ -1,0 +1,262 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Entity",
+	"Elements":
+	[
+		{
+			"Name":"All Entity",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"02-IBMSls Spt",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2G-TechSales",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"57-Bus Partners",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5D-Gbl Call Ctr",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5F-EcoFieldSls",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5G-IBM.COM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5M-PCldIaaSPlf",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"61-Software Cmp",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"70-Core Cons",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7D-z Sys MW SW",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"7G-IBMAutomatn",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"8E-CldPlatfPaaS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D7-CldDigSls",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GY-GlblIndGrp",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SQ-PCldIaaSDig",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"T8-CldDbPaaS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TT-Technology",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U1-PCldSales",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U2-CldSWTop",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U3-CldPlIaaSOff",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U6-PCldTop",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"U7-PCldIaaSnSO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Entity TBD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IBM Cloud Entities",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"IBM Other Entities",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"IaaS Entities",
+			"Type":"Consolidated"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"All Entity",
+			"ComponentName":"IBM Cloud Entities",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Entity",
+			"ComponentName":"IBM Other Entities",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Entity",
+			"ComponentName":"Entity TBD",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Cloud Entities",
+			"ComponentName":"IaaS Entities",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Cloud Entities",
+			"ComponentName":"8E-CldPlatfPaaS",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Cloud Entities",
+			"ComponentName":"U1-PCldSales",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Cloud Entities",
+			"ComponentName":"U6-PCldTop",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Cloud Entities",
+			"ComponentName":"U7-PCldIaaSnSO",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Other Entities",
+			"ComponentName":"02-IBMSls Spt",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Other Entities",
+			"ComponentName":"2G-TechSales",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Other Entities",
+			"ComponentName":"57-Bus Partners",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Other Entities",
+			"ComponentName":"5D-Gbl Call Ctr",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Other Entities",
+			"ComponentName":"5F-EcoFieldSls",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Other Entities",
+			"ComponentName":"5G-IBM.COM",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Other Entities",
+			"ComponentName":"61-Software Cmp",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Other Entities",
+			"ComponentName":"70-Core Cons",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Other Entities",
+			"ComponentName":"7D-z Sys MW SW",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Other Entities",
+			"ComponentName":"7G-IBMAutomatn",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Other Entities",
+			"ComponentName":"D7-CldDigSls",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Other Entities",
+			"ComponentName":"GY-GlblIndGrp",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Other Entities",
+			"ComponentName":"SQ-PCldIaaSDig",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Other Entities",
+			"ComponentName":"T8-CldDbPaaS",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Other Entities",
+			"ComponentName":"TT-Technology",
+			"Weight":1
+		},
+		{
+			"ParentName":"IBM Other Entities",
+			"ComponentName":"U2-CldSWTop",
+			"Weight":1
+		},
+		{
+			"ParentName":"IaaS Entities",
+			"ComponentName":"5M-PCldIaaSPlf",
+			"Weight":1
+		},
+		{
+			"ParentName":"IaaS Entities",
+			"ComponentName":"U3-CldPlIaaSOff",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"Entity.subsets/source_entity.json",
+		"Entity.subsets/Source_}Process - Cube Head Count Plan New Load - 19114.json",
+		"Entity.subsets/Source_}Process - Cube Head Count Plan New Load - 24090.json",
+		"Entity.subsets/Source_}Process - Cube Head Count Plan New Load - 24992.json",
+		"Entity.subsets/Source_}Process - Cube Head Count Plan New Load - 25647.json",
+		"Entity.subsets/Source_}Process - Cube Head Count Plan New Load - 33108.json",
+		"Entity.subsets/Source_}Process - Cube Head Count Plan New Load - 59053.json",
+		"Entity.subsets/Source_}Process - Cube Head Count Plan New Load - 7382.json",
+		"Entity.subsets/Source_}Process - Cube Head Count Plan New Load - 87086.json",
+		"Entity.subsets/Source_}Process - Cube Head Count Plan New Load - 91311.json",
+		"Entity.subsets/Source Data Entity.json"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"ForecastResultRun",
+	"Hierarchies@Code.links":
+	[
+		"ForecastResultRun.hierarchies/ForecastResultRun.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('ForecastResultRun')/Hierarchies('ForecastResultRun')"
+	}
+}

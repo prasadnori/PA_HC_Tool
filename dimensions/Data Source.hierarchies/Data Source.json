@@ -1,0 +1,134 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Data Source",
+	"Elements":
+	[
+		{
+			"Name":"MANUAL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WF360",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WFMGMT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TEAMINSIGHTS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SYSTEM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EXCEL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SYSTEM_USE",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"TOTAL_ADJ",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"MANUAL_ADJ",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"HCPLAN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RSCPLAN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MANUAL_ADJ_MOVE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MANUAL_ADJ_PRIOR",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"SYSTEM_USE",
+			"ComponentName":"HCPLAN",
+			"Weight":1
+		},
+		{
+			"ParentName":"SYSTEM_USE",
+			"ComponentName":"RSCPLAN",
+			"Weight":1
+		},
+		{
+			"ParentName":"SYSTEM_USE",
+			"ComponentName":"EXCEL",
+			"Weight":1
+		},
+		{
+			"ParentName":"SYSTEM_USE",
+			"ComponentName":"SYSTEM",
+			"Weight":1
+		},
+		{
+			"ParentName":"SYSTEM_USE",
+			"ComponentName":"TEAMINSIGHTS",
+			"Weight":1
+		},
+		{
+			"ParentName":"SYSTEM_USE",
+			"ComponentName":"WFMGMT",
+			"Weight":1
+		},
+		{
+			"ParentName":"SYSTEM_USE",
+			"ComponentName":"WF360",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_ADJ",
+			"ComponentName":"MANUAL_ADJ",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_ADJ",
+			"ComponentName":"SYSTEM_USE",
+			"Weight":1
+		},
+		{
+			"ParentName":"MANUAL_ADJ",
+			"ComponentName":"MANUAL_ADJ_PRIOR",
+			"Weight":1
+		},
+		{
+			"ParentName":"MANUAL_ADJ",
+			"ComponentName":"MANUAL_ADJ_MOVE",
+			"Weight":1
+		},
+		{
+			"ParentName":"MANUAL_ADJ",
+			"ComponentName":"MANUAL",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"Data Source.subsets/Source_}Process - Cube Head Count Plan New Load - 19114.json",
+		"Data Source.subsets/Source_}Process - Cube Head Count Plan New Load - 24090.json",
+		"Data Source.subsets/Source_}Process - Cube Head Count Plan New Load - 24992.json",
+		"Data Source.subsets/Source_}Process - Cube Head Count Plan New Load - 25647.json",
+		"Data Source.subsets/Source_}Process - Cube Head Count Plan New Load - 33108.json",
+		"Data Source.subsets/Source_}Process - Cube Head Count Plan New Load - 59053.json",
+		"Data Source.subsets/Source_}Process - Cube Head Count Plan New Load - 7382.json",
+		"Data Source.subsets/Source_}Process - Cube Head Count Plan New Load - 87086.json",
+		"Data Source.subsets/Source_}Process - Cube Head Count Plan New Load - 91311.json"
+	]
+}

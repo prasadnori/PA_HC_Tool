@@ -1,0 +1,7949 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Metro Market Category",
+	"Elements":
+	[
+		{
+			"Name":"Total Metro Mkt Category",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Metro Market TBD",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Not Applicable",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"061",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Maintain",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"068",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"083",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"980",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Exit",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"00W",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01D",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01S",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01Y",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"01Z",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"02A",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0AM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0BK",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0EP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0HF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0IB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Key",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"0IO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"0IV",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"1AO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"1AU",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2AD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4AN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4EM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4N5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4S6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"4S8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"5AF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"A20",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AAG",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AAH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ACT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ADI",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ADS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ANY",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ASK",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BEC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BGV",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BHJ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Virtual",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"BHL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BLO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BLS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BME",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BMM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BNT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BOA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BOL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BTU",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"C1U",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"C1V",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"C3C",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"C3T",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"C4N",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"C4P",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"C7D",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"C7E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"C7K",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"C7Z",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"C9Y",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CBO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CC6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CD1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CF5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CF6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CF8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CG2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CG9",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CH0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CH3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CH4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CH5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CHQ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CI0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CMS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CNY",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CZ9",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CZA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D3E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D3F",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D3Y",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D4N",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D4T",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D4U",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D5Z",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D9X",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DA8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DFW",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DIA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"E2T",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"E4B",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"E5K",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"E5U",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"E6G",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"E6J",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"E6K",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"E6Z",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"E7A",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"E7E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"E7F",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"E9F",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"E9R",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ECL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ECR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EP3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EQ3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EQU",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ER4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ER5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"F1A",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"F1E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"F1G",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"F1H",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"F1L",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"F1M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"F1N",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"F1T",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"F2K",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"F4U",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FE9",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FR6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FT7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"G0U",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"G1J",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"G5J",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"G5V",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"G7V",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"G8H",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"G9C",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"G9Z",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GRB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GS4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GS9",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GT7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GU9",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GW3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GW6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GX2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GY3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"H4D",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"H4O",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"H6D",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"H6J",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"H6R",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"H7J",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"H8K",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HB3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HD4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HEL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HF4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HG1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HG2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HH9",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HI9",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HJ2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HJ4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HJ5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HJ6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HJ8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HJ9",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HK0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HK1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HK5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HK7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HK8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HKE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HL4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HM1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HM3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HM4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HP3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HP5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HP7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HPR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HQ1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HQ3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HQ4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HR2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HR3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HS4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HS6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HS8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HT0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HT4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HT6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HU5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HU6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HUR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HV1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HV3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HV4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HV5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HV7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HV8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HW1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HW5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HX7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HZ9",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"I4Q",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"I4U",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"I5E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"I5Y",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"I6A",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"I6B",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"I6D",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"I7C",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"I7V",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"I9A",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"I9H",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"I9S",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"I9T",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IA5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IA6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IA7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IA8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IB0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IB2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IB5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IB6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IB9",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IC1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IC3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IC5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IC6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IC8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IC9",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ID5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ID8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IE0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IE6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IE8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IE9",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IEA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IF1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IF2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IF5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IF6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IF8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IG1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IG2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IG3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IG4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IK2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IK3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IK4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IK5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IK6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IK8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IK9",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IL2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IM4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IM5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IM6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IN7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ITB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"J0D",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"J0F",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"J0T",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"J0Y",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"J1C",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"J1I",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"J1Q",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"J2K",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"J2X",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"J2Y",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"J6P",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"J6R",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"J7A",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"J7E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"J8Z",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"J9N",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K0J",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K0Q",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K0S",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K0W",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K1C",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K1D",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K1E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K1F",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K1L",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K1M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K1V",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K2B",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K2C",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K2E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K2F",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K2G",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K2I",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K2Y",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K3E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K3F",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K3L",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K3O",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K3V",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K5A",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K5B",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K5F",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K5J",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K5O",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K5R",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K6O",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K6X",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K7A",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K7C",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K7T",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K8F",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K8M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K8Q",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K8U",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K8V",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K9H",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"L1L",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"L1M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"L2C",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"L2D",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"L2E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"L2G",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"L3B",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"L3C",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"L3G",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"L3U",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"L3X",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"L4Z",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"L5F",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"L5N",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"L5P",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"L7S",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"L8M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"L8U",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"L9G",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"L9L",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LSB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"M5E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"M5T",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"M5Y",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"M6N",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MJH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MLN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MPG",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MSF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NCA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NHA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NHB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PHB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PLA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PLB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PLE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PLM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PLP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PLR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PLT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RCX",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RET",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RHT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RPL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RSA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SBK",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SBR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SEC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SFC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SGA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SIO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SJH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SJS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SMB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SMT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SPM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"THA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TRF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WWK",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Z1A",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Z3O",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"I0Q",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D5M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"C8X",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"E7Y",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"E5T",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HX5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IF9",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"M6I",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"D1N",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IO6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IM7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"N0B",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IO7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"US, Des Moines",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Netherlands, Amsterdam",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Augusta",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Japan, Fukuoka",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Spain, Bilbao",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Spain, Barcelona",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Spain, Other Locations",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Spain, Madrid",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Ann Arbor",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Singapore, Singapore",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Israel, Haifa",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"UAE, Dubai",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"India, Bangalore",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"India, Mumbai",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Canada, Calgary",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Canada, Edmonton",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Canada, Regina",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Canada, Markham",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Japan, Saitama",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Japan, Tokyo",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Japan, Chiba",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Canada, Montreal",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Tulsa",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Other Locations",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"A43",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Germany, Stuttgart",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Hungary, Budapest",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Argentina, Buenos Aires",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Lexington",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Germany, Hamburg",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"ADT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AFO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ALA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"US, Albany",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Slovakia, Bratislava",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Brazil, Other Locations",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"BBU",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Germany, Berlin",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Brazil, Brasilia",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Brazil, Rio De Janeiro",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"BHM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"US, Peoria",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Belgium, Brussels",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Bethesda",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Brazil, Hortolandia",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Austin",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Germany, Boeblingen",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Boulder",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Brazil, Sao Paulo",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Germany, Frankfurt",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Germany, Munich",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Philippines, Manila",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Taiwan, Taipei",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"India, Pune",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"France, Marseille",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Russia, Moscow",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Israel, Tel Aviv",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Italy, Milan",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Denmark, Copenhagen",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"CBD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Colombia, Bogota",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Norfolk",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Fayetteville",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"CE5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"US, Dallas",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Chantilly",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Ashburn",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Columbia SC",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, San Jose",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Cambridge",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"CH2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"US, San Diego",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Milwaukee",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Armonk",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Chicago",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Costa Mesa",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Wilmington",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Czech Republic, Prague",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"India, Hyderabad",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Switzerland, Zurich",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Croatia, Zagreb",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"India, New Delhi",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"France, Clichy",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Serbia, Belgrade",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Herndon",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Coppell",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Austria, Vienna",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Saudi Arabia, Riyadh",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"India, Chennai",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"France, Paris",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"India, Noida",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Japan, Osaka",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Ireland, Galway",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Ireland, Cork",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"France, Nantes",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Canada, Ottawa",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"China, Beijing",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"France, Lyon",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Phoenix",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Keene",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Ecuador, Quito",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Detroit",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Charlotte",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"India, Other Locations",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"F0H",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Canada, Other Locations",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"F1B",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Australia, Sydney",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Canada, Drummondville",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Slovenia, Ljubljana",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Atlanta",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"FH8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"US, Houston",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"FT0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Canada, Vancouver",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"UK, Manchester",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Mexico, Monterrey",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"China, Other Locations",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"G6M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Indonesia, Jakarta",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"UK, London",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"UK, Belfast",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"G9O",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"China, Xian",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Greece, Athens",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"GU0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GU5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"US, Washington DC",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Annapolis Junction",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Rocket Center",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"GZ4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GZ7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Kenya, Nairobi",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Singapore, Other Locations",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"H6C",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Costa Rica, Heredia",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Canada, Fredericton",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"UK, Cambridge",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"China, Guangzhou",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, San Francisco",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Manassas",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Finland, Helsinki",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Southbury",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Miami",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"HGH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"US, Harrisburg",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"HJ3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"US, Plano",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Philadelphia",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, New York",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Baton Rouge",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Hong Kong, Other Locations",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Richardson",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, St Louis",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Buffalo",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Madison",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Paramus",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Chile, Santiago",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, RTP",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Columbus",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Santa Barbara",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"HS2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"US, Irving",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"HST",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"US, Denver",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Cleveland",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"UK, Hursley",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Seattle",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Monroe",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Huntsville",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Rochester",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"I01",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Norway, Other Locations",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"I0R",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Ireland, Dublin",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Canada, Halifax",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Denmark, Aarhus",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"UK, Glasgow",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Poland, Warsaw",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"UK, Edinburgh",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"China, Shanghai",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Bulgaria, Sofia",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, New York, NY",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Columbia",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Alexandria",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Santa Fe",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Naples",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Cincinnati",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Burlington",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Lowell",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Ireland, Mulhuddart",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Boise",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Charleston",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Lansing",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Newark",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Mountain View",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Malta",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Bloomington",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"IN3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Italy, Bologna",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Australia, Canberra",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"South Korea, Seoul",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"South Africa, Johannesburg",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Switzerland, Geneva",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Italy, Torino",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"UK, Leicester",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Andover",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Egypt, Cairo",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"J7C",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Korea, Seongnam",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"J9D",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"France, Bordeaux",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"K0D",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"UK, Bristol",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"New Zealand, Auckland",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"France, Lille",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Carrollton",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"UK, Slough",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"UK, Leeds",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Germany, Hannover",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"K2P",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Romania, Bucharest",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Norway, Oslo",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Sweden, Stockholm",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Japan, Kawasaki",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Germany, Cologne",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Australia, Brisbane",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Italy, Rome",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"France, Nice",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Uruguay, Montevideo",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Ecuador, Guayaquil",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Japan, Nagoya",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Germany, Düsseldorf",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"France, Toulousse",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Canada, Toronto",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Canada, Vaughan",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Australia, Perth",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"France, Montpellier",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Austria, Salzburg",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Austria, Other Locations",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"L4I",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"China, Shenzhen",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Barbados, St. Thomas",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"L6V",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"India, Kochi",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"L7U",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sweden, Other Locations",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"L7Z",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Portugal, Lisbon",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, No City",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"M5H",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"M8O",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mexico, Guadalajara",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Mexico, Mexico City",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"MX7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"UK, Southampton",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"PIC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"US, Endicott",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"PLL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Peru, Lima",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Poughkeepsie",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Rochester MN",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Tucson",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Yorktown Heights",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Reston",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Sweden, Gothenburg",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Australia, Melbourne",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Sioux Falls",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Durham",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Sacramento",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"US, Springfield MO",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Thailand, Bangkok",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Turkey, Istanbul",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Poland, Krakow",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"IO5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IK0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Geography TBD",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"Total Metro Mkt Category",
+			"ComponentName":"Key",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Metro Mkt Category",
+			"ComponentName":"Maintain",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Metro Mkt Category",
+			"ComponentName":"Exit",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Metro Mkt Category",
+			"ComponentName":"Virtual",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Metro Mkt Category",
+			"ComponentName":"Not Applicable",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Metro Mkt Category",
+			"ComponentName":"Canada, Regina",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Metro Mkt Category",
+			"ComponentName":"Canada, Calgary",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Metro Mkt Category",
+			"ComponentName":"Japan, Fukuoka",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Metro Mkt Category",
+			"ComponentName":"Metro Market TBD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Metro Market TBD",
+			"ComponentName":"Austria, Other Locations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Metro Market TBD",
+			"ComponentName":"India, Other Locations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Metro Market TBD",
+			"ComponentName":"Norway, Other Locations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Metro Market TBD",
+			"ComponentName":"Singapore, Other Locations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Metro Market TBD",
+			"ComponentName":"Sweden, Other Locations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Metro Market TBD",
+			"ComponentName":"US, Bloomington",
+			"Weight":1
+		},
+		{
+			"ParentName":"Metro Market TBD",
+			"ComponentName":"US, Philadelphia",
+			"Weight":1
+		},
+		{
+			"ParentName":"Metro Market TBD",
+			"ComponentName":"US, Rochester",
+			"Weight":1
+		},
+		{
+			"ParentName":"Metro Market TBD",
+			"ComponentName":"US, No City",
+			"Weight":1
+		},
+		{
+			"ParentName":"Metro Market TBD",
+			"ComponentName":"IK5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Metro Market TBD",
+			"ComponentName":"IO5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Metro Market TBD",
+			"ComponentName":"IO7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Metro Market TBD",
+			"ComponentName":"M8O",
+			"Weight":1
+		},
+		{
+			"ParentName":"Metro Market TBD",
+			"ComponentName":"Geography TBD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"US, Des Moines",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"US, Augusta",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Spain, Bilbao",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Israel, Haifa",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"UAE, Dubai",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"India, Mumbai",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Japan, Chiba",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Argentina, Buenos Aires",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"US, Lexington",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Germany, Hamburg",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Slovakia, Bratislava",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Brazil, Rio De Janeiro",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"US, Peoria",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Belgium, Brussels",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"US, Boulder",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Taiwan, Taipei",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Russia, Moscow",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Denmark, Copenhagen",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Colombia, Bogota",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"US, Norfolk",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"US, San Diego",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"US, Wilmington",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Czech Republic, Prague",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Croatia, Zagreb",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"India, New Delhi",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Serbia, Belgrade",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Austria, Vienna",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Saudi Arabia, Riyadh",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"India, Noida",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Ireland, Galway",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Ireland, Cork",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"France, Lyon",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Ecuador, Quito",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Mexico, Monterrey",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Indonesia, Jakarta",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"UK, Belfast",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Greece, Athens",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"US, Washington DC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"US, Rocket Center",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Kenya, Nairobi",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"UK, Cambridge",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"China, Guangzhou",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"US, Southbury",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"US, Harrisburg",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"US, St Louis",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Chile, Santiago",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"US, Santa Barbara",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"US, Cleveland",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"US, Monroe",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Denmark, Aarhus",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Poland, Warsaw",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Hong Kong, Other Locations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"US, Santa Fe",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"US, Naples",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"US, Cincinnati",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"US, Charleston",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"US, Mountain View",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Italy, Bologna",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Australia, Canberra",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"South Korea, Seoul",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"South Africa, Johannesburg",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Switzerland, Geneva",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Italy, Torino",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Egypt, Cairo",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Korea, Seongnam",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"France, Bordeaux",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"UK, Bristol",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"UK, Leeds",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Germany, Hannover",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Norway, Oslo",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Sweden, Stockholm",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"France, Nice",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Uruguay, Montevideo",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Ecuador, Guayaquil",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Japan, Nagoya",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"France, Lille",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Germany, Düsseldorf",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"France, Toulousse",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Australia, Perth",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"France, Montpellier",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Austria, Salzburg",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"China, Shenzhen",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Barbados, St. Thomas",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"India, Kochi",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Portugal, Lisbon",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"US, Burlington",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"US, Endicott",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Peru, Lima",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Sweden, Gothenburg",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"US, Sioux Falls",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"US, Sacramento",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"US, Springfield MO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Thailand, Bangkok",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Poland, Krakow",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Turkey, Istanbul",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"061",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"083",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"980",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"01E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"0HF",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"0IB",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"0IV",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"1AO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"2AD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"4S8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"ACT",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"ADI",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"ADS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"ASK",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"BHJ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"BLO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"BLS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"BOL",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"C3T",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"C7E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"C9Y",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"CBO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"CC6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"CH3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"CZ9",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"CZA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"D4N",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"D4U",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"D9X",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"DIA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"E2T",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"E5U",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"E6J",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"E6K",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"ECL",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"EQU",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"G5V",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"G7V",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"G9C",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"GRB",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"GU9",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"GY3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"H4D",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"H4O",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"H6R",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"H7J",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"H8K",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"HF4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"HH9",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"HM1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"HPR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"HR2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"HU6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"HW1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"HZ9",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"I6A",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"I7C",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"I9A",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"I9S",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"IB9",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"ID5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"ID8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"IF5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"IG1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"ITB",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"J0T",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"J1C",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"J1I",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"J2K",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"J2X",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"J7A",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"J8Z",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"J9N",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"K0J",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"K2B",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"K2I",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"K3E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"K3F",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"K6O",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"K6X",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"K7A",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"K7C",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"K7T",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"K8Q",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"K8U",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"K9H",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"L2G",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"L3B",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"L3C",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"L4Z",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"L5N",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"L5P",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"L7S",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"LSB",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"M5Y",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"NCA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"PLB",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"PLE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"PLM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"SEC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"SIO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"SMT",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"SPM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"THA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"TRF",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"Z3O",
+			"Weight":1
+		},
+		{
+			"ParentName":"Not Applicable",
+			"ComponentName":"D1N",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"Netherlands, Amsterdam",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"Spain, Other Locations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"Spain, Madrid",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"Singapore, Singapore",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"Canada, Markham",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"Japan, Saitama",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"Japan, Tokyo",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"Canada, Montreal",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"US, Bethesda",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"Brazil, Hortolandia",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"Brazil, Sao Paulo",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"Germany, Frankfurt",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"Israel, Tel Aviv",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"Italy, Milan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"US, Chantilly",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"US, Ashburn",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"US, San Jose",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"US, Cambridge",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"US, Armonk",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"US, Chicago",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"France, Clichy",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"US, Herndon",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"India, Chennai",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"France, Paris",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"Japan, Osaka",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"Canada, Ottawa",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"US, Charlotte",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"Australia, Sydney",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"Canada, Drummondville",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"US, Houston",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"UK, London",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"US, Washington DC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"US, Annapolis Junction",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"US, San Francisco",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"US, Manassas",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"US, New York",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"UK, Hursley",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"US, New York, NY",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"US, Alexandria",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"US, Lowell",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"US, Andover",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"UK, Slough",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"Japan, Kawasaki",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"Italy, Rome",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"Canada, Toronto",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"Canada, Vaughan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"US, Poughkeepsie",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"US, Rochester MN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"US, Yorktown Heights",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"US, Reston",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"068",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"01S",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"01Y",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"01Z",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"02A",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"0AM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"0EP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"4AN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"4EM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"4N5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"4S6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"5AF",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"BME",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"BMM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"BTU",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"C1U",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"C7K",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"C7Z",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"CF6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"CF8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"CG9",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"CH0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"CHQ",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"CI0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"CNY",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"D5Z",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"DA8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"E4B",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"E5K",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"E6G",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"E7E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"E9F",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"EQ3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"ER5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"F1E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"F1G",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"F1H",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"F1L",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"F1M",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"F1N",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"F1T",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"FR6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"FT7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"G1J",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"G8H",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"GT7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"GW3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"GW6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"GX2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"HB3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"HD4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"HG1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"HJ2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"HJ4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"HJ9",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"HK0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"HK1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"HK7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"HM3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"HQ3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"HS6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"HUR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"HV1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"HV5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"HV8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"HW5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"I5E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"I6B",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"IA6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"IB2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"IB5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"IB6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"IE8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"IE9",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"IF1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"IK8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"J0D",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"J0F",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"J0Y",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"J1Q",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"J6P",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"J6R",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"J7E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"K1E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"K1F",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"K1L",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"K1M",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"K1V",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"K2C",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"K2E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"K2F",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"K2G",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"K3L",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"K3V",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"K5A",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"K5B",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"K5R",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"K8F",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"K8M",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"K8V",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"L1L",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"L2C",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"L2D",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"L2E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"L3G",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"L8U",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"MLN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"NHA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"PLP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"PLR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"RCX",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"RET",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"RHT",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"RSA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"SBK",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"SFC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"SJH",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"SJS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"Z1A",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"I0Q",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"D5M",
+			"Weight":1
+		},
+		{
+			"ParentName":"Maintain",
+			"ComponentName":"IO6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"US, Tulsa",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"US, Tucson",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"Spain, Bilbao",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"Spain, Barcelona",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"Canada, Edmonton",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"Germany, Berlin",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"Brazil, Brasilia",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"Germany, Munich",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"Philippines, Manila",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"India, Pune",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"France, Marseille",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"Switzerland, Zurich",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"France, Nantes",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"China, Beijing",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"Slovenia, Ljubljana",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"Canada, Vancouver",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"UK, Manchester",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"China, Xian",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"Canada, Fredericton",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"Finland, Helsinki",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"Hong Kong, Other Locations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"Canada, Halifax",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"UK, Glasgow",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"UK, Edinburgh",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"China, Shanghai",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"UK, Leicester",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"New Zealand, Auckland",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"France, Lille",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"Romania, Bucharest",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"Germany, Cologne",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"Canada, Montreal",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"Mexico, Guadalajara",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"Mexico, Mexico City",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"Australia, Melbourne",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"China, Other Locations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"00W",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"01D",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"0BK",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"1AU",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"A20",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"ANY",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"BEC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"BGV",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"C1V",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"C3C",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"C4N",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"C7D",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"CD1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"CG2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"CH4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"CH5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"CMS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"D3F",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"D3Y",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"E6Z",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"E7F",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"E9R",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"ECR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"EP3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"ER4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"F1A",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"F2K",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"F4U",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"FE9",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"G0U",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"G5J",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"G9Z",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"GS9",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"H6J",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"HEL",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"HG2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"HK5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"HK8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"HKE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"HM4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"HP5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"HP7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"HQ4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"HR3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"HS8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"HT0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"HU5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"HV3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"HV4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"HV7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"HX7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"I4U",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"I5Y",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"I6D",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"I7V",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"I9H",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"IA5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"IA8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"IC1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"IE0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"IE6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"IF2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"IF6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"IF8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"IK4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"IK9",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"IL2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"IM6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"IN7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"J2Y",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"K0Q",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"K0S",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"K2Y",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"K5F",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"K5J",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"K5O",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"L1M",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"L3U",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"L3X",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"L9G",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"L9L",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"M5T",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"MJH",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"MPG",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"MSF",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"NHB",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"PHB",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"PLT",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"SBR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"SGA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"WWK",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"M6I",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"IM7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"Australia, Brisbane",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"UK, Southampton",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"US, Albany",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"US, Ann Arbor",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"US, Atlanta",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"US, Baton Rouge",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"US, Boise",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"US, Buffalo",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"US, Columbia",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"US, Columbia SC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"US, Columbus",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"US, Costa Mesa",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"US, Denver",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"US, Detroit",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"US, Fayetteville",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"US, Huntsville",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"US, Keene",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"US, Lansing",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"US, Madison",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"US, Malta",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"US, Miami",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"US, Milwaukee",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"US, Newark",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"US, Paramus",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"US, Phoenix",
+			"Weight":1
+		},
+		{
+			"ParentName":"Exit",
+			"ComponentName":"US, Seattle",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"India, Bangalore",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"Germany, Stuttgart",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"Hungary, Budapest",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"US, Austin",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"Germany, Boeblingen",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"US, Dallas",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"India, Hyderabad",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"US, Coppell",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"Costa Rica, Heredia",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"US, Plano",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"US, Richardson",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"US, RTP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"US, Irving",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"Ireland, Dublin",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"Bulgaria, Sofia",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"Ireland, Mulhuddart",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"US, Carrollton",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"US, Durham",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"0IO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"AAG",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"AAH",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"BNT",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"BOA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"C4P",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"CF5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"D3E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"D4T",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"DFW",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"E7A",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"GS4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"H6D",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"HI9",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"HJ5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"HJ6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"HJ8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"HL4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"HP3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"HQ1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"HS4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"I4Q",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"I9T",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"IC8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"IEA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"IK6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"K0W",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"K1C",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"K1D",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"K3O",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"L5F",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"M5E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"PLA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"RPL",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"SMB",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"C8X",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"E7Y",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"E5T",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"HX5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"IF9",
+			"Weight":1
+		},
+		{
+			"ParentName":"Key",
+			"ComponentName":"N0B",
+			"Weight":1
+		},
+		{
+			"ParentName":"Virtual",
+			"ComponentName":"Brazil, Other Locations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Virtual",
+			"ComponentName":"US, Other Locations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Virtual",
+			"ComponentName":"US, Philadelphia",
+			"Weight":1
+		},
+		{
+			"ParentName":"Virtual",
+			"ComponentName":"Canada, Other Locations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Virtual",
+			"ComponentName":"BHL",
+			"Weight":1
+		},
+		{
+			"ParentName":"Virtual",
+			"ComponentName":"HT4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Virtual",
+			"ComponentName":"HT6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Virtual",
+			"ComponentName":"IA7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Virtual",
+			"ComponentName":"IB0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Virtual",
+			"ComponentName":"IC3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Virtual",
+			"ComponentName":"IC5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Virtual",
+			"ComponentName":"IC6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Virtual",
+			"ComponentName":"IC9",
+			"Weight":1
+		},
+		{
+			"ParentName":"Virtual",
+			"ComponentName":"IG2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Virtual",
+			"ComponentName":"IG3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Virtual",
+			"ComponentName":"IG4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Virtual",
+			"ComponentName":"IK2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Virtual",
+			"ComponentName":"IK3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Virtual",
+			"ComponentName":"IM4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Virtual",
+			"ComponentName":"IM5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Virtual",
+			"ComponentName":"L8M",
+			"Weight":1
+		},
+		{
+			"ParentName":"Virtual",
+			"ComponentName":"M6N",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Des Moines",
+			"ComponentName":"061",
+			"Weight":1
+		},
+		{
+			"ParentName":"Netherlands, Amsterdam",
+			"ComponentName":"068",
+			"Weight":1
+		},
+		{
+			"ParentName":"Netherlands, Amsterdam",
+			"ComponentName":"F1N",
+			"Weight":1
+		},
+		{
+			"ParentName":"Netherlands, Amsterdam",
+			"ComponentName":"J0D",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Augusta",
+			"ComponentName":"083",
+			"Weight":1
+		},
+		{
+			"ParentName":"Japan, Fukuoka",
+			"ComponentName":"980",
+			"Weight":1
+		},
+		{
+			"ParentName":"Spain, Bilbao",
+			"ComponentName":"00W",
+			"Weight":1
+		},
+		{
+			"ParentName":"Spain, Bilbao",
+			"ComponentName":"01E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Spain, Barcelona",
+			"ComponentName":"01D",
+			"Weight":1
+		},
+		{
+			"ParentName":"Spain, Other Locations",
+			"ComponentName":"01S",
+			"Weight":1
+		},
+		{
+			"ParentName":"Spain, Other Locations",
+			"ComponentName":"02A",
+			"Weight":1
+		},
+		{
+			"ParentName":"Spain, Madrid",
+			"ComponentName":"01Y",
+			"Weight":1
+		},
+		{
+			"ParentName":"Spain, Madrid",
+			"ComponentName":"01Z",
+			"Weight":1
+		},
+		{
+			"ParentName":"Spain, Madrid",
+			"ComponentName":"0AM",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Ann Arbor",
+			"ComponentName":"0BK",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Ann Arbor",
+			"ComponentName":"HR3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Singapore, Singapore",
+			"ComponentName":"0EP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Singapore, Singapore",
+			"ComponentName":"J0F",
+			"Weight":1
+		},
+		{
+			"ParentName":"Singapore, Singapore",
+			"ComponentName":"J7E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Israel, Haifa",
+			"ComponentName":"0HF",
+			"Weight":1
+		},
+		{
+			"ParentName":"UAE, Dubai",
+			"ComponentName":"0IB",
+			"Weight":1
+		},
+		{
+			"ParentName":"India, Bangalore",
+			"ComponentName":"0IO",
+			"Weight":1
+		},
+		{
+			"ParentName":"India, Bangalore",
+			"ComponentName":"C4P",
+			"Weight":1
+		},
+		{
+			"ParentName":"India, Bangalore",
+			"ComponentName":"D4T",
+			"Weight":1
+		},
+		{
+			"ParentName":"India, Bangalore",
+			"ComponentName":"E5T",
+			"Weight":1
+		},
+		{
+			"ParentName":"India, Bangalore",
+			"ComponentName":"N0B",
+			"Weight":1
+		},
+		{
+			"ParentName":"India, Mumbai",
+			"ComponentName":"0IV",
+			"Weight":1
+		},
+		{
+			"ParentName":"India, Mumbai",
+			"ComponentName":"H4O",
+			"Weight":1
+		},
+		{
+			"ParentName":"Canada, Calgary",
+			"ComponentName":"1AO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Canada, Edmonton",
+			"ComponentName":"1AU",
+			"Weight":1
+		},
+		{
+			"ParentName":"Canada, Edmonton",
+			"ComponentName":"L9L",
+			"Weight":1
+		},
+		{
+			"ParentName":"Canada, Regina",
+			"ComponentName":"2AD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Canada, Markham",
+			"ComponentName":"4AN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Canada, Markham",
+			"ComponentName":"4EM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Canada, Markham",
+			"ComponentName":"J1Q",
+			"Weight":1
+		},
+		{
+			"ParentName":"Japan, Saitama",
+			"ComponentName":"4N5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Japan, Saitama",
+			"ComponentName":"K5A",
+			"Weight":1
+		},
+		{
+			"ParentName":"Japan, Tokyo",
+			"ComponentName":"4S6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Japan, Tokyo",
+			"ComponentName":"F1E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Japan, Tokyo",
+			"ComponentName":"I5E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Japan, Chiba",
+			"ComponentName":"4S8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Canada, Montreal",
+			"ComponentName":"5AF",
+			"Weight":1
+		},
+		{
+			"ParentName":"Canada, Montreal",
+			"ComponentName":"K1V",
+			"Weight":1
+		},
+		{
+			"ParentName":"Canada, Montreal",
+			"ComponentName":"L3X",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Tulsa",
+			"ComponentName":"A20",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Tulsa",
+			"ComponentName":"IN7",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"A43",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"ADT",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"AFO",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"ALA",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"CBD",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"CE5",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"CH4",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"FH8",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"FT0",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"GU0",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"GU5",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"GZ4",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"GZ7",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"HGH",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"HJ3",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"HS2",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"HST",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"HT4",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"HT6",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"IA7",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"IB0",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"IC3",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"IC5",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"IC6",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"IC9",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"IG2",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"IG3",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"IG4",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"IK2",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"IK3",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"IL2",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"IM5",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"IM6",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"J7C",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"K2P",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"M6N",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"MX7",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"PIC",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Other Locations",
+			"ComponentName":"PLL",
+			"Weight":1
+		},
+		{
+			"ParentName":"Germany, Stuttgart",
+			"ComponentName":"AAG",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hungary, Budapest",
+			"ComponentName":"AAH",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hungary, Budapest",
+			"ComponentName":"K0W",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hungary, Budapest",
+			"ComponentName":"L5F",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hungary, Budapest",
+			"ComponentName":"C8X",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hungary, Budapest",
+			"ComponentName":"E7Y",
+			"Weight":1
+		},
+		{
+			"ParentName":"Argentina, Buenos Aires",
+			"ComponentName":"ACT",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Lexington",
+			"ComponentName":"ADI",
+			"Weight":1
+		},
+		{
+			"ParentName":"Germany, Hamburg",
+			"ComponentName":"ADS",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Albany",
+			"ComponentName":"ANY",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Albany",
+			"ComponentName":"GS9",
+			"Weight":1
+		},
+		{
+			"ParentName":"Slovakia, Bratislava",
+			"ComponentName":"ASK",
+			"Weight":1
+		},
+		{
+			"ParentName":"Slovakia, Bratislava",
+			"ComponentName":"I9S",
+			"Weight":1
+		},
+		{
+			"ParentName":"Slovakia, Bratislava",
+			"ComponentName":"L4Z",
+			"Weight":1
+		},
+		{
+			"ParentName":"Brazil, Other Locations",
+			"ComponentName":"BBU",
+			"Weight":1
+		},
+		{
+			"ParentName":"Brazil, Other Locations",
+			"ComponentName":"BHL",
+			"Weight":1
+		},
+		{
+			"ParentName":"Brazil, Other Locations",
+			"ComponentName":"BHM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Germany, Berlin",
+			"ComponentName":"BEC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Germany, Berlin",
+			"ComponentName":"I5Y",
+			"Weight":1
+		},
+		{
+			"ParentName":"Germany, Berlin",
+			"ComponentName":"M6I",
+			"Weight":1
+		},
+		{
+			"ParentName":"Brazil, Brasilia",
+			"ComponentName":"BGV",
+			"Weight":1
+		},
+		{
+			"ParentName":"Brazil, Rio De Janeiro",
+			"ComponentName":"BHJ",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Peoria",
+			"ComponentName":"BLO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Belgium, Brussels",
+			"ComponentName":"BLS",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Bethesda",
+			"ComponentName":"BME",
+			"Weight":1
+		},
+		{
+			"ParentName":"Brazil, Hortolandia",
+			"ComponentName":"BMM",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Austin",
+			"ComponentName":"BNT",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Austin",
+			"ComponentName":"GS4",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Austin",
+			"ComponentName":"IC8",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Austin",
+			"ComponentName":"PLA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Germany, Boeblingen",
+			"ComponentName":"BOA",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Boulder",
+			"ComponentName":"BOL",
+			"Weight":1
+		},
+		{
+			"ParentName":"Brazil, Sao Paulo",
+			"ComponentName":"BTU",
+			"Weight":1
+		},
+		{
+			"ParentName":"Germany, Frankfurt",
+			"ComponentName":"C1U",
+			"Weight":1
+		},
+		{
+			"ParentName":"Germany, Frankfurt",
+			"ComponentName":"F1H",
+			"Weight":1
+		},
+		{
+			"ParentName":"Germany, Frankfurt",
+			"ComponentName":"K2F",
+			"Weight":1
+		},
+		{
+			"ParentName":"Germany, Frankfurt",
+			"ComponentName":"K2G",
+			"Weight":1
+		},
+		{
+			"ParentName":"Germany, Frankfurt",
+			"ComponentName":"L8U",
+			"Weight":1
+		},
+		{
+			"ParentName":"Germany, Munich",
+			"ComponentName":"C1V",
+			"Weight":1
+		},
+		{
+			"ParentName":"Germany, Munich",
+			"ComponentName":"F2K",
+			"Weight":1
+		},
+		{
+			"ParentName":"Philippines, Manila",
+			"ComponentName":"C3C",
+			"Weight":1
+		},
+		{
+			"ParentName":"Philippines, Manila",
+			"ComponentName":"F1A",
+			"Weight":1
+		},
+		{
+			"ParentName":"Philippines, Manila",
+			"ComponentName":"PHB",
+			"Weight":1
+		},
+		{
+			"ParentName":"Taiwan, Taipei",
+			"ComponentName":"C3T",
+			"Weight":1
+		},
+		{
+			"ParentName":"Taiwan, Taipei",
+			"ComponentName":"Z3O",
+			"Weight":1
+		},
+		{
+			"ParentName":"India, Pune",
+			"ComponentName":"C4N",
+			"Weight":1
+		},
+		{
+			"ParentName":"India, Pune",
+			"ComponentName":"D3Y",
+			"Weight":1
+		},
+		{
+			"ParentName":"India, Pune",
+			"ComponentName":"E7F",
+			"Weight":1
+		},
+		{
+			"ParentName":"France, Marseille",
+			"ComponentName":"C7D",
+			"Weight":1
+		},
+		{
+			"ParentName":"Russia, Moscow",
+			"ComponentName":"C7E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Israel, Tel Aviv",
+			"ComponentName":"C7K",
+			"Weight":1
+		},
+		{
+			"ParentName":"Israel, Tel Aviv",
+			"ComponentName":"Z1A",
+			"Weight":1
+		},
+		{
+			"ParentName":"Italy, Milan",
+			"ComponentName":"C7Z",
+			"Weight":1
+		},
+		{
+			"ParentName":"Italy, Milan",
+			"ComponentName":"F1M",
+			"Weight":1
+		},
+		{
+			"ParentName":"Italy, Milan",
+			"ComponentName":"K8M",
+			"Weight":1
+		},
+		{
+			"ParentName":"Denmark, Copenhagen",
+			"ComponentName":"C9Y",
+			"Weight":1
+		},
+		{
+			"ParentName":"Colombia, Bogota",
+			"ComponentName":"CBO",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Norfolk",
+			"ComponentName":"CC6",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Fayetteville",
+			"ComponentName":"CD1",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Dallas",
+			"ComponentName":"CF5",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Dallas",
+			"ComponentName":"HI9",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Dallas",
+			"ComponentName":"HJ5",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Dallas",
+			"ComponentName":"HJ6",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Dallas",
+			"ComponentName":"HX5",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Dallas",
+			"ComponentName":"IF9",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Chantilly",
+			"ComponentName":"CF6",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Chantilly",
+			"ComponentName":"GW6",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Chantilly",
+			"ComponentName":"HJ2",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Ashburn",
+			"ComponentName":"CF8",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Ashburn",
+			"ComponentName":"CH2",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Ashburn",
+			"ComponentName":"HM3",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Ashburn",
+			"ComponentName":"IK8",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Ashburn",
+			"ComponentName":"K1E",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Ashburn",
+			"ComponentName":"K1F",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Columbia SC",
+			"ComponentName":"CG2",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, San Jose",
+			"ComponentName":"CG9",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, San Jose",
+			"ComponentName":"FT7",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, San Jose",
+			"ComponentName":"HJ4",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, San Jose",
+			"ComponentName":"HV1",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, San Jose",
+			"ComponentName":"IF1",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, San Jose",
+			"ComponentName":"SJH",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, San Jose",
+			"ComponentName":"SJS",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Cambridge",
+			"ComponentName":"CH0",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Cambridge",
+			"ComponentName":"IB6",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, San Diego",
+			"ComponentName":"CH3",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Milwaukee",
+			"ComponentName":"CH5",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Milwaukee",
+			"ComponentName":"IE6",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Armonk",
+			"ComponentName":"CHQ",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Armonk",
+			"ComponentName":"CNY",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Chicago",
+			"ComponentName":"CI0",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Chicago",
+			"ComponentName":"EQ3",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Chicago",
+			"ComponentName":"IE8",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Chicago",
+			"ComponentName":"IO6",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Costa Mesa",
+			"ComponentName":"CMS",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Wilmington",
+			"ComponentName":"CZ9",
+			"Weight":1
+		},
+		{
+			"ParentName":"Czech Republic, Prague",
+			"ComponentName":"CZA",
+			"Weight":1
+		},
+		{
+			"ParentName":"India, Hyderabad",
+			"ComponentName":"D3E",
+			"Weight":1
+		},
+		{
+			"ParentName":"India, Hyderabad",
+			"ComponentName":"E7A",
+			"Weight":1
+		},
+		{
+			"ParentName":"India, Hyderabad",
+			"ComponentName":"K1C",
+			"Weight":1
+		},
+		{
+			"ParentName":"Switzerland, Zurich",
+			"ComponentName":"D3F",
+			"Weight":1
+		},
+		{
+			"ParentName":"Croatia, Zagreb",
+			"ComponentName":"D4N",
+			"Weight":1
+		},
+		{
+			"ParentName":"India, New Delhi",
+			"ComponentName":"D4U",
+			"Weight":1
+		},
+		{
+			"ParentName":"India, New Delhi",
+			"ComponentName":"H7J",
+			"Weight":1
+		},
+		{
+			"ParentName":"France, Clichy",
+			"ComponentName":"D5Z",
+			"Weight":1
+		},
+		{
+			"ParentName":"Serbia, Belgrade",
+			"ComponentName":"D9X",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Herndon",
+			"ComponentName":"DA8",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Herndon",
+			"ComponentName":"GT7",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Coppell",
+			"ComponentName":"DFW",
+			"Weight":1
+		},
+		{
+			"ParentName":"Austria, Vienna",
+			"ComponentName":"DIA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Saudi Arabia, Riyadh",
+			"ComponentName":"E2T",
+			"Weight":1
+		},
+		{
+			"ParentName":"India, Chennai",
+			"ComponentName":"E4B",
+			"Weight":1
+		},
+		{
+			"ParentName":"India, Chennai",
+			"ComponentName":"F1T",
+			"Weight":1
+		},
+		{
+			"ParentName":"India, Chennai",
+			"ComponentName":"I6B",
+			"Weight":1
+		},
+		{
+			"ParentName":"France, Paris",
+			"ComponentName":"E5K",
+			"Weight":1
+		},
+		{
+			"ParentName":"France, Paris",
+			"ComponentName":"E9F",
+			"Weight":1
+		},
+		{
+			"ParentName":"France, Paris",
+			"ComponentName":"K8V",
+			"Weight":1
+		},
+		{
+			"ParentName":"India, Noida",
+			"ComponentName":"E5U",
+			"Weight":1
+		},
+		{
+			"ParentName":"Japan, Osaka",
+			"ComponentName":"E6G",
+			"Weight":1
+		},
+		{
+			"ParentName":"Japan, Osaka",
+			"ComponentName":"K3L",
+			"Weight":1
+		},
+		{
+			"ParentName":"Japan, Osaka",
+			"ComponentName":"L2C",
+			"Weight":1
+		},
+		{
+			"ParentName":"Ireland, Galway",
+			"ComponentName":"E6J",
+			"Weight":1
+		},
+		{
+			"ParentName":"Ireland, Cork",
+			"ComponentName":"E6K",
+			"Weight":1
+		},
+		{
+			"ParentName":"Ireland, Cork",
+			"ComponentName":"M5Y",
+			"Weight":1
+		},
+		{
+			"ParentName":"France, Nantes",
+			"ComponentName":"E6Z",
+			"Weight":1
+		},
+		{
+			"ParentName":"Canada, Ottawa",
+			"ComponentName":"E7E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Canada, Ottawa",
+			"ComponentName":"G1J",
+			"Weight":1
+		},
+		{
+			"ParentName":"China, Beijing",
+			"ComponentName":"E9R",
+			"Weight":1
+		},
+		{
+			"ParentName":"China, Beijing",
+			"ComponentName":"L3U",
+			"Weight":1
+		},
+		{
+			"ParentName":"France, Lyon",
+			"ComponentName":"ECL",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Phoenix",
+			"ComponentName":"ECR",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Keene",
+			"ComponentName":"EP3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Ecuador, Quito",
+			"ComponentName":"EQU",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Detroit",
+			"ComponentName":"ER4",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Detroit",
+			"ComponentName":"HV3",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Detroit",
+			"ComponentName":"IA5",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Charlotte",
+			"ComponentName":"ER5",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Charlotte",
+			"ComponentName":"HW5",
+			"Weight":1
+		},
+		{
+			"ParentName":"India, Other Locations",
+			"ComponentName":"F0H",
+			"Weight":1
+		},
+		{
+			"ParentName":"India, Other Locations",
+			"ComponentName":"J9D",
+			"Weight":1
+		},
+		{
+			"ParentName":"India, Other Locations",
+			"ComponentName":"K0D",
+			"Weight":1
+		},
+		{
+			"ParentName":"India, Other Locations",
+			"ComponentName":"L7U",
+			"Weight":1
+		},
+		{
+			"ParentName":"Canada, Other Locations",
+			"ComponentName":"F1B",
+			"Weight":1
+		},
+		{
+			"ParentName":"Canada, Other Locations",
+			"ComponentName":"L6V",
+			"Weight":1
+		},
+		{
+			"ParentName":"Canada, Other Locations",
+			"ComponentName":"L8M",
+			"Weight":1
+		},
+		{
+			"ParentName":"Australia, Sydney",
+			"ComponentName":"F1G",
+			"Weight":1
+		},
+		{
+			"ParentName":"Australia, Sydney",
+			"ComponentName":"K2E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Australia, Sydney",
+			"ComponentName":"K3V",
+			"Weight":1
+		},
+		{
+			"ParentName":"Australia, Sydney",
+			"ComponentName":"K8F",
+			"Weight":1
+		},
+		{
+			"ParentName":"Australia, Sydney",
+			"ComponentName":"NHA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Canada, Drummondville",
+			"ComponentName":"F1L",
+			"Weight":1
+		},
+		{
+			"ParentName":"Slovenia, Ljubljana",
+			"ComponentName":"F4U",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Atlanta",
+			"ComponentName":"FE9",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Atlanta",
+			"ComponentName":"HS8",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Atlanta",
+			"ComponentName":"HU5",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Houston",
+			"ComponentName":"FR6",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Houston",
+			"ComponentName":"HG1",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Houston",
+			"ComponentName":"HJ9",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Houston",
+			"ComponentName":"HK0",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Houston",
+			"ComponentName":"HK1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Canada, Vancouver",
+			"ComponentName":"G0U",
+			"Weight":1
+		},
+		{
+			"ParentName":"UK, Manchester",
+			"ComponentName":"G5J",
+			"Weight":1
+		},
+		{
+			"ParentName":"UK, Manchester",
+			"ComponentName":"MJH",
+			"Weight":1
+		},
+		{
+			"ParentName":"Mexico, Monterrey",
+			"ComponentName":"G5V",
+			"Weight":1
+		},
+		{
+			"ParentName":"China, Other Locations",
+			"ComponentName":"G6M",
+			"Weight":1
+		},
+		{
+			"ParentName":"China, Other Locations",
+			"ComponentName":"G9O",
+			"Weight":1
+		},
+		{
+			"ParentName":"Indonesia, Jakarta",
+			"ComponentName":"G7V",
+			"Weight":1
+		},
+		{
+			"ParentName":"UK, London",
+			"ComponentName":"G8H",
+			"Weight":1
+		},
+		{
+			"ParentName":"UK, London",
+			"ComponentName":"J0Y",
+			"Weight":1
+		},
+		{
+			"ParentName":"UK, London",
+			"ComponentName":"K1L",
+			"Weight":1
+		},
+		{
+			"ParentName":"UK, London",
+			"ComponentName":"K2C",
+			"Weight":1
+		},
+		{
+			"ParentName":"UK, London",
+			"ComponentName":"L3G",
+			"Weight":1
+		},
+		{
+			"ParentName":"UK, London",
+			"ComponentName":"SBK",
+			"Weight":1
+		},
+		{
+			"ParentName":"UK, Belfast",
+			"ComponentName":"G9C",
+			"Weight":1
+		},
+		{
+			"ParentName":"China, Xian",
+			"ComponentName":"G9Z",
+			"Weight":1
+		},
+		{
+			"ParentName":"Greece, Athens",
+			"ComponentName":"GRB",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Washington DC",
+			"ComponentName":"GU9",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Washington DC",
+			"ComponentName":"GW3",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Washington DC",
+			"ComponentName":"HV8",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Washington DC",
+			"ComponentName":"HZ9",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Annapolis Junction",
+			"ComponentName":"GX2",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Rocket Center",
+			"ComponentName":"GY3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Kenya, Nairobi",
+			"ComponentName":"H4D",
+			"Weight":1
+		},
+		{
+			"ParentName":"Singapore, Other Locations",
+			"ComponentName":"H6C",
+			"Weight":1
+		},
+		{
+			"ParentName":"Costa Rica, Heredia",
+			"ComponentName":"H6D",
+			"Weight":1
+		},
+		{
+			"ParentName":"Canada, Fredericton",
+			"ComponentName":"H6J",
+			"Weight":1
+		},
+		{
+			"ParentName":"UK, Cambridge",
+			"ComponentName":"H6R",
+			"Weight":1
+		},
+		{
+			"ParentName":"China, Guangzhou",
+			"ComponentName":"H8K",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, San Francisco",
+			"ComponentName":"HB3",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, San Francisco",
+			"ComponentName":"SFC",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Manassas",
+			"ComponentName":"HD4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Finland, Helsinki",
+			"ComponentName":"HEL",
+			"Weight":1
+		},
+		{
+			"ParentName":"Finland, Helsinki",
+			"ComponentName":"L9G",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Southbury",
+			"ComponentName":"HF4",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Southbury",
+			"ComponentName":"SBR",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Miami",
+			"ComponentName":"HG2",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Harrisburg",
+			"ComponentName":"HH9",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Plano",
+			"ComponentName":"HJ8",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Plano",
+			"ComponentName":"IK6",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Philadelphia",
+			"ComponentName":"HK5",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Philadelphia",
+			"ComponentName":"IK5",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Philadelphia",
+			"ComponentName":"IM4",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, New York",
+			"ComponentName":"HK7",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, New York",
+			"ComponentName":"HQ3",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, New York",
+			"ComponentName":"HS6",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, New York",
+			"ComponentName":"HV5",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, New York",
+			"ComponentName":"IB2",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, New York",
+			"ComponentName":"IK9",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, New York",
+			"ComponentName":"J6P",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, New York",
+			"ComponentName":"RSA",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Baton Rouge",
+			"ComponentName":"HK8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hong Kong, Other Locations",
+			"ComponentName":"HKE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Hong Kong, Other Locations",
+			"ComponentName":"I9A",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Richardson",
+			"ComponentName":"HL4",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Richardson",
+			"ComponentName":"HP3",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Richardson",
+			"ComponentName":"K3O",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, St Louis",
+			"ComponentName":"HM1",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Buffalo",
+			"ComponentName":"HM4",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Madison",
+			"ComponentName":"HP5",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Paramus",
+			"ComponentName":"HP7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Chile, Santiago",
+			"ComponentName":"HPR",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, RTP",
+			"ComponentName":"HQ1",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, RTP",
+			"ComponentName":"RPL",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Columbus",
+			"ComponentName":"HQ4",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Santa Barbara",
+			"ComponentName":"HR2",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Irving",
+			"ComponentName":"HS4",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Denver",
+			"ComponentName":"HT0",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Denver",
+			"ComponentName":"HV7",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Denver",
+			"ComponentName":"IC1",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Cleveland",
+			"ComponentName":"HU6",
+			"Weight":1
+		},
+		{
+			"ParentName":"UK, Hursley",
+			"ComponentName":"HUR",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Seattle",
+			"ComponentName":"HV4",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Seattle",
+			"ComponentName":"IM7",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Monroe",
+			"ComponentName":"HW1",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Huntsville",
+			"ComponentName":"HX7",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Rochester",
+			"ComponentName":"I01",
+			"Weight":1
+		},
+		{
+			"ParentName":"Norway, Other Locations",
+			"ComponentName":"I0R",
+			"Weight":1
+		},
+		{
+			"ParentName":"Ireland, Dublin",
+			"ComponentName":"I4Q",
+			"Weight":1
+		},
+		{
+			"ParentName":"Ireland, Dublin",
+			"ComponentName":"M5E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Canada, Halifax",
+			"ComponentName":"I4U",
+			"Weight":1
+		},
+		{
+			"ParentName":"Denmark, Aarhus",
+			"ComponentName":"I6A",
+			"Weight":1
+		},
+		{
+			"ParentName":"UK, Glasgow",
+			"ComponentName":"I6D",
+			"Weight":1
+		},
+		{
+			"ParentName":"UK, Glasgow",
+			"ComponentName":"M5T",
+			"Weight":1
+		},
+		{
+			"ParentName":"Poland, Warsaw",
+			"ComponentName":"I7C",
+			"Weight":1
+		},
+		{
+			"ParentName":"UK, Edinburgh",
+			"ComponentName":"I7V",
+			"Weight":1
+		},
+		{
+			"ParentName":"China, Shanghai",
+			"ComponentName":"I9H",
+			"Weight":1
+		},
+		{
+			"ParentName":"China, Shanghai",
+			"ComponentName":"K5O",
+			"Weight":1
+		},
+		{
+			"ParentName":"Bulgaria, Sofia",
+			"ComponentName":"I9T",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, New York, NY",
+			"ComponentName":"IA6",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, New York, NY",
+			"ComponentName":"MLN",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, New York, NY",
+			"ComponentName":"IK0",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Columbia",
+			"ComponentName":"IA8",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Alexandria",
+			"ComponentName":"IB5",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Santa Fe",
+			"ComponentName":"IB9",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Naples",
+			"ComponentName":"ID5",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Cincinnati",
+			"ComponentName":"ID8",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Burlington",
+			"ComponentName":"IE0",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Burlington",
+			"ComponentName":"PLB",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Lowell",
+			"ComponentName":"IE9",
+			"Weight":1
+		},
+		{
+			"ParentName":"Ireland, Mulhuddart",
+			"ComponentName":"IEA",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Boise",
+			"ComponentName":"IF2",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Charleston",
+			"ComponentName":"IF5",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Lansing",
+			"ComponentName":"IF6",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Newark",
+			"ComponentName":"IF8",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Mountain View",
+			"ComponentName":"IG1",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Malta",
+			"ComponentName":"IK4",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Bloomington",
+			"ComponentName":"IN3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Italy, Bologna",
+			"ComponentName":"ITB",
+			"Weight":1
+		},
+		{
+			"ParentName":"Australia, Canberra",
+			"ComponentName":"J0T",
+			"Weight":1
+		},
+		{
+			"ParentName":"South Korea, Seoul",
+			"ComponentName":"J1C",
+			"Weight":1
+		},
+		{
+			"ParentName":"South Africa, Johannesburg",
+			"ComponentName":"J1I",
+			"Weight":1
+		},
+		{
+			"ParentName":"Switzerland, Geneva",
+			"ComponentName":"J2K",
+			"Weight":1
+		},
+		{
+			"ParentName":"Italy, Torino",
+			"ComponentName":"J2X",
+			"Weight":1
+		},
+		{
+			"ParentName":"UK, Leicester",
+			"ComponentName":"J2Y",
+			"Weight":1
+		},
+		{
+			"ParentName":"UK, Leicester",
+			"ComponentName":"WWK",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Andover",
+			"ComponentName":"J6R",
+			"Weight":1
+		},
+		{
+			"ParentName":"Egypt, Cairo",
+			"ComponentName":"J7A",
+			"Weight":1
+		},
+		{
+			"ParentName":"Korea, Seongnam",
+			"ComponentName":"J8Z",
+			"Weight":1
+		},
+		{
+			"ParentName":"France, Bordeaux",
+			"ComponentName":"J9N",
+			"Weight":1
+		},
+		{
+			"ParentName":"UK, Bristol",
+			"ComponentName":"K0J",
+			"Weight":1
+		},
+		{
+			"ParentName":"UK, Bristol",
+			"ComponentName":"K9H",
+			"Weight":1
+		},
+		{
+			"ParentName":"New Zealand, Auckland",
+			"ComponentName":"K0Q",
+			"Weight":1
+		},
+		{
+			"ParentName":"France, Lille",
+			"ComponentName":"K0S",
+			"Weight":1
+		},
+		{
+			"ParentName":"France, Lille",
+			"ComponentName":"K7T",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Carrollton",
+			"ComponentName":"K1D",
+			"Weight":1
+		},
+		{
+			"ParentName":"UK, Slough",
+			"ComponentName":"K1M",
+			"Weight":1
+		},
+		{
+			"ParentName":"UK, Leeds",
+			"ComponentName":"K2B",
+			"Weight":1
+		},
+		{
+			"ParentName":"Germany, Hannover",
+			"ComponentName":"K2I",
+			"Weight":1
+		},
+		{
+			"ParentName":"Romania, Bucharest",
+			"ComponentName":"K2Y",
+			"Weight":1
+		},
+		{
+			"ParentName":"Norway, Oslo",
+			"ComponentName":"K3E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sweden, Stockholm",
+			"ComponentName":"K3F",
+			"Weight":1
+		},
+		{
+			"ParentName":"Japan, Kawasaki",
+			"ComponentName":"K5B",
+			"Weight":1
+		},
+		{
+			"ParentName":"Germany, Cologne",
+			"ComponentName":"K5F",
+			"Weight":1
+		},
+		{
+			"ParentName":"Australia, Brisbane",
+			"ComponentName":"K5J",
+			"Weight":1
+		},
+		{
+			"ParentName":"Australia, Brisbane",
+			"ComponentName":"L1M",
+			"Weight":1
+		},
+		{
+			"ParentName":"Italy, Rome",
+			"ComponentName":"K5R",
+			"Weight":1
+		},
+		{
+			"ParentName":"France, Nice",
+			"ComponentName":"K6O",
+			"Weight":1
+		},
+		{
+			"ParentName":"France, Nice",
+			"ComponentName":"NCA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Uruguay, Montevideo",
+			"ComponentName":"K6X",
+			"Weight":1
+		},
+		{
+			"ParentName":"Ecuador, Guayaquil",
+			"ComponentName":"K7A",
+			"Weight":1
+		},
+		{
+			"ParentName":"Japan, Nagoya",
+			"ComponentName":"K7C",
+			"Weight":1
+		},
+		{
+			"ParentName":"Germany, Düsseldorf",
+			"ComponentName":"K8Q",
+			"Weight":1
+		},
+		{
+			"ParentName":"France, Toulousse",
+			"ComponentName":"K8U",
+			"Weight":1
+		},
+		{
+			"ParentName":"Canada, Toronto",
+			"ComponentName":"L1L",
+			"Weight":1
+		},
+		{
+			"ParentName":"Canada, Toronto",
+			"ComponentName":"L2E",
+			"Weight":1
+		},
+		{
+			"ParentName":"Canada, Toronto",
+			"ComponentName":"I0Q",
+			"Weight":1
+		},
+		{
+			"ParentName":"Canada, Toronto",
+			"ComponentName":"D5M",
+			"Weight":1
+		},
+		{
+			"ParentName":"Canada, Vaughan",
+			"ComponentName":"L2D",
+			"Weight":1
+		},
+		{
+			"ParentName":"Australia, Perth",
+			"ComponentName":"L2G",
+			"Weight":1
+		},
+		{
+			"ParentName":"France, Montpellier",
+			"ComponentName":"L3B",
+			"Weight":1
+		},
+		{
+			"ParentName":"Austria, Salzburg",
+			"ComponentName":"L3C",
+			"Weight":1
+		},
+		{
+			"ParentName":"Austria, Other Locations",
+			"ComponentName":"L4I",
+			"Weight":1
+		},
+		{
+			"ParentName":"China, Shenzhen",
+			"ComponentName":"L5N",
+			"Weight":1
+		},
+		{
+			"ParentName":"Barbados, St. Thomas",
+			"ComponentName":"L5P",
+			"Weight":1
+		},
+		{
+			"ParentName":"India, Kochi",
+			"ComponentName":"L7S",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sweden, Other Locations",
+			"ComponentName":"L7Z",
+			"Weight":1
+		},
+		{
+			"ParentName":"Portugal, Lisbon",
+			"ComponentName":"LSB",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, No City",
+			"ComponentName":"M5H",
+			"Weight":1
+		},
+		{
+			"ParentName":"Mexico, Guadalajara",
+			"ComponentName":"MPG",
+			"Weight":1
+		},
+		{
+			"ParentName":"Mexico, Mexico City",
+			"ComponentName":"MSF",
+			"Weight":1
+		},
+		{
+			"ParentName":"UK, Southampton",
+			"ComponentName":"NHB",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Endicott",
+			"ComponentName":"PLE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Peru, Lima",
+			"ComponentName":"PLM",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Poughkeepsie",
+			"ComponentName":"PLP",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Rochester MN",
+			"ComponentName":"PLR",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Rochester MN",
+			"ComponentName":"RHT",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Tucson",
+			"ComponentName":"PLT",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Yorktown Heights",
+			"ComponentName":"RCX",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Reston",
+			"ComponentName":"RET",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sweden, Gothenburg",
+			"ComponentName":"SEC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Australia, Melbourne",
+			"ComponentName":"SGA",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Sioux Falls",
+			"ComponentName":"SIO",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Durham",
+			"ComponentName":"SMB",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Sacramento",
+			"ComponentName":"SMT",
+			"Weight":1
+		},
+		{
+			"ParentName":"US, Springfield MO",
+			"ComponentName":"SPM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Thailand, Bangkok",
+			"ComponentName":"THA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Turkey, Istanbul",
+			"ComponentName":"TRF",
+			"Weight":1
+		},
+		{
+			"ParentName":"Poland, Krakow",
+			"ComponentName":"D1N",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":[]
+}

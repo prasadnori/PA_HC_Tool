@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"Funding_Lkup",
+	"Hierarchies@Code.links":
+	[
+		"Funding_Lkup.hierarchies/Funding_Lkup.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Funding_Lkup')/Hierarchies('Funding_Lkup')"
+	}
+}

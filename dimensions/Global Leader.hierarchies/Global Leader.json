@@ -1,0 +1,227 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Global Leader",
+	"ElementsSortType":"ByHierarchy",
+	"Elements":
+	[
+		{
+			"Name":"All Global Leaders",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Leadership",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Not part of IBM Cloud",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Service Mgmt Infrastructure",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Ali",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cloud Product & Industry Platforms",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Badlaney",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Go to Market",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Geo Sales",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WW Top",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Onboarding & Client Assurance",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Harbour",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Strategic Delivery Management",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"King",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CTO/Common Services",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"McGee",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Security, Risk, and Cloud Economics",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Moskos",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Client Service Delivery",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"San Soucie",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Infrastructure as a Service",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Sethi",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Expert Labs & Solution Engr",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Sneed",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Total Leaders",
+			"Type":"Consolidated"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"All Global Leaders",
+			"ComponentName":"Leadership",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Global Leaders",
+			"ComponentName":"Not part of IBM Cloud",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Global Leaders",
+			"ComponentName":"Service Mgmt Infrastructure",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Global Leaders",
+			"ComponentName":"Cloud Product & Industry Platforms",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Global Leaders",
+			"ComponentName":"Go to Market",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Global Leaders",
+			"ComponentName":"Onboarding & Client Assurance",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Global Leaders",
+			"ComponentName":"Strategic Delivery Management",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Global Leaders",
+			"ComponentName":"CTO/Common Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Global Leaders",
+			"ComponentName":"Security, Risk, and Cloud Economics",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Global Leaders",
+			"ComponentName":"Client Service Delivery",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Global Leaders",
+			"ComponentName":"Infrastructure as a Service",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Global Leaders",
+			"ComponentName":"Expert Labs & Solution Engr",
+			"Weight":1
+		},
+		{
+			"ParentName":"Service Mgmt Infrastructure",
+			"ComponentName":"Ali",
+			"Weight":1
+		},
+		{
+			"ParentName":"Cloud Product & Industry Platforms",
+			"ComponentName":"Badlaney",
+			"Weight":1
+		},
+		{
+			"ParentName":"Go to Market",
+			"ComponentName":"Geo Sales",
+			"Weight":1
+		},
+		{
+			"ParentName":"Go to Market",
+			"ComponentName":"WW Top",
+			"Weight":1
+		},
+		{
+			"ParentName":"Onboarding & Client Assurance",
+			"ComponentName":"Harbour",
+			"Weight":1
+		},
+		{
+			"ParentName":"Strategic Delivery Management",
+			"ComponentName":"King",
+			"Weight":1
+		},
+		{
+			"ParentName":"CTO/Common Services",
+			"ComponentName":"McGee",
+			"Weight":1
+		},
+		{
+			"ParentName":"Security, Risk, and Cloud Economics",
+			"ComponentName":"Moskos",
+			"Weight":1
+		},
+		{
+			"ParentName":"Client Service Delivery",
+			"ComponentName":"San Soucie",
+			"Weight":1
+		},
+		{
+			"ParentName":"Infrastructure as a Service",
+			"ComponentName":"Sethi",
+			"Weight":1
+		},
+		{
+			"ParentName":"Expert Labs & Solution Engr",
+			"ComponentName":"Sneed",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":[]
+}

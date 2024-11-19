@@ -1,0 +1,19 @@
+{
+	"@type":"Dimension",
+	"Name":"Employee_New",
+	"AllLeavesHierarchyName":"Leaves",
+	"Hierarchies@Code.links":
+	[
+		"Employee_New.hierarchies/Employee_New.json",
+		"Employee_New.hierarchies/BP Employee Type.json",
+		"Employee_New.hierarchies/Contractor Company Name.json",
+		"Employee_New.hierarchies/Country Category.json",
+		"Employee_New.hierarchies/DCOps_Srvc_grp.json",
+		"Employee_New.hierarchies/Employee Funding.json",
+		"Employee_New.hierarchies/Employee Type.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Employee_New')/Hierarchies('Employee_New')"
+	}
+}

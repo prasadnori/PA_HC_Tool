@@ -1,0 +1,16 @@
+{
+	"@type":"Subset",
+	"Name":"Last_3_Mon",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Time')/Hierarchies('Time')/Elements('Feb 2024')"
+		},
+		{
+			"@id":"Dimensions('Time')/Hierarchies('Time')/Elements('Mar 2024')"
+		},
+		{
+			"@id":"Dimensions('Time')/Hierarchies('Time')/Elements('Apr 2024')"
+		}
+	]
+}

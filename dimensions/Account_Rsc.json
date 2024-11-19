@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"Account_Rsc",
+	"Hierarchies@Code.links":
+	[
+		"Account_Rsc.hierarchies/Account_Rsc.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Account_Rsc')/Hierarchies('Account_Rsc')"
+	}
+}
