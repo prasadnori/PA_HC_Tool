@@ -1,0 +1,26 @@
+SKIPCHECK;
+
+['Time':'Time':'Q1 2024']=C:['Time':'Mar 2024'];
+['Time':'Time':'Q2 2024']=C:['Time':'Jun 2024'];
+['Time':'Time':'Q3 2024']=C:['Time':'Sep 2024'];
+['Time':'Time':'Q4 2024']=C:['Time':'Oct 2024'];
+['Time':'Time':'2024']=C:['Time':'Oct 2024'];
+
+['Account_Emp':'All Account Emp']=C:['Account_Emp':'Employee Count'];
+
+['Account_Emp':'Employee Count','Time':'Oct 2024']=C:ConsolidatedCountUnique( 3, 'Employee_New', 'Head Count Plan New', 'EXCEL', 'ACTUAL_PRELIM',!Global Leader_New, 'Employee Count', !Geography_New, !Time, !Job Category New, !Department_New, !Entity, !Employee_New, 'MTD');
+['Account_Emp':'Employee Count']=C:ConsolidatedCountUnique( 3, 'Employee_New', 'Head Count Plan New', 'EXCEL', 'ACTUAL',!Global Leader_New, 'Employee Count', !Geography_New, !Time, !Job Category New, !Department_New, !Entity, !Employee_New, 'MTD');
+
+
+# ['Account_Emp':'Employee Count']=C:['Account_Emp':'Employee Count']+1;
+
+# ['Account_Emp':'Employee Count'] = C:IF (DTYPE('Global Leader_New', !Global Leader_New) @= 'C',['Account_Emp':'Employee Count'] + 1,
+#     CONTINUE
+# );
+
+# [Account_Emp:'Account_Emp':'TI Alloc Participant']=C:[Account_Emp:'Account_Emp':'TI Alloc Participant']+1;
+
+# FEEDERS;
+
+# [Account_Emp:'Account_Emp':'TI Alloc Participant']=>[Account_Emp:'Account_Emp':'TI Alloc Participant'];
+

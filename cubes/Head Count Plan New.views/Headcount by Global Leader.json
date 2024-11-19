@@ -1,0 +1,65 @@
+{
+	"@type":"MDXView",
+	"Name":"Headcount by Global Leader",
+	"MDX@Code.link":"Headcount by Global Leader.mdx",
+	"Meta" : 
+	{
+		"Aliases" : 
+		{
+			"[Employee_New].[Employee_New]" : "MEMBER_NAME"
+		},
+		"ContextSets" : 
+		{
+			"[Account_Emp].[Account_Emp]" : 
+			{
+				"Expression" : "{[Account_Emp].[Account_Emp].MEMBERS}"
+			},
+			"[Data Source].[Data Source]" : 
+			{
+				"Expression" : "{[Data Source].[Data Source].MEMBERS}"
+			},
+			"[Department_New].[Department_New]" : 
+			{
+				"Expression" : "{[Department_New].[Department_New].MEMBERS}"
+			},
+			"[Entity].[Entity]" : 
+			{
+				"Expression" : "{[Entity].[Entity].MEMBERS}"
+			},
+			"[Geography_New].[Geography_New]" : 
+			{
+				"Expression" : "{[Geography_New].[Geography_New].MEMBERS}"
+			},
+			"[Job Category New].[Job Category New]" : 
+			{
+				"Expression" : "{[Job Category New].[Job Category New].MEMBERS}"
+			},
+			"[Measures].[Measures]" : 
+			{
+				"Expression" : "{[Measures].[Measures].MEMBERS}"
+			},
+			"[Time].[Time]" : 
+			{
+				"Expression" : "{[Time].[Time].MEMBERS}"
+			},
+			"[Version].[Version]" : 
+			{
+				"Expression" : "{[Version].[Version].MEMBERS}"
+			}
+		},
+		"ExpandAboves" : 
+		{
+			"[Account_Emp].[Account_Emp]" : false,
+			"[Data Source].[Data Source]" : false,
+			"[Department_New].[Department_New]" : false,
+			"[Employee_New].[Employee_New]" : false,
+			"[Entity].[Entity]" : false,
+			"[Geography_New].[Geography_New]" : false,
+			"[Global Leader_New].[Global Leader_New]" : false,
+			"[Job Category New].[Job Category New]" : false,
+			"[Measures].[Measures]" : false,
+			"[Time].[Time]" : false,
+			"[Version].[Version]" : false
+		}
+	}
+}

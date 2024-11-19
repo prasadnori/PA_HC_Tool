@@ -1,0 +1,69 @@
+{
+	"@type":"MDXView",
+	"Name":"Resource Plan",
+	"MDX@Code.link":"Resource Plan.mdx",
+	"Meta" : 
+	{
+		"Aliases" : {},
+		"CalculatedMembers" : 
+		{
+			"[Global Leader_New].[Global Leader_New]" : 
+			[
+				
+				{
+					"Caption" : "Maximum(Selection)",
+					"InsertionPosition" : "AFTER",
+					"MemberID" : "[Global Leader_New].[Global Leader_New].[Maximum(Selection)]"
+				}
+			]
+		},
+		"ContextSets" : 
+		{
+			"[Account_Rsc].[Account_Rsc]" : 
+			{
+				"Expression" : "{[Account_Rsc].[Account_Rsc].MEMBERS}"
+			},
+			"[Data Source].[Data Source]" : 
+			{
+				"Expression" : "{[Data Source].[Data Source].MEMBERS}"
+			},
+			"[Entity].[Entity]" : 
+			{
+				"Expression" : "{[Entity].[Entity].MEMBERS}"
+			},
+			"[Global Leader_New].[Global Leader_New]" : 
+			{
+				"Expression" : "{[Global Leader_New].[Global Leader_New].MEMBERS}"
+			},
+			"[Measures].[Measures]" : 
+			{
+				"Expression" : "{[Measures].[Measures].MEMBERS}"
+			},
+			"[Mission].[Mission]" : 
+			{
+				"Expression" : "{[Mission].[Mission].[Total Mission]}"
+			},
+			"[Version].[Version]" : 
+			{
+				"Expression" : "{[Version].[Version].MEMBERS}"
+			}
+		},
+		"ExpandAboves" : 
+		{
+			"[Account_Rsc].[Account_Rsc]" : false,
+			"[Data Source].[Data Source]" : false,
+			"[Department_New].[Department_New]" : false,
+			"[Employee_New].[Employee_New]" : false,
+			"[Entity].[Entity]" : false,
+			"[Geography_New].[Geography_New]" : false,
+			"[Global Leader_New].[Global Leader_New]" : false,
+			"[Job Category New].[Job Category New]" : false,
+			"[Measures].[Measures]" : false,
+			"[Mission].[Mission]" : false,
+			"[Program].[Program]" : false,
+			"[Time].[Time]" : false,
+			"[UT].[UT]" : false,
+			"[Version].[Version]" : false
+		}
+	}
+}

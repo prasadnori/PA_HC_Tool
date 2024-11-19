@@ -1,0 +1,200 @@
+{
+	"@type":"NativeView",
+	"Name":"Target_}Process - Cube Head Count Plan New Load - 32362",
+	"Columns":
+	[
+		{
+			"Subset":
+			{
+				"@id":"Dimensions('Version')/Hierarchies('Version')/Subsets('Target_}Process - Cube Head Count Plan New Load - 32362')"
+			}
+		}
+	],
+	"Rows":
+	[
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('UT')/Hierarchies('UT')"
+				},
+				"Expression":"TM1SubsetAll([UT])"
+			}
+		}
+	],
+	"Titles":
+	[
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('Account_Rsc')/Hierarchies('Account_Rsc')"
+				},
+				"Expression":"TM1SubsetAll([Account_Rsc])"
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('Account_Rsc')/Hierarchies('Account_Rsc')/Elements('Employee Count')"
+			}
+		},
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('Data Source')/Hierarchies('Data Source')"
+				},
+				"Expression":"TM1SubsetAll([Data Source])"
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('Data Source')/Hierarchies('Data Source')/Elements('MANUAL')"
+			}
+		},
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('Department_New')/Hierarchies('Department_New')"
+				},
+				"Expression":"TM1SubsetAll([Department_New])"
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('Department_New')/Hierarchies('Department_New')/Elements('Total Department')"
+			}
+		},
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('Employee_New')/Hierarchies('Employee_New')"
+				},
+				"Expression":"TM1SubsetAll([Employee_New])"
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('Employee_New')/Hierarchies('Employee_New')/Elements('Total_Employee')"
+			}
+		},
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('Entity')/Hierarchies('Entity')"
+				},
+				"Expression":"TM1SubsetAll([Entity])"
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('Entity')/Hierarchies('Entity')/Elements('All Entity')"
+			}
+		},
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('Geography_New')/Hierarchies('Geography_New')"
+				},
+				"Expression":"TM1SubsetAll([Geography_New])"
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('Geography_New')/Hierarchies('Geography_New')/Elements('Total Geography')"
+			}
+		},
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('Global Leader_New')/Hierarchies('Global Leader_New')"
+				},
+				"Expression":"TM1SubsetAll([Global Leader_New])"
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('Global Leader_New')/Hierarchies('Global Leader_New')/Elements('Total Leaders')"
+			}
+		},
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('Job Category New')/Hierarchies('Job Category New')"
+				},
+				"Expression":"TM1SubsetAll([Job Category New])"
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('Job Category New')/Hierarchies('Job Category New')/Elements('Total Job Category')"
+			}
+		},
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('Measures')/Hierarchies('Measures')"
+				},
+				"Expression":"TM1SubsetAll([Measures])"
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('Measures')/Hierarchies('Measures')/Elements('YTD')"
+			}
+		},
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('Mission')/Hierarchies('Mission')"
+				},
+				"Expression":"TM1SubsetAll([Mission])"
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('Mission')/Hierarchies('Mission')/Elements('Total Mission')"
+			}
+		},
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('Program')/Hierarchies('Program')"
+				},
+				"Expression":"TM1SubsetAll([Program])"
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('Program')/Hierarchies('Program')/Elements('Total Program')"
+			}
+		},
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('Time')/Hierarchies('Time')"
+				},
+				"Expression":"TM1SubsetAll([Time])"
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('Time')/Hierarchies('Time')/Elements('Jan 2023')"
+			}
+		}
+	],
+	"SuppressEmptyColumns":false,
+	"SuppressEmptyRows":false,
+	"FormatString":"0.00"
+}

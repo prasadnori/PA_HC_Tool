@@ -1,0 +1,56 @@
+{
+	"@type":"Cube",
+	"Name":"Head Count Plan New",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('Data Source')"
+		},
+		{
+			"@id":"Dimensions('Version')"
+		},
+		{
+			"@id":"Dimensions('Global Leader_New')"
+		},
+		{
+			"@id":"Dimensions('Account_Emp')"
+		},
+		{
+			"@id":"Dimensions('Geography_New')"
+		},
+		{
+			"@id":"Dimensions('Time')"
+		},
+		{
+			"@id":"Dimensions('Job Category New')"
+		},
+		{
+			"@id":"Dimensions('Department_New')"
+		},
+		{
+			"@id":"Dimensions('Entity')"
+		},
+		{
+			"@id":"Dimensions('Employee_New')"
+		},
+		{
+			"@id":"Dimensions('Measures')"
+		}
+	],
+	"Rules@Code.link":"Head Count Plan New.rules",
+	"MeasuresDimension":
+	{
+		"@id":"Dimensions('Measures')"
+	},
+	"TimeDimension":
+	{
+		"@id":"Dimensions('Time')"
+	},
+	"Views@Code.links":
+	[
+		"Head Count Plan New.views/Headcount by Global Leader.json",
+		"Head Count Plan New.views/Headcount Plan Detail Report.json",
+		"Head Count Plan New.views/Rpt_Dev_Base_View.json",
+		"Head Count Plan New.views/Rpt_Dev_Base_View_Glb_Ldr_Mapping_Bug.json"
+	]
+}

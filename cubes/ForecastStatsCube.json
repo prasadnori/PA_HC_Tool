@@ -1,0 +1,17 @@
+{
+	"@type":"Cube",
+	"Name":"ForecastStatsCube",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('ForecastResultRun')"
+		},
+		{
+			"@id":"Dimensions('ForecastResultTimeseries')"
+		},
+		{
+			"@id":"Dimensions('ForecastResultOutputs')"
+		}
+	],
+	"Views@Code.links":[]
+}

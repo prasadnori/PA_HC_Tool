@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"Default",
-	"Expression":"{[Management].[Management].LEVELS(0).MEMBERS}"
-}

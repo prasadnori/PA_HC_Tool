@@ -1,0 +1,34 @@
+{
+	"@type":"MDXView",
+	"Name":"Headcount Plan Detail Report",
+	"MDX@Code.link":"Headcount Plan Detail Report.mdx",
+	"Meta" : 
+	{
+		"Aliases" : {},
+		"ContextSets" : 
+		{
+			"[Job Category New].[Job Category New]" : 
+			{
+				"Expression" : "{[Job Category New].[Job Category New].MEMBERS}"
+			},
+			"[Measures].[Measures]" : 
+			{
+				"Expression" : "{[Measures].[Measures].MEMBERS}"
+			}
+		},
+		"ExpandAboves" : 
+		{
+			"[Account_Emp].[Account_Emp]" : false,
+			"[Data Source].[Data Source]" : false,
+			"[Department_New].[Department Service Group]" : false,
+			"[Employee_New].[Employee_New]" : false,
+			"[Entity].[Entity]" : false,
+			"[Geography_New].[Geography_New]" : false,
+			"[Global Leader_New].[Global Leader_New]" : false,
+			"[Job Category New].[Job Category New]" : false,
+			"[Measures].[Measures]" : false,
+			"[Time].[Time]" : false,
+			"[Version].[Version]" : false
+		}
+	}
+}

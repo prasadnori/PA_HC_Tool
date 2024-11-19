@@ -1,0 +1,62 @@
+{
+	"@type":"MDXView",
+	"Name":"Rpt_Dev_Base_View_Glb_Ldr_Mapping_Bug",
+	"MDX@Code.link":"Rpt_Dev_Base_View_Glb_Ldr_Mapping_Bug.mdx",
+	"Meta" : 
+	{
+		"Aliases" : {},
+		"ContextSets" : 
+		{
+			"[Data Source].[Data Source]" : 
+			{
+				"Expression" : "{[Data Source].[Data Source].MEMBERS}"
+			},
+			"[Department_New].[Department_New]" : 
+			{
+				"Expression" : "{[Department_New].[Department_New].MEMBERS}"
+			},
+			"[Entity].[Entity]" : 
+			{
+				"Expression" : "{[Entity].[Entity].MEMBERS}"
+			},
+			"[Geography_New].[Geography_New]" : 
+			{
+				"Expression" : "{[Geography_New].[Geography_New].MEMBERS}"
+			},
+			"[Global Leader_New].[Global Leader_New]" : 
+			{
+				"Expression" : "{[Global Leader_New].[Global Leader_New].MEMBERS}"
+			},
+			"[Job Category New].[Job Category New]" : 
+			{
+				"Expression" : "{DRILLUPLEVEL([Job Category New].[Job Category New].MEMBERS , [Job Category New].[Job Category New].[level001])}"
+			},
+			"[Measures].[Measures]" : 
+			{
+				"Expression" : "{[Measures].[Measures].MEMBERS}"
+			},
+			"[Time].[Time]" : 
+			{
+				"Expression" : "{DRILLDOWNMEMBER({[Time].[Time].[2024]} , {[Time].[Time].[2024],[Time].[Time].[Q2 2024]} , RECURSIVE)}"
+			},
+			"[Version].[Version]" : 
+			{
+				"Expression" : "{[Version].[Version].MEMBERS}"
+			}
+		},
+		"ExpandAboves" : 
+		{
+			"[Account_Emp].[Account_Emp]" : false,
+			"[Data Source].[Data Source]" : false,
+			"[Department_New].[Department_New]" : false,
+			"[Employee_New].[Employee_New]" : false,
+			"[Entity].[Entity]" : false,
+			"[Geography_New].[Geography_New]" : false,
+			"[Global Leader_New].[Global Leader_New]" : false,
+			"[Job Category New].[Job Category New]" : false,
+			"[Measures].[Measures]" : false,
+			"[Time].[Time]" : false,
+			"[Version].[Version]" : false
+		}
+	}
+}

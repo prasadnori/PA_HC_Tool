@@ -1,0 +1,67 @@
+{
+	"@type":"Cube",
+	"Name":"Resource Plan",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('Account_Rsc')"
+		},
+		{
+			"@id":"Dimensions('Data Source')"
+		},
+		{
+			"@id":"Dimensions('Department_New')"
+		},
+		{
+			"@id":"Dimensions('Employee_New')"
+		},
+		{
+			"@id":"Dimensions('Entity')"
+		},
+		{
+			"@id":"Dimensions('Geography_New')"
+		},
+		{
+			"@id":"Dimensions('Global Leader_New')"
+		},
+		{
+			"@id":"Dimensions('Job Category New')"
+		},
+		{
+			"@id":"Dimensions('Measures')"
+		},
+		{
+			"@id":"Dimensions('Mission')"
+		},
+		{
+			"@id":"Dimensions('Program')"
+		},
+		{
+			"@id":"Dimensions('Time')"
+		},
+		{
+			"@id":"Dimensions('UT')"
+		},
+		{
+			"@id":"Dimensions('Version')"
+		}
+	],
+	"MeasuresDimension":
+	{
+		"@id":"Dimensions('Measures')"
+	},
+	"TimeDimension":
+	{
+		"@id":"Dimensions('Time')"
+	},
+	"Views@Code.links":
+	[
+		"Resource Plan.views/Source_}Process - Cube Head Count Plan New Load - 25729.json",
+		"Resource Plan.views/Source_}Process - Cube Head Count Plan New Load - 32362.json",
+		"Resource Plan.views/Source_}Process - Cube Head Count Plan New Load - 85656.json",
+		"Resource Plan.views/Target_}Process - Cube Head Count Plan New Load - 25729.json",
+		"Resource Plan.views/Target_}Process - Cube Head Count Plan New Load - 32362.json",
+		"Resource Plan.views/Target_}Process - Cube Head Count Plan New Load - 85656.json",
+		"Resource Plan.views/Resource Plan.json"
+	]
+}

@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"SubK",
-	"Expression":"{FILTER({DRILLDOWNMEMBER({[Employee].[Employee].[Total_Employee]} , {[Employee].[Employee].[Total_Employee]} , RECURSIVE)}, (INSTR(1, [Employee].[Employee].CURRENTMEMBER.PROPERTIES(\"Emp Type\"), \"SubK\", 1) >= 1))}"
-}

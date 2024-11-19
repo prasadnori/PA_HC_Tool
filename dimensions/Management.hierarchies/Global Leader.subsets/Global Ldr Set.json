@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"Global Ldr Set",
-	"Expression":"{{[Management].[Global Leader].levels(2).MEMBERS}}"
-}
